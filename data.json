@@ -266,6 +266,19 @@
    "status": "Played"
   },
   {
+   "id": "6-1-4710714",
+   "week": 6,
+   "teamId": 1,
+   "team": "May I Take Your Hat Sir",
+   "owner": "Adam Wernoch",
+   "player": "De'Zhaun Stribling",
+   "slot": "WR",
+   "nfl": "SF",
+   "points": 0.0,
+   "gameId": "401873008",
+   "status": "Inactive"
+  },
+  {
    "id": "6-13-4696981",
    "week": 6,
    "teamId": 13,
@@ -305,22 +318,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "6-1-4710714",
-   "week": 6,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "De'Zhaun Stribling",
-   "slot": "WR",
-   "nfl": "SF",
-   "points": 0.0,
-   "gameId": "401873008",
-   "game": "WSH @ SF",
-   "clock": "0:06 - 4th",
-   "quarter": 4
-  }
- ],
- "updated": "2026-10-20T03:21:46Z"
+ "live": [],
+ "updated": "2026-10-20T03:41:12Z"
 }
