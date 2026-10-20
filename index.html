@@ -39,6 +39,7 @@ h2{font:700 1.35rem/1.1 var(--display);margin:0;letter-spacing:.02em}
 .take{margin:0;color:var(--muted);max-width:62ch}
 .stamp{font-size:.82rem;color:var(--muted);margin-top:6px}
 .stamp b{color:var(--fg);font-weight:600}
+.refresh{font-size:.78rem;padding:3px 10px;margin-left:6px;vertical-align:1px}
 .tabs{display:flex;gap:4px;border-bottom:1px solid var(--line)}
 .tab{font:700 1.15rem/1 var(--display);letter-spacing:.03em;background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);padding:10px 14px 9px;cursor:pointer}
 .tab[aria-selected="true"]{color:var(--fg);border-bottom-color:var(--ice)}
@@ -109,6 +110,13 @@ details summary{cursor:pointer;font:700 1.35rem/1.1 var(--display);letter-spacin
 .btnlink{display:inline-block;font-weight:600;font-size:.9rem;border-radius:8px;padding:7px 14px;border:1px solid var(--line);background:var(--panel);color:var(--fg);text-decoration:none}
 .btnlink.primary{background:var(--ice);border-color:var(--ice);color:#fff}
 code.topic{font-size:.9rem;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:3px 8px;user-select:all;overflow-wrap:anywhere}
+.install{position:fixed;left:0;right:0;bottom:0;z-index:20;padding:12px max(16px,env(safe-area-inset-right)) calc(12px + env(safe-area-inset-bottom)) max(16px,env(safe-area-inset-left));background:var(--panel);border-top:1px solid var(--line);box-shadow:0 -6px 24px rgba(0,0,0,.18);display:flex;align-items:center;gap:12px}
+.install img{width:44px;height:44px;border-radius:10px;flex:none}
+.install .txt{flex:1;min-width:0;font-size:.9rem}
+.install .txt b{display:block;font-size:1rem}
+.install .share{display:inline-block;width:1.05em;height:1.05em;vertical-align:-.15em}
+.install .x{background:none;border:0;font-size:1.4rem;line-height:1;color:var(--muted);padding:4px 6px}
+body.has-install{padding-bottom:96px}
 .rules{font-size:.82rem;color:var(--muted);margin:0;max-width:72ch}
 .err{color:var(--bad)}
 @media (max-width:560px){.hide-sm{display:none}}
@@ -121,7 +129,7 @@ code.topic{font-size:.9rem;background:var(--bg);border:1px solid var(--line);bor
     <div class="eyebrow">Fordham Fantasy 16 · 2026 season</div>
     <h1><svg class="bottle" viewBox="0 0 12 30" aria-hidden="true"><rect x="4" y="0" width="4" height="3" rx=".6" class="cap"/><path class="glass" d="M4.5 3h3v5c0 2 2.5 3 2.5 6v13a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2V14c0-3 2.5-4 2.5-6z"/><rect x="2" y="16" width="8" height="7" class="label"/></svg>Ice Watch</h1>
     <p class="take" id="take">Loading the latest Ices…</p>
-    <div class="stamp" id="stamp"></div>
+    <div class="stamp"><span id="stamp"></span> <button class="refresh" id="refresh" aria-label="Refresh">&#8635; Refresh</button></div>
    </div>
    <button class="alertbtn" id="alerts-open" aria-expanded="false" aria-controls="alerts">&#128276; Get alerts</button>
   </header>
@@ -237,6 +245,12 @@ code.topic{font-size:.9rem;background:var(--bg);border:1px solid var(--line);bor
   <p class="rules">Ice Watch counts starting QB, RB, WR, TE, FLEX and K when the game is final and the score is 0.00 or less in ESPN scoring. D/ST, bench and IR never count. An inactive starter counts, since he scores 0. This page checks for new data every 5 minutes.</p>
 </main>
 
+<div class="install" id="install" hidden role="dialog" aria-label="Add Ice Watch to your home screen">
+  <img src="apple-touch-icon.png" alt="">
+  <div class="txt" id="install-txt"><b>Get the Ice Watch app</b><span id="install-how"></span></div>
+  <button class="primary" id="install-go" hidden>Install</button>
+  <button class="x" id="install-x" aria-label="Dismiss">&times;</button>
+</div>
 <script>
 (() => {
   const REPO = 'pammaturo/ice-watch-alerts';
@@ -298,6 +312,37 @@ code.topic{font-size:.9rem;background:var(--bg);border:1px solid var(--line);bor
   }
   if (location.hash === '#alerts') { $('alerts').hidden = false; $('alerts-open').setAttribute('aria-expanded', 'true'); }
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+
+  // ---------- add-to-home-screen prompt ----------
+  (() => {
+    const standalone = window.matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+    let dismissed = false; try { dismissed = localStorage.getItem('icewatch-install-dismissed') === '1'; } catch (e) {}
+    if (standalone || dismissed) return;
+    const show = () => { $('install').hidden = false; document.body.classList.add('has-install'); };
+    const hide = () => { $('install').hidden = true; document.body.classList.remove('has-install'); try { localStorage.setItem('icewatch-install-dismissed', '1'); } catch (e) {} };
+    $('install-x').addEventListener('click', hide);
+    const ios = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+    if (ios) {
+      const safari = /Safari/.test(navigator.userAgent) && !/CriOS|FxiOS|EdgiOS|GSA|Instagram|FBAN|FBAV/.test(navigator.userAgent);
+      $('install-how').innerHTML = safari
+        ? 'Tap <svg class="share" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="Share"><path d="M12 3v12"/><path d="M8 7l4-4 4 4"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg> Share, then <b style="display:inline">Add to Home Screen</b>.'
+        : 'Open this link in <b style="display:inline">Safari</b>, then tap Share \u2192 Add to Home Screen.';
+      setTimeout(show, 1500);
+    } else {
+      let deferred = null;
+      window.addEventListener('beforeinstallprompt', (e) => {
+        e.preventDefault(); deferred = e;
+        $('install-how').textContent = 'Add it to your home screen in one tap.';
+        $('install-go').hidden = false; show();
+      });
+      $('install-go').addEventListener('click', async () => {
+        if (!deferred) return; deferred.prompt();
+        try { await deferred.userChoice; } catch (e) {}
+        deferred = null; hide();
+      });
+      window.addEventListener('appinstalled', hide);
+    }
+  })();
 
   // ---------- tabs ----------
   function showTab(name) {
@@ -475,6 +520,12 @@ code.topic{font-size:.9rem;background:var(--bg);border:1px solid var(--line);bor
       if (!openForm && !saving) render();
     } catch (e) { if (!data) { $('take').textContent = "Couldn't load the Ice log. Refresh to try again."; $('take').classList.add('err'); } }
   }
+  $('refresh').addEventListener('click', async () => {
+    const b = $('refresh'); if (b.disabled) return;
+    b.disabled = true; b.textContent = 'Refreshing…';
+    await load();
+    b.textContent = 'Up to date'; setTimeout(() => { b.textContent = '\u21bb Refresh'; b.disabled = false; }, 1500);
+  });
   $('search').addEventListener('input', (e) => { query = e.target.value.trim().toLowerCase(); renderWatch(); });
   load();
   setInterval(load, 5 * 60 * 1000);
