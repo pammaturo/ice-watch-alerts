@@ -160,7 +160,7 @@ details summary{cursor:pointer;font:700 1.35rem/1.1 var(--display);letter-spacin
     </section>
     <section class="card alert">
       <h2>Overdue</h2>
-      <p class="note">Missed at least one deadline. Each missed week doubles the penalty: −2, −4, −8…</p>
+      <p class="note">Missed at least one deadline. The penalty doubles each week it stays undone: −2, then −4, −8…</p>
       <div class="list" id="list-over"><div class="empty">Loading…</div></div>
     </section>
     <section class="card">
@@ -170,7 +170,7 @@ details summary{cursor:pointer;font:700 1.35rem/1.1 var(--display);letter-spacin
     </section>
     <section class="card">
       <h2>Team standings</h2>
-      <p class="note">Penalty points are a running total. Doing an Ice late stops new penalties but doesn't refund old ones.</p>
+      <p class="note">Each overdue Ice counts its latest penalty. Doing an Ice late freezes its penalty where it is.</p>
       <div class="scroll"><table>
         <thead><tr><th>Team</th><th class="hide-sm">Owner</th><th class="num-c">Owed</th><th class="num-c">Overdue</th><th class="num-c">Done</th><th class="num-c">Penalty</th></tr></thead>
         <tbody id="stand-body"></tbody>
@@ -179,7 +179,7 @@ details summary{cursor:pointer;font:700 1.35rem/1.1 var(--display);letter-spacin
     <section class="card">
       <details><summary>Done</summary><div class="list" id="list-done" style="margin-top:12px"></div></details>
     </section>
-    <p class="rules">Deadlines: an Ice is due by the start of the 3rd quarter of the following week's Monday night game, counted as 9:45 PM Eastern. Each missed deadline costs the team points, doubling every week (−2, −4, −8 and so on), added up.</p>
+    <p class="rules">Deadlines: an Ice is due by the start of the 3rd quarter of the following week's Monday night game, counted as 9:45 PM Eastern. The first missed deadline costs the team 2 points, and the penalty doubles for each week the Ice stays undone (−2, then −4, −8 and so on). Only the latest penalty counts, and doing the Ice late freezes it.</p>
     <section class="admin" id="admin">
       <div id="admin-out"><button class="linkbtn" id="admin-open">Commissioner sign-in</button></div>
       <div id="admin-form" hidden>
@@ -218,7 +218,7 @@ details summary{cursor:pointer;font:700 1.35rem/1.1 var(--display);letter-spacin
     const end = done ? (st.doneAt ? new Date(st.doneAt) : null) : now;
     let missed = 0;
     if (end) while (ice.week + 1 + missed <= 18 && deadline(ice.week + 1 + missed) < end) missed++;
-    return { done, doneAt: st && st.doneAt, missed, penalty: missed ? Math.pow(2, missed + 1) - 2 : 0,
+    return { done, doneAt: st && st.doneAt, missed, penalty: missed ? Math.pow(2, missed) : 0,
              next: done ? null : deadline(ice.week + 1 + missed), nextCost: Math.pow(2, missed + 1) };
   }
   const fmtDay = (d) => d.toLocaleString('en-US', { timeZone: 'America/New_York', weekday: 'short', month: 'short', day: 'numeric' });
@@ -307,10 +307,10 @@ details summary{cursor:pointer;font:700 1.35rem/1.1 var(--display);letter-spacin
     const chips = el('div', 'chips');
     if (a.done) { chips.append(el('span', 'chip done', a.doneAt ? 'Done ' + fmtFull(new Date(a.doneAt)) : 'Done'));
       if (a.missed) chips.append(el('span', 'chip over', `Late: missed ${a.missed} deadline${a.missed > 1 ? 's' : ''}`)); }
-    else if (a.missed) chips.append(el('span', 'chip over', `Missed ${a.missed} deadline${a.missed > 1 ? 's' : ''}`), el('span', 'chip owed', `Next: −${a.nextCost} if not done by ${fmtFull(a.next)}`));
+    else if (a.missed) chips.append(el('span', 'chip over', `Missed ${a.missed} deadline${a.missed > 1 ? 's' : ''}`), el('span', 'chip owed', `Goes to −${a.nextCost} if not done by ${fmtFull(a.next)}`));
     else chips.append(el('span', 'chip owed', `Due ${fmtFull(a.next)}`));
     main.append(chips); box.append(main);
-    if (a.penalty) { const p = el('div', 'pen', '−' + a.penalty); p.append(el('small', null, 'pts so far')); box.append(p); }
+    if (a.penalty) { const p = el('div', 'pen', '−' + a.penalty); p.append(el('small', null, 'penalty')); box.append(p); }
     if (admin) {
       if (a.done) { const b = el('button', null, 'Undo'); b.disabled = saving; b.addEventListener('click', () => saveStatus(ice.id, null)); box.append(b); }
       else if (openForm === ice.id) {
