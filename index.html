@@ -5,6 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Ice Watch</title>
 <meta name="description" content="Fordham Fantasy 16: every starter who finished at 0 or below, who owes an Ice, and the penalties. Updated every 5 minutes during games.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" href="icon-192.png">
+<meta name="theme-color" content="#123460">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Ice Watch">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
@@ -91,6 +98,16 @@ details summary{cursor:pointer;font:700 1.35rem/1.1 var(--display);letter-spacin
 .admin .row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
 .admin input{flex:1 1 16rem;min-width:0}
 .linkbtn{background:none;border:0;padding:0;color:var(--muted);text-decoration:underline;font-weight:500;font-size:.85rem}
+.headrow{display:flex;flex-wrap:wrap;align-items:flex-start;justify-content:space-between;gap:12px}
+.headrow>div{min-width:0}
+.alertbtn{background:var(--ice);border-color:var(--ice);color:#fff;display:inline-flex;align-items:center;gap:6px;margin-top:6px}
+.alerts{border-color:var(--ice)}
+.steps{margin:0;padding-left:1.2em;display:flex;flex-direction:column;gap:10px;font-size:.95rem}
+.steps li::marker{font-weight:700;color:var(--ice)}
+.btnrow{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+.btnlink{display:inline-block;font-weight:600;font-size:.9rem;border-radius:8px;padding:7px 14px;border:1px solid var(--line);background:var(--panel);color:var(--fg);text-decoration:none}
+.btnlink.primary{background:var(--ice);border-color:var(--ice);color:#fff}
+code.topic{font-size:.9rem;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:3px 8px;user-select:all;overflow-wrap:anywhere}
 .rules{font-size:.82rem;color:var(--muted);margin:0;max-width:72ch}
 .err{color:var(--bad)}
 @media (max-width:560px){.hide-sm{display:none}}
@@ -98,12 +115,38 @@ details summary{cursor:pointer;font:700 1.35rem/1.1 var(--display);letter-spacin
 </head>
 <body>
 <main class="wrap">
-  <header>
+  <header class="headrow">
+   <div>
     <div class="eyebrow">Fordham Fantasy 16 · 2026 season</div>
     <h1><svg class="bottle" viewBox="0 0 12 30" aria-hidden="true"><rect x="4" y="0" width="4" height="3" rx=".6" class="cap"/><path class="glass" d="M4.5 3h3v5c0 2 2.5 3 2.5 6v13a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2V14c0-3 2.5-4 2.5-6z"/><rect x="2" y="16" width="8" height="7" class="label"/></svg>Ice Watch</h1>
     <p class="take" id="take">Loading the latest Ices…</p>
     <div class="stamp" id="stamp"></div>
+   </div>
+   <button class="alertbtn" id="alerts-open" aria-expanded="false" aria-controls="alerts">&#128276; Get alerts</button>
   </header>
+
+  <section class="card alerts" id="alerts" hidden>
+    <h2>Get Ice Watch alerts</h2>
+    <p class="note">Free push alerts on your phone: "Thin ice" heading into the 4th quarter, "ICED" at the final whistle, and "Off thin ice" when someone scores.</p>
+    <ol class="steps">
+      <li>Install the free <b>ntfy</b> app.
+        <div class="btnrow">
+          <a class="btnlink" href="https://apps.apple.com/us/app/ntfy/id1625396347" target="_blank" rel="noopener">iPhone: App Store</a>
+          <a class="btnlink" href="https://play.google.com/store/apps/details?id=io.heckel.ntfy" target="_blank" rel="noopener">Android: Google Play</a>
+        </div>
+      </li>
+      <li>Subscribe to the league channel. Tap the button, or in ntfy tap <b>+</b> and enter the channel name.
+        <div class="btnrow">
+          <a class="btnlink primary" id="ntfy-open" href="ntfy://ntfy.sh/fordham16-icewatch-4cd9a2">Open in ntfy</a>
+          <button id="topic-copy">Copy channel name</button>
+        </div>
+        <div style="margin-top:8px"><code class="topic" id="topic">fordham16-icewatch-4cd9a2</code></div>
+      </li>
+      <li>Allow notifications when ntfy asks. That's it.</li>
+    </ol>
+    <p class="note">Tip: add this page to your home screen too. iPhone: Safari → Share → <b>Add to Home Screen</b>. Android: Chrome → ⋮ → <b>Install app</b>.</p>
+    <p class="note">Keep the channel name inside the league. Anyone who has it gets the alerts.</p>
+  </section>
 
   <nav class="tabs" role="tablist">
     <button class="tab" role="tab" id="tab-watch" aria-selected="true" aria-controls="view-watch">Ice Watch</button>
@@ -233,6 +276,21 @@ details summary{cursor:pointer;font:700 1.35rem/1.1 var(--display);letter-spacin
     return fmtFull(new Date(iso));
   }
   function banner(msg, ok) { const b = $('banner'); b.hidden = !msg; b.textContent = msg || ''; b.className = 'banner' + (ok ? ' ok' : ''); }
+
+  // ---------- get alerts ----------
+  $('alerts-open').addEventListener('click', () => {
+    const open = $('alerts').hidden; $('alerts').hidden = !open;
+    $('alerts-open').setAttribute('aria-expanded', String(open));
+    if (open) $('alerts').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  });
+  $('topic-copy').addEventListener('click', async () => {
+    const t = $('topic').textContent;
+    try { await navigator.clipboard.writeText(t); $('topic-copy').textContent = 'Copied'; }
+    catch (e) { const r = document.createRange(); r.selectNodeContents($('topic')); const sel = getSelection(); sel.removeAllRanges(); sel.addRange(r); $('topic-copy').textContent = 'Selected, tap Copy'; }
+    setTimeout(() => { $('topic-copy').textContent = 'Copy channel name'; }, 2500);
+  });
+  if (location.hash === '#alerts') { $('alerts').hidden = false; $('alerts-open').setAttribute('aria-expanded', 'true'); }
+  if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 
   // ---------- tabs ----------
   function showTab(name) {

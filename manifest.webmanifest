@@ -1,0 +1,14 @@
+{
+  "name": "Ice Watch — Fordham Fantasy 16",
+  "short_name": "Ice Watch",
+  "description": "Who got iced, who owes an Ice, and the penalties.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c131c",
+  "theme_color": "#123460",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
