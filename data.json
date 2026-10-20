@@ -93,8 +93,21 @@
    "slot": "TE",
    "nfl": "CHI",
    "points": 0.0,
-   "status": "Played",
-   "gameId": "401872661"
+   "gameId": "401872661",
+   "status": "Played"
+  },
+  {
+   "id": "1-14-empty-DST-1",
+   "week": 1,
+   "teamId": 14,
+   "team": "Team Egg",
+   "owner": "Thomas Egg",
+   "player": "Empty D/ST slot",
+   "slot": "D/ST",
+   "nfl": "\u2014",
+   "points": 0.0,
+   "gameId": "",
+   "status": "Empty slot"
   },
   {
    "id": "1-4-3917315",
@@ -106,8 +119,8 @@
    "slot": "QB",
    "nfl": "MIN",
    "points": -0.38,
-   "status": "Played",
-   "gameId": "401872927"
+   "gameId": "401872927",
+   "status": "Played"
   },
   {
    "id": "1-8-4360248",
@@ -119,8 +132,8 @@
    "slot": "TE",
    "nfl": "ATL",
    "points": 0.0,
-   "status": "Played",
-   "gameId": "401872658"
+   "gameId": "401872658",
+   "status": "Played"
   },
   {
    "id": "2-1-3915416",
@@ -132,8 +145,8 @@
    "slot": "WR",
    "nfl": "BUF",
    "points": -0.1,
-   "status": "Played",
-   "gameId": "401872932"
+   "gameId": "401872932",
+   "status": "Played"
   },
   {
    "id": "2-10-4432708",
@@ -143,10 +156,23 @@
    "owner": "Daniel Kelly",
    "player": "Marvin Harrison Jr.",
    "slot": "FLEX",
-   "nfl": "HOU",
+   "nfl": "ARI",
    "points": 0.0,
-   "status": "Played",
-   "gameId": "401872943"
+   "gameId": "401872943",
+   "status": "Played"
+  },
+  {
+   "id": "2-2-empty-DST-1",
+   "week": 2,
+   "teamId": 2,
+   "team": "LEBRON RAYMONE JAMES SR.",
+   "owner": "Matt Reddy",
+   "player": "Empty D/ST slot",
+   "slot": "D/ST",
+   "nfl": "\u2014",
+   "points": 0.0,
+   "gameId": "",
+   "status": "Empty slot"
   },
   {
    "id": "2-7-4685415",
@@ -158,8 +184,8 @@
    "slot": "WR",
    "nfl": "JAX",
    "points": 0.0,
-   "status": "Played",
-   "gameId": "401872940"
+   "gameId": "401872940",
+   "status": "Played"
   },
   {
    "id": "4-10-3121422",
@@ -171,8 +197,8 @@
    "slot": "WR",
    "nfl": "WSH",
    "points": 0.0,
-   "status": "Inactive",
-   "gameId": "401872965"
+   "gameId": "401872965",
+   "status": "Inactive"
   },
   {
    "id": "4-15-4612826",
@@ -184,8 +210,8 @@
    "slot": "WR",
    "nfl": "LAC",
    "points": 0.0,
-   "status": "Played",
-   "gameId": "401872977"
+   "gameId": "401872977",
+   "status": "Played"
   },
   {
    "id": "4-2-4428331",
@@ -197,8 +223,8 @@
    "slot": "WR",
    "nfl": "KC",
    "points": 0.0,
-   "status": "Played",
-   "gameId": "401872976"
+   "gameId": "401872976",
+   "status": "Played"
   },
   {
    "id": "4-9-15818",
@@ -210,8 +236,8 @@
    "slot": "WR",
    "nfl": "IND",
    "points": 0.0,
-   "status": "Inactive",
-   "gameId": "401872965"
+   "gameId": "401872965",
+   "status": "Inactive"
   },
   {
    "id": "5-13-17427",
@@ -238,6 +264,19 @@
    "points": 0.0,
    "gameId": "401872991",
    "status": "Played"
+  },
+  {
+   "id": "5-3-empty-FLEX-1",
+   "week": 5,
+   "teamId": 3,
+   "team": "The Ball $acks",
+   "owner": "Patrick Ammaturo",
+   "player": "Empty FLEX slot",
+   "slot": "FLEX",
+   "nfl": "\u2014",
+   "points": 0.0,
+   "gameId": "",
+   "status": "Empty slot"
   },
   {
    "id": "5-7-4429676",
@@ -319,5 +358,5 @@
   }
  ],
  "live": [],
- "updated": "2026-10-20T03:41:12Z"
+ "updated": "2026-10-20T05:14:55Z"
 }

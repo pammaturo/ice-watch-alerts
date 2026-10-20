@@ -6,6 +6,8 @@ Runs every 5 minutes during NFL games (GitHub Actions). Each run:
        THIN ICE: a starter is at 0 or below and his game has reached the 4th quarter
        ICED:     a starter's game is final and he finished at 0 or below
        OFF THIN ICE: a starter who got a thin-ice alert gets above 0
+  An empty starting slot (D/ST included) or a starter on a bye week is also an Ice,
+  logged once all of that week's games are final.
 Counts QB, RB, WR, TE, FLEX and K starters. D/ST, bench and IR never count.
 Each alert goes out once per player per week (remembered in state.json).
 """
@@ -22,7 +24,8 @@ TRACKER_URL = os.environ.get("TRACKER_URL", "")
 
 LEAGUE = f"https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/{SEASON}/segments/0/leagues/{LEAGUE_ID}"
 SB = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?seasontype=2&week={w}&dates=" + SEASON
-SLOTS = {0: "QB", 2: "RB", 4: "WR", 6: "TE", 23: "FLEX", 17: "K"}
+SLOTS = {0: "QB", 2: "RB", 4: "WR", 6: "TE", 23: "FLEX", 17: "K"}  # starters whose score counts
+ALL_SLOTS = {**SLOTS, 16: "D/ST"}  # every starting slot, for empty-slot checks
 
 
 def get(url):
@@ -59,62 +62,99 @@ def main():
     sent = set(state["sent"])
     data = load(DATA_FILE, {"ice": [], "teams": [], "live": []})
 
-    info = get(LEAGUE + "?view=mStatus&view=mTeam")
+    info = get(LEAGUE + "?view=mStatus&view=mTeam&view=mSettings")
     latest = info["status"]["latestScoringPeriod"]
     members = {m["id"]: cap(f"{m.get('firstName', '')} {m.get('lastName', '')}".strip()) for m in info.get("members", [])}
     teams = [{"teamId": t["id"], "team": (t.get("name") or f"{t.get('location', '')} {t.get('nickname', '')}").strip(),
               "owner": " & ".join(members.get(o, "") for o in t.get("owners", []))} for t in info["teams"]]
     tmap = {t["teamId"]: t for t in teams}
+    # How many of each starting slot a lineup has (D/ST included, for empty-slot checks)
+    slot_counts = {int(k): v for k, v in info["settings"]["rosterSettings"]["lineupSlotCounts"].items()
+                   if v and int(k) in ALL_SLOTS}
 
-    weeks = [w for w in (latest - 1, latest) if w >= 1]  # last week too, for stat corrections
+    if os.environ.get("WEEKS"):  # e.g. WEEKS=1-6 to rebuild the whole season
+        a, b = os.environ["WEEKS"].split("-")
+        weeks = list(range(int(a), int(b) + 1))
+    else:
+        weeks = [w for w in (latest - 1, latest) if w >= 1]  # last week too, for stat corrections
     fresh, live = [], []
+
+    def ice_alert(w, key, title, body, tags):
+        if w == latest and key not in sent:
+            push(title, body, tags)
+            sent.add(key)
+
     for w in weeks:
-        games = {}
+        games, by_id = {}, {}
         for ev in get(SB.format(w=w)).get("events", []):
             st = ev["status"]
             g = {"final": st["type"]["completed"], "period": st.get("period", 0), "id": str(ev["id"]),
-                 "name": ev["shortName"], "clock": st["type"].get("shortDetail", "")}
+                 "name": ev["shortName"], "clock": st["type"].get("shortDetail", ""), "abbr": {}}
             for c in ev["competitions"][0]["competitors"]:
-                games[int(c["team"]["id"])] = {**g, "abbr": c["team"]["abbreviation"]}
+                g["abbr"][int(c["team"]["id"])] = c["team"]["abbreviation"]
+                games[int(c["team"]["id"])] = g
+            by_id[g["id"]] = g
+        week_done = bool(by_id) and all(g["final"] for g in by_id.values())
+
         for t in get(LEAGUE + f"?view=mRoster&scoringPeriodId={w}")["teams"]:
+            tm = tmap[t["id"]]
+            filled = {}
             for e in t["roster"]["entries"]:
                 slot = e["lineupSlotId"]
+                if slot in ALL_SLOTS:
+                    filled[slot] = filled.get(slot, 0) + 1
                 if slot not in SLOTS:
-                    continue
+                    continue  # bench, IR, and filled D/ST never count
                 p = e["playerPoolEntry"]["player"]
-                g = games.get(p.get("proTeamId"))
-                if not g or (not g["final"] and g["period"] < 1):
-                    continue  # bye week or game not started
                 s = next((s for s in p.get("stats", []) if s.get("scoringPeriodId") == w
                           and s.get("statSourceId") == 0 and s.get("statSplitTypeId") == 1), None)
+                # Find his game from that week's box score first (handles players who changed teams)
+                g = by_id.get(str(s.get("externalId"))) if s and s.get("externalId") else None
+                pro = (s or {}).get("proTeamId") or p.get("proTeamId")  # his team that week
+                g = g or games.get(pro)
                 pts = round(s["appliedTotal"], 2) if s else 0.0
-                tm = tmap[t["id"]]
-                if pts > 0:
-                    # Was flagged on thin ice, now above 0: send an all-clear once
-                    thin, safe = f"thin-{w}-{t['id']}-{p['id']}", f"safe-{w}-{t['id']}-{p['id']}"
-                    if w == latest and thin in sent and safe not in sent:
-                        push("Off thin ice", f"{p['fullName']} ({SLOTS[slot]}, {tm['team']}) is off Ice Watch with "
-                             f"{pts:.2f} pts. {g['name']}, {g['clock']}", "white_check_mark")
-                        sent.add(safe)
-                    continue
-                row = {"id": f"{w}-{t['id']}-{p['id']}", "week": w, "teamId": t["id"], "team": tm["team"],
-                       "owner": tm["owner"], "player": p["fullName"], "slot": SLOTS[slot], "nfl": g["abbr"],
-                       "points": float(pts), "gameId": g["id"]}
                 who = f"{p['fullName']} ({SLOTS[slot]}, {tm['team']})"
+                base = {"id": f"{w}-{t['id']}-{p['id']}", "week": w, "teamId": t["id"], "team": tm["team"],
+                        "owner": tm["owner"], "player": p["fullName"], "slot": SLOTS[slot]}
+                if not g:
+                    # Starter with no game this week (bye): 0 points once the week is over
+                    if week_done and pts <= 0:
+                        fresh.append({**base, "nfl": "BYE", "points": float(pts), "gameId": "", "status": "Bye week"})
+                        ice_alert(w, f"iced-{w}-{t['id']}-{p['id']}", "ICED",
+                                  f"{who} was started on a bye week: 0.00 pts, Week {w}", "tumbler_glass")
+                    continue
+                if not g["final"] and g["period"] < 1:
+                    continue  # game not started
+                if pts > 0:
+                    thin, safe = f"thin-{w}-{t['id']}-{p['id']}", f"safe-{w}-{t['id']}-{p['id']}"
+                    if thin in sent:
+                        ice_alert(w, safe, "Off thin ice", f"{who} is off Ice Watch with {pts:.2f} pts. "
+                                  f"{g['name']}, {g['clock']}", "white_check_mark")
+                    continue
+                row = {**base, "nfl": g["abbr"].get(pro, ""),
+                       "points": float(pts), "gameId": g["id"]}
                 if g["final"]:
                     row["status"] = "Played" if s and "210" in s.get("stats", {}) else "Inactive"
                     fresh.append(row)
-                    key = f"iced-{w}-{t['id']}-{p['id']}"
-                    if w == latest and key not in sent:
-                        push("ICED", f"{who} finished with {pts:.2f} pts. {g['name']}, Week {w}", "tumbler_glass")
-                        sent.add(key)
+                    ice_alert(w, f"iced-{w}-{t['id']}-{p['id']}", "ICED",
+                              f"{who} finished with {pts:.2f} pts. {g['name']}, Week {w}", "tumbler_glass")
                 elif w == latest:
                     row.update({"game": g["name"], "clock": g["clock"], "quarter": g["period"]})
                     live.append(row)
-                    key = f"thin-{w}-{t['id']}-{p['id']}"
-                    if g["period"] >= 4 and key not in sent:
-                        push("Thin ice", f"{who} has {pts:.2f} pts heading into the 4th. {g['name']}, {g['clock']}", "warning")
-                        sent.add(key)
+                    if g["period"] >= 4:
+                        ice_alert(w, f"thin-{w}-{t['id']}-{p['id']}", "Thin ice",
+                                  f"{who} has {pts:.2f} pts heading into the 4th. {g['name']}, {g['clock']}", "warning")
+
+            # Empty starting slots (D/ST included) count once the week's games are all final
+            if week_done:
+                for slot, need in slot_counts.items():
+                    for k in range(filled.get(slot, 0), need):
+                        rid = f"{w}-{t['id']}-empty-{ALL_SLOTS[slot].replace('/', '')}-{k + 1}"
+                        fresh.append({"id": rid, "week": w, "teamId": t["id"], "team": tm["team"], "owner": tm["owner"],
+                                      "player": f"Empty {ALL_SLOTS[slot]} slot", "slot": ALL_SLOTS[slot], "nfl": "—",
+                                      "points": 0.0, "gameId": "", "status": "Empty slot"})
+                        ice_alert(w, "iced-" + rid, "ICED",
+                                  f"{tm['team']} left a {ALL_SLOTS[slot]} slot empty in Week {w}", "tumbler_glass")
 
     ice = [r for r in data.get("ice", []) if r["week"] not in weeks] + fresh
     ice.sort(key=lambda r: (r["week"], r["id"]))
