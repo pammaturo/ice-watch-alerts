@@ -87,6 +87,7 @@ input:focus-visible,button:focus-visible{outline:2px solid var(--ice);outline-of
 .pen small{display:block;font:500 .72rem/1.2 var(--body);color:var(--muted)}
 button{font:inherit;font-weight:600;font-size:.9rem;border-radius:8px;padding:7px 14px;cursor:pointer;border:1px solid var(--line);background:var(--panel);color:var(--fg)}
 button.primary{background:var(--ok);border-color:var(--ok);color:#fff}
+#topic-copy.primary{background:var(--ice);border-color:var(--ice)}
 button:disabled{opacity:.6;cursor:default}
 .doneform{display:flex;flex-wrap:wrap;gap:8px;align-items:center;width:100%}
 .doneform label{font-size:.82rem;color:var(--muted)}
@@ -135,7 +136,7 @@ code.topic{font-size:.9rem;background:var(--bg);border:1px solid var(--line);bor
           <a class="btnlink" href="https://play.google.com/store/apps/details?id=io.heckel.ntfy" target="_blank" rel="noopener">Android: Google Play</a>
         </div>
       </li>
-      <li>Subscribe to the league channel. Tap the button, or in ntfy tap <b>+</b> and enter the channel name.
+      <li><span id="sub-help">Subscribe to the league channel. Tap the button, or in ntfy tap + and enter the channel name.</span>
         <div class="btnrow">
           <a class="btnlink primary" id="ntfy-open" href="ntfy://ntfy.sh/fordham16-icewatch-4cd9a2">Open in ntfy</a>
           <button id="topic-copy">Copy channel name</button>
@@ -289,6 +290,12 @@ code.topic{font-size:.9rem;background:var(--bg);border:1px solid var(--line);bor
     catch (e) { const r = document.createRange(); r.selectNodeContents($('topic')); const sel = getSelection(); sel.removeAllRanges(); sel.addRange(r); $('topic-copy').textContent = 'Selected, tap Copy'; }
     setTimeout(() => { $('topic-copy').textContent = 'Copy channel name'; }, 2500);
   });
+  // iPhone's ntfy app can't be opened by a link, so make copying the main action there
+  if (/iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)) {
+    $('ntfy-open').hidden = true;
+    $('topic-copy').classList.add('primary');
+    $('sub-help').textContent = 'Copy the channel name, open ntfy, tap + and paste it in, then tap Subscribe.';
+  }
   if (location.hash === '#alerts') { $('alerts').hidden = false; $('alerts-open').setAttribute('aria-expanded', 'true'); }
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 
