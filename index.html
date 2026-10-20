@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ice Watch</title>
+<meta name="description" content="Fordham Fantasy 16: every starter who finished at 0 or below, updated every 5 minutes during games.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* Layout: one column scoreboard — live strip, totals, then cooler + chart side by side, then the full log */
+:root{
+  --bg:#f3f6fa; --panel:#ffffff; --fg:#14202e; --muted:#5d6b7c; --line:#dbe3ec;
+  --ice:#1f6fd1; --ice-soft:#e3eefc; --glass:#ffffff; --cap:#9aa7b6;
+  --warn:#b35c00; --warn-soft:#fff1e0; --bad:#c2273a; --ok:#1d7f4e;
+  --display:"Barlow Condensed","Arial Narrow",system-ui,sans-serif;
+  --body:"Barlow",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#0c131c; --panel:#141e2a; --fg:#e7eef6; --muted:#93a3b5; --line:#24323f;
+  --ice:#6fb2ff; --ice-soft:#16304d; --glass:#1b2836; --cap:#7d8c9c;
+  --warn:#ffb15c; --warn-soft:#3a2711; --bad:#ff6b7c; --ok:#5fd39a; color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.45 var(--body);font-variant-numeric:tabular-nums}
+.wrap{max-width:72rem;margin:0 auto;padding:28px max(16px,env(safe-area-inset-right)) 48px max(16px,env(safe-area-inset-left));display:flex;flex-direction:column;gap:28px}
+.eyebrow{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+h1{font:700 clamp(2.4rem,7vw,3.6rem)/1 var(--display);margin:4px 0 6px;display:flex;align-items:center;gap:.25em;letter-spacing:.01em}
+h2{font:700 1.35rem/1.1 var(--display);margin:0;letter-spacing:.02em}
+.take{margin:0;color:var(--muted);max-width:60ch}
+.stamp{font-size:.82rem;color:var(--muted);margin-top:6px}
+.stamp b{color:var(--fg);font-weight:600}
+.bottle{display:inline-block;width:.5em;height:1.25em;vertical-align:-.25em;overflow:visible}
+h1 .bottle{width:.42em;height:1.05em;transform:rotate(-8deg)}
+.bottle .glass{fill:var(--glass);stroke:var(--cap);stroke-width:1}
+.bottle .cap{fill:var(--cap)}
+.bottle .label{fill:var(--ice)}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:20px;display:flex;flex-direction:column;gap:12px;min-width:0}
+.note{margin:0;font-size:.85rem;color:var(--muted)}
+.live{border-color:var(--warn);background:var(--warn-soft)}
+.live h2{color:var(--warn)}
+.live-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,16rem),1fr));gap:10px}
+.live-item{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px;min-width:0}
+.live-item .who{font-weight:600}
+.live-item .meta{font-size:.82rem;color:var(--muted)}
+.live-item .q{font-size:.78rem;font-weight:600;color:var(--warn)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,10.5rem),1fr));gap:12px}
+.tile{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:2px;min-width:0}
+.tile .lab{font-size:.8rem;color:var(--muted)}
+.tile .num{font:700 2.4rem/1.05 var(--display)}
+.tile .sub{font-size:.8rem;color:var(--muted);overflow-wrap:anywhere}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,24rem),1fr));gap:16px;align-items:start}
+.scroll{overflow:auto;max-height:34rem}
+table{width:100%;border-collapse:collapse;font-size:.95rem}
+th{position:sticky;top:0;background:var(--panel);text-align:left;font-size:.75rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);font-weight:600;padding:6px 8px;border-bottom:1px solid var(--line);white-space:nowrap}
+td{padding:7px 8px;border-bottom:1px solid var(--line);vertical-align:middle}
+tr:last-child td{border-bottom:0}
+.num-c{text-align:right;white-space:nowrap}
+#cooler-body td:nth-child(3){white-space:nowrap}
+.clean td{color:var(--muted)}
+.bottles{display:inline-flex;gap:2px;margin-right:6px;vertical-align:-1px}
+.neg{color:var(--bad)}
+.pill{display:inline-block;font-size:.75rem;padding:0 8px;border-radius:999px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.search{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--fg);width:100%;max-width:20rem}
+.search:focus-visible{outline:2px solid var(--ice);outline-offset:1px}
+.weeks{display:flex;align-items:flex-end;gap:8px;height:180px;padding-top:18px}
+.wk{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:4px;height:100%;min-width:0}
+.wk .bar{width:min(100%,32px);background:var(--ice);border-radius:5px 5px 2px 2px;min-height:2px}
+.wk .n{font-size:.8rem;font-weight:600}
+.wk .l{font-size:.75rem;color:var(--muted);white-space:nowrap}
+.rules{font-size:.82rem;color:var(--muted);margin:0;max-width:72ch}
+.err{color:var(--bad);font-size:.9rem}
+@media (max-width:560px){.hide-sm{display:none}}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <header>
+    <div class="eyebrow">Fordham Fantasy 16 · 2026 season</div>
+    <h1><svg class="bottle" viewBox="0 0 12 30" aria-hidden="true"><rect x="4" y="0" width="4" height="3" rx=".6" class="cap"/><path class="glass" d="M4.5 3h3v5c0 2 2.5 3 2.5 6v13a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2V14c0-3 2.5-4 2.5-6z"/><rect x="2" y="16" width="8" height="7" class="label"/></svg>Ice Watch</h1>
+    <p class="take" id="take">Loading the latest Ices…</p>
+    <div class="stamp" id="stamp"></div>
+  </header>
+
+  <section class="card live" id="live" hidden>
+    <h2>On thin ice right now</h2>
+    <p class="note">Starters at 0 or below in games still being played.</p>
+    <div class="live-list" id="live-list"></div>
+  </section>
+
+  <section class="tiles" aria-label="Season totals">
+    <div class="tile"><div class="lab">Ices earned</div><div class="num" id="t-total">—</div><div class="sub">0 points or worse, final games</div></div>
+    <div class="tile"><div class="lab">Teams iced</div><div class="num" id="t-teams">—</div><div class="sub" id="t-teams-sub">&nbsp;</div></div>
+    <div class="tile"><div class="lab">Coldest score</div><div class="num" id="t-cold">—</div><div class="sub" id="t-cold-sub">&nbsp;</div></div>
+    <div class="tile"><div class="lab" id="t-week-lab">This week</div><div class="num" id="t-week">—</div><div class="sub">Ices this week</div></div>
+  </section>
+
+  <div class="grid">
+    <section class="card" id="cooler">
+      <h2>The cooler</h2>
+      <p class="note">Every team, most Ices first. Each bottle is one starter who finished at 0 or below.</p>
+      <div class="scroll"><table>
+        <thead><tr><th>Team</th><th class="hide-sm">Owner</th><th>Ices</th><th class="num-c">Coldest</th><th class="num-c">Last</th></tr></thead>
+        <tbody id="cooler-body"></tbody>
+      </table></div>
+    </section>
+    <section class="card" id="by-week">
+      <h2>Ices by week</h2>
+      <p class="note">Starters iced in each NFL week.</p>
+      <div class="weeks" id="weeks" role="img" aria-label="Ices per week"></div>
+    </section>
+  </div>
+
+  <section class="card" id="log">
+    <h2>Ice log</h2>
+    <p class="note">Every starter who finished a game at 0 or below, newest week first.</p>
+    <input class="search" id="search" type="search" placeholder="Search player, team or owner" aria-label="Search the Ice log">
+    <div class="scroll"><table>
+      <thead><tr><th class="num-c">Wk</th><th>Player</th><th class="hide-sm">Slot</th><th class="hide-sm">NFL</th><th class="num-c">Pts</th><th>Fantasy team</th><th class="hide-sm">Owner</th><th>Status</th></tr></thead>
+      <tbody id="log-body"></tbody>
+    </table></div>
+  </section>
+
+  <p class="rules">Rules: a starter gets iced when his game is final and he scored 0.00 or less in ESPN scoring. Starting QB, RB, WR, TE, FLEX and K slots count. D/ST, bench and IR do not. An inactive starter counts, since he scores 0. This page checks for new data every 5 minutes; during games, the data refreshes about every 5 minutes.</p>
+</main>
+
+<script>
+(() => {
+  const BOTTLE = '<svg class="bottle" viewBox="0 0 12 30" aria-hidden="true"><rect x="4" y="0" width="4" height="3" rx=".6" class="cap"/><path class="glass" d="M4.5 3h3v5c0 2 2.5 3 2.5 6v13a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2V14c0-3 2.5-4 2.5-6z"/><rect x="2" y="16" width="8" height="7" class="label"/></svg>';
+  const $ = (id) => document.getElementById(id);
+  const pts = (v) => (v == null ? '—' : Number(v).toFixed(2));
+  let data = null, query = '';
+
+  function td(tr, text, cls) { const c = document.createElement('td'); if (cls) c.className = cls; c.textContent = text; tr.append(c); return c; }
+
+  function ago(iso) {
+    const m = Math.round((Date.now() - new Date(iso)) / 60000);
+    if (m < 1) return 'just now';
+    if (m < 60) return m + ' min ago';
+    const h = Math.round(m / 60);
+    if (h < 24) return h + (h === 1 ? ' hour ago' : ' hours ago');
+    return new Date(iso).toLocaleString([], { weekday: 'short', month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
+  }
+
+  function render() {
+    if (!data) return;
+    const ice = data.ice || [], teams = data.teams || [], live = data.live || [];
+    const counts = {};
+    ice.forEach((r) => { counts[r.teamId] = (counts[r.teamId] || 0) + 1; });
+    const latest = ice.length ? Math.max(...ice.map((r) => r.week)) : (data.week || 0);
+    const cold = ice.reduce((a, r) => (!a || r.points < a.points ? r : a), null);
+    const top = Math.max(0, ...Object.values(counts));
+    const leaders = teams.filter((t) => counts[t.teamId] === top).map((t) => t.team);
+
+    $('take').textContent = ice.length
+      ? `${ice.length} Ices through Week ${latest}. ` + (leaders.length > 1
+          ? `Tied for the most, with ${top} each: ${leaders.join(', ')}.`
+          : `${leaders[0]} tops the cooler with ${top}.`)
+      : 'No Ices yet this season.';
+    $('stamp').innerHTML = '';
+    const b = document.createElement('b'); b.textContent = data.updated ? 'Updated ' + ago(data.updated) : '';
+    $('stamp').append(b, document.createTextNode(' · checks for new data every 5 minutes'));
+
+    $('t-total').textContent = ice.length;
+    $('t-teams').textContent = Object.keys(counts).length;
+    $('t-teams-sub').textContent = 'of ' + teams.length + ' teams';
+    $('t-cold').textContent = cold ? pts(cold.points) : '—';
+    $('t-cold').classList.toggle('neg', !!cold && cold.points < 0);
+    $('t-cold-sub').textContent = cold ? `${cold.player}, Week ${cold.week}` : '';
+    $('t-week-lab').textContent = 'Week ' + (data.week || latest) + ' so far';
+    $('t-week').textContent = ice.filter((r) => r.week === (data.week || latest)).length;
+
+    // Thin ice
+    $('live').hidden = !live.length;
+    $('live-list').replaceChildren(...live.map((r) => {
+      const d = document.createElement('div'); d.className = 'live-item';
+      const q = document.createElement('div'); q.className = 'q'; q.textContent = r.quarter >= 4 ? '4th quarter' : 'Q' + r.quarter;
+      const w = document.createElement('div'); w.className = 'who'; w.textContent = `${r.player} · ${pts(r.points)} pts`;
+      const m = document.createElement('div'); m.className = 'meta'; m.textContent = `${r.slot}, ${r.team} · ${r.game}, ${r.clock}`;
+      d.append(q, w, m); return d;
+    }));
+
+    // Cooler
+    const rows = teams.map((t) => {
+      const mine = ice.filter((r) => r.teamId === t.teamId);
+      return { ...t, n: mine.length, low: mine.length ? Math.min(...mine.map((r) => r.points)) : null, last: mine.length ? Math.max(...mine.map((r) => r.week)) : null };
+    }).sort((a, b) => b.n - a.n || (a.low ?? 0) - (b.low ?? 0) || a.team.localeCompare(b.team));
+    $('cooler-body').replaceChildren(...rows.map((r) => {
+      const tr = document.createElement('tr'); if (!r.n) tr.className = 'clean';
+      td(tr, r.team); td(tr, r.owner, 'hide-sm');
+      const c = document.createElement('td'); const s = document.createElement('span'); s.className = 'bottles';
+      s.innerHTML = BOTTLE.repeat(r.n); c.append(s, document.createTextNode(String(r.n))); tr.append(c);
+      const low = td(tr, pts(r.low), 'num-c'); if (r.low != null && r.low < 0) low.classList.add('neg');
+      td(tr, r.last == null ? '—' : 'Wk ' + r.last, 'num-c');
+      return tr;
+    }));
+
+    // Weeks
+    const maxWk = Math.max(latest, data.week || 0);
+    const per = Array.from({ length: maxWk }, (_, i) => ice.filter((r) => r.week === i + 1).length);
+    const peak = Math.max(1, ...per);
+    $('weeks').replaceChildren(...per.map((n, i) => {
+      const col = document.createElement('div'); col.className = 'wk';
+      const num = document.createElement('div'); num.className = 'n'; num.textContent = n;
+      const bar = document.createElement('div'); bar.className = 'bar'; bar.style.height = (n / peak * 120) + 'px';
+      const lab = document.createElement('div'); lab.className = 'l'; lab.textContent = 'Wk ' + (i + 1);
+      col.append(num, bar, lab); return col;
+    }));
+
+    // Log
+    const list = ice.slice().sort((a, b) => b.week - a.week || a.points - b.points || a.team.localeCompare(b.team))
+      .filter((r) => !query || [r.player, r.team, r.owner, r.nfl].join(' ').toLowerCase().includes(query));
+    $('log-body').replaceChildren(...list.map((r) => {
+      const tr = document.createElement('tr');
+      td(tr, r.week, 'num-c'); td(tr, r.player); td(tr, r.slot, 'hide-sm'); td(tr, r.nfl, 'hide-sm');
+      const p = td(tr, pts(r.points), 'num-c'); if (r.points < 0) p.classList.add('neg');
+      td(tr, r.team); td(tr, r.owner, 'hide-sm');
+      const st = document.createElement('td'); const pill = document.createElement('span'); pill.className = 'pill'; pill.textContent = r.status; st.append(pill); tr.append(st);
+      return tr;
+    }));
+  }
+
+  async function load() {
+    try {
+      const res = await fetch('data.json?t=' + Date.now(), { cache: 'no-store' });
+      if (!res.ok) throw new Error(res.status);
+      data = await res.json();
+      render();
+    } catch (e) {
+      if (!data) { $('take').textContent = "Couldn't load the Ice log. Refresh to try again."; $('take').className = 'take err'; }
+    }
+  }
+
+  $('search').addEventListener('input', (e) => { query = e.target.value.trim().toLowerCase(); render(); });
+  load();
+  setInterval(load, 5 * 60 * 1000);
+  setInterval(render, 60 * 1000); // keeps "Updated x min ago" fresh
+  document.addEventListener('visibilitychange', () => { if (!document.hidden) load(); });
+})();
+</script>
+</body>
+</html>
