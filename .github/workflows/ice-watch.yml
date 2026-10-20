@@ -2,12 +2,14 @@ name: Ice Watch alerts
 
 on:
   schedule:
-    - cron: "*/5 13-23 * * 0"
-    - cron: "*/5 0-5 * * 1"
-    - cron: "*/5 0-5 * * 2"
-    - cron: "*/5 0-5 * * 5"
-    - cron: "*/5 17-23 * * 6"
-    - cron: "*/5 0-5 * * 0"
+    # Times are UTC. Covers Eastern game windows in both EDT and EST.
+    - cron: "*/5 13-23 * * 0"   # Sunday: London game through the 4:00 slate
+    - cron: "*/5 0-5 * * 1"     # Sunday night game
+    - cron: "*/5 0-5 * * 2"     # Monday night game
+    - cron: "*/5 0-5 * * 5"     # Thursday night game
+    - cron: "*/5 17-23 * * 6"   # Saturday games (late season)
+    - cron: "*/5 0-5 * * 0"     # Saturday night games (late season)
+    - cron: "17 15 * * 2,3,4"   # Tue-Thu morning: pick up ESPN stat corrections
   workflow_dispatch: {}
 
 permissions:
@@ -26,17 +28,18 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Check ESPN and send alerts
+      - name: Check ESPN, send alerts, update the website data
         env:
           NTFY_TOPIC: ${{ vars.NTFY_TOPIC }}
           TRACKER_URL: ${{ vars.TRACKER_URL }}
         run: python icewatch_alerts.py
-      - name: Remember which alerts were sent
+      - name: Save alerts sent and website data
         run: |
-          if [ -n "$(git status --porcelain state.json)" ]; then
+          if [ -n "$(git status --porcelain state.json data.json)" ]; then
             git config user.name "ice-watch-bot"
             git config user.email "ice-watch-bot@users.noreply.github.com"
-            git add state.json
-            git commit -m "Update sent alerts"
+            git add state.json data.json
+            git commit -m "Update Ice Watch data"
+            git pull --rebase
             git push
           fi
