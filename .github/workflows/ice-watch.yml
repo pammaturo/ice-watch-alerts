@@ -1,0 +1,42 @@
+name: Ice Watch alerts
+
+on:
+  schedule:
+    - cron: "*/5 13-23 * * 0"
+    - cron: "*/5 0-5 * * 1"
+    - cron: "*/5 0-5 * * 2"
+    - cron: "*/5 0-5 * * 5"
+    - cron: "*/5 17-23 * * 6"
+    - cron: "*/5 0-5 * * 0"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ice-watch
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check ESPN and send alerts
+        env:
+          NTFY_TOPIC: ${{ vars.NTFY_TOPIC }}
+          TRACKER_URL: ${{ vars.TRACKER_URL }}
+        run: python icewatch_alerts.py
+      - name: Remember which alerts were sent
+        run: |
+          if [ -n "$(git status --porcelain state.json)" ]; then
+            git config user.name "ice-watch-bot"
+            git config user.email "ice-watch-bot@users.noreply.github.com"
+            git add state.json
+            git commit -m "Update sent alerts"
+            git push
+          fi
