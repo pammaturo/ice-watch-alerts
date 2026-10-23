@@ -370,37 +370,7 @@
    "points": 0.0,
    "gameId": "401873010",
    "game": "NE @ CHI",
-   "clock": "13:44 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "7-13-3046439",
-   "week": 7,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Hunter Henry",
-   "slot": "TE",
-   "nfl": "NE",
-   "points": 0.0,
-   "gameId": "401873010",
-   "game": "NE @ CHI",
-   "clock": "13:44 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "7-4-4431299",
-   "week": 7,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Rome Odunze",
-   "slot": "WR",
-   "nfl": "CHI",
-   "points": 0.0,
-   "gameId": "401873010",
-   "game": "NE @ CHI",
-   "clock": "13:44 - 2nd",
+   "clock": "8:57 - 2nd",
    "quarter": 2
   },
   {
@@ -415,9 +385,9 @@
    "points": 0.0,
    "gameId": "401873010",
    "game": "NE @ CHI",
-   "clock": "13:44 - 2nd",
+   "clock": "8:57 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-10-23T01:00:20Z"
+ "updated": "2026-10-23T01:15:01Z"
 }
