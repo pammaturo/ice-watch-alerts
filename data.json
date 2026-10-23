@@ -357,37 +357,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "7-16-4047646",
-   "week": 7,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "A.J. Brown",
-   "slot": "WR",
-   "nfl": "NE",
-   "points": 0.0,
-   "gameId": "401873010",
-   "game": "NE @ CHI",
-   "clock": "3:02 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "7-13-4426386",
-   "week": 7,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Roschon Johnson",
-   "slot": "RB",
-   "nfl": "CHI",
-   "points": 0.0,
-   "gameId": "401873010",
-   "game": "NE @ CHI",
-   "clock": "3:02 - 2nd",
-   "quarter": 2
-  }
- ],
- "updated": "2026-10-23T01:30:16Z"
+ "live": [],
+ "updated": "2026-10-23T01:45:11Z"
 }
