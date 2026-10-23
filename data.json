@@ -370,23 +370,8 @@
    "points": 0.0,
    "gameId": "401873010",
    "game": "NE @ CHI",
-   "clock": "3:38 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-11-4723086",
-   "week": 7,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Colston Loveland",
-   "slot": "TE",
-   "nfl": "CHI",
-   "points": 0.0,
-   "gameId": "401873010",
-   "game": "NE @ CHI",
-   "clock": "3:38 - 1st",
-   "quarter": 1
+   "clock": "13:44 - 2nd",
+   "quarter": 2
   },
   {
    "id": "7-13-3046439",
@@ -400,8 +385,8 @@
    "points": 0.0,
    "gameId": "401873010",
    "game": "NE @ CHI",
-   "clock": "3:38 - 1st",
-   "quarter": 1
+   "clock": "13:44 - 2nd",
+   "quarter": 2
   },
   {
    "id": "7-4-4431299",
@@ -415,8 +400,8 @@
    "points": 0.0,
    "gameId": "401873010",
    "game": "NE @ CHI",
-   "clock": "3:38 - 1st",
-   "quarter": 1
+   "clock": "13:44 - 2nd",
+   "quarter": 2
   },
   {
    "id": "7-13-4426386",
@@ -430,9 +415,9 @@
    "points": 0.0,
    "gameId": "401873010",
    "game": "NE @ CHI",
-   "clock": "3:38 - 1st",
-   "quarter": 1
+   "clock": "13:44 - 2nd",
+   "quarter": 2
   }
  ],
- "updated": "2026-10-23T00:45:13Z"
+ "updated": "2026-10-23T01:00:20Z"
 }
