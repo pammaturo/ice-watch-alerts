@@ -370,22 +370,7 @@
    "points": 0.0,
    "gameId": "401873010",
    "game": "NE @ CHI",
-   "clock": "11:30 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-13-17427",
-   "week": 7,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Cairo Santos",
-   "slot": "K",
-   "nfl": "CHI",
-   "points": 0.0,
-   "gameId": "401873010",
-   "game": "NE @ CHI",
-   "clock": "11:30 - 1st",
+   "clock": "9:53 - 1st",
    "quarter": 1
   },
   {
@@ -400,22 +385,7 @@
    "points": 0.0,
    "gameId": "401873010",
    "game": "NE @ CHI",
-   "clock": "11:30 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-1-4259545",
-   "week": 7,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "D'Andre Swift",
-   "slot": "RB",
-   "nfl": "CHI",
-   "points": 0.0,
-   "gameId": "401873010",
-   "game": "NE @ CHI",
-   "clock": "11:30 - 1st",
+   "clock": "9:53 - 1st",
    "quarter": 1
   },
   {
@@ -430,7 +400,7 @@
    "points": 0.0,
    "gameId": "401873010",
    "game": "NE @ CHI",
-   "clock": "11:30 - 1st",
+   "clock": "9:53 - 1st",
    "quarter": 1
   },
   {
@@ -445,7 +415,7 @@
    "points": 0.0,
    "gameId": "401873010",
    "game": "NE @ CHI",
-   "clock": "11:30 - 1st",
+   "clock": "9:53 - 1st",
    "quarter": 1
   },
   {
@@ -460,7 +430,7 @@
    "points": 0.0,
    "gameId": "401873010",
    "game": "NE @ CHI",
-   "clock": "11:30 - 1st",
+   "clock": "9:53 - 1st",
    "quarter": 1
   },
   {
@@ -475,9 +445,9 @@
    "points": 0.0,
    "gameId": "401873010",
    "game": "NE @ CHI",
-   "clock": "11:30 - 1st",
+   "clock": "9:53 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-10-23T00:25:16Z"
+ "updated": "2026-10-23T00:30:16Z"
 }
