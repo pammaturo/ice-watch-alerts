@@ -359,21 +359,6 @@
  ],
  "live": [
   {
-   "id": "7-13-4361370",
-   "week": 7,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Chris Olave",
-   "slot": "WR",
-   "nfl": "NO",
-   "points": 0.0,
-   "gameId": "401873011",
-   "game": "PIT VS NO",
-   "clock": "9:29 - 1st",
-   "quarter": 1
-  },
-  {
    "id": "7-3-4047650",
    "week": 7,
    "teamId": 3,
@@ -385,22 +370,7 @@
    "points": 0.0,
    "gameId": "401873011",
    "game": "PIT VS NO",
-   "clock": "9:29 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-9-4569559",
-   "week": 7,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Devaughn Vele",
-   "slot": "WR",
-   "nfl": "NO",
-   "points": 0.0,
-   "gameId": "401873011",
-   "game": "PIT VS NO",
-   "clock": "9:29 - 1st",
+   "clock": "4:38 - 1st",
    "quarter": 1
   },
   {
@@ -415,9 +385,9 @@
    "points": 0.0,
    "gameId": "401873011",
    "game": "PIT VS NO",
-   "clock": "9:29 - 1st",
+   "clock": "4:38 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-10-25T13:45:11Z"
+ "updated": "2026-10-25T13:55:12Z"
 }
