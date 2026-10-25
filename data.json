@@ -359,21 +359,6 @@
  ],
  "live": [
   {
-   "id": "7-2-3116389",
-   "week": 7,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Samaje Perine",
-   "slot": "RB",
-   "nfl": "CIN",
-   "points": 0.0,
-   "gameId": "401873012",
-   "game": "CIN @ BAL",
-   "clock": "13:29 - 4th",
-   "quarter": 4
-  },
-  {
    "id": "7-7-4568263",
    "week": 7,
    "teamId": 7,
@@ -385,8 +370,8 @@
    "points": -1.0,
    "gameId": "401873018",
    "game": "TB @ CAR",
-   "clock": "End of 3rd",
-   "quarter": 3
+   "clock": "8:16 - 4th",
+   "quarter": 4
   },
   {
    "id": "7-15-2983509",
@@ -400,9 +385,9 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "5:01 - 3rd",
-   "quarter": 3
+   "clock": "15:00 - 4th",
+   "quarter": 4
   }
  ],
- "updated": "2026-10-25T19:15:11Z"
+ "updated": "2026-10-25T19:29:02Z"
 }
