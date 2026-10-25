@@ -370,7 +370,7 @@
    "points": -1.0,
    "gameId": "401873018",
    "game": "TB @ CAR",
-   "clock": "6:30 - 3rd",
+   "clock": "6:21 - 3rd",
    "quarter": 3
   },
   {
@@ -385,22 +385,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "10:07 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "7-11-4258173",
-   "week": 7,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Nico Collins",
-   "slot": "WR",
-   "nfl": "HOU",
-   "points": 0.0,
-   "gameId": "401873016",
-   "game": "NYG @ HOU",
-   "clock": "10:07 - 3rd",
+   "clock": "8:53 - 3rd",
    "quarter": 3
   },
   {
@@ -415,9 +400,9 @@
    "points": 0.0,
    "gameId": "401873012",
    "game": "CIN @ BAL",
-   "clock": "4:23 - 3rd",
+   "clock": "2:57 - 3rd",
    "quarter": 3
   }
  ],
- "updated": "2026-10-25T19:00:16Z"
+ "updated": "2026-10-25T19:02:59Z"
 }
