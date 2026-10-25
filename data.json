@@ -385,21 +385,6 @@
  ],
  "live": [
   {
-   "id": "7-14-4374302",
-   "week": 7,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Amon-Ra St. Brown",
-   "slot": "FLEX",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873020",
-   "game": "GB @ DET",
-   "clock": "9:41 - 1st",
-   "quarter": 1
-  },
-  {
    "id": "7-11-4427728",
    "week": 7,
    "teamId": 11,
@@ -411,22 +396,7 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "5:20 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-11-4429096",
-   "week": 7,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Blake Corum",
-   "slot": "RB",
-   "nfl": "LAR",
-   "points": 0.0,
-   "gameId": "401873021",
-   "game": "LAR @ LV",
-   "clock": "10:51 - 1st",
+   "clock": "1:55 - 1st",
    "quarter": 1
   },
   {
@@ -441,7 +411,7 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "10:51 - 1st",
+   "clock": "8:29 - 1st",
    "quarter": 1
   },
   {
@@ -456,7 +426,7 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "5:20 - 1st",
+   "clock": "1:55 - 1st",
    "quarter": 1
   },
   {
@@ -471,52 +441,7 @@
    "points": 0.0,
    "gameId": "401873020",
    "game": "GB @ DET",
-   "clock": "9:41 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-2-4689936",
-   "week": 7,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Jake Bates",
-   "slot": "K",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873020",
-   "game": "GB @ DET",
-   "clock": "9:41 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-2-4426388",
-   "week": 7,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Jameson Williams",
-   "slot": "WR",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873020",
-   "game": "GB @ DET",
-   "clock": "9:41 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-9-4372016",
-   "week": 7,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Jaylen Waddle",
-   "slot": "WR",
-   "nfl": "DEN",
-   "points": 0.0,
-   "gameId": "401873019",
-   "game": "DEN @ ARI",
-   "clock": "5:20 - 1st",
+   "clock": "7:00 - 1st",
    "quarter": 1
   },
   {
@@ -531,7 +456,7 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "5:20 - 1st",
+   "clock": "1:55 - 1st",
    "quarter": 1
   },
   {
@@ -546,7 +471,7 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "10:51 - 1st",
+   "clock": "8:29 - 1st",
    "quarter": 1
   },
   {
@@ -561,7 +486,7 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "10:51 - 1st",
+   "clock": "8:29 - 1st",
    "quarter": 1
   },
   {
@@ -576,7 +501,7 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "10:51 - 1st",
+   "clock": "8:29 - 1st",
    "quarter": 1
   },
   {
@@ -591,22 +516,7 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "5:20 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-5-4568490",
-   "week": 7,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "RJ Harvey",
-   "slot": "RB",
-   "nfl": "DEN",
-   "points": 0.0,
-   "gameId": "401873019",
-   "game": "DEN @ ARI",
-   "clock": "5:20 - 1st",
+   "clock": "1:55 - 1st",
    "quarter": 1
   },
   {
@@ -621,7 +531,7 @@
    "points": 0.0,
    "gameId": "401873020",
    "game": "GB @ DET",
-   "clock": "9:41 - 1st",
+   "clock": "7:00 - 1st",
    "quarter": 1
   },
   {
@@ -636,7 +546,7 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "10:51 - 1st",
+   "clock": "8:29 - 1st",
    "quarter": 1
   },
   {
@@ -651,7 +561,7 @@
    "points": 0.0,
    "gameId": "401873020",
    "game": "GB @ DET",
-   "clock": "9:41 - 1st",
+   "clock": "7:00 - 1st",
    "quarter": 1
   },
   {
@@ -666,9 +576,9 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "10:51 - 1st",
+   "clock": "8:29 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-10-25T20:39:05Z"
+ "updated": "2026-10-25T20:45:10Z"
 }
