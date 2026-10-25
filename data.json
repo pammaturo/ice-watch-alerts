@@ -370,7 +370,7 @@
    "points": -1.0,
    "gameId": "401873018",
    "game": "TB @ CAR",
-   "clock": "6:55 - 2nd",
+   "clock": "1:45 - 2nd",
    "quarter": 2
   },
   {
@@ -385,7 +385,7 @@
    "points": -0.2,
    "gameId": "401873012",
    "game": "CIN @ BAL",
-   "clock": "6:17 - 2nd",
+   "clock": "0:57 - 2nd",
    "quarter": 2
   },
   {
@@ -400,22 +400,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "9:03 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "7-8-4832800",
-   "week": 7,
-   "teamId": 8,
-   "team": "BJ's Ferguson",
-   "owner": "David Smeriglio",
-   "player": "Denzel Boston",
-   "slot": "FLEX",
-   "nfl": "CLE",
-   "points": 0.0,
-   "gameId": "401873013",
-   "game": "CLE @ TEN",
-   "clock": "9:34 - 2nd",
+   "clock": "3:32 - 2nd",
    "quarter": 2
   },
   {
@@ -430,7 +415,7 @@
    "points": 0.0,
    "gameId": "401873012",
    "game": "CIN @ BAL",
-   "clock": "6:17 - 2nd",
+   "clock": "0:57 - 2nd",
    "quarter": 2
   },
   {
@@ -445,7 +430,7 @@
    "points": 0.0,
    "gameId": "401873015",
    "game": "MIA @ NYJ",
-   "clock": "8:13 - 2nd",
+   "clock": "0:16 - 2nd",
    "quarter": 2
   },
   {
@@ -460,22 +445,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "9:03 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "7-8-4360248",
-   "week": 7,
-   "teamId": 8,
-   "team": "BJ's Ferguson",
-   "owner": "David Smeriglio",
-   "player": "Kyle Pitts Sr.",
-   "slot": "TE",
-   "nfl": "ATL",
-   "points": 0.0,
-   "gameId": "401873017",
-   "game": "SF @ ATL",
-   "clock": "6:31 - 2nd",
+   "clock": "3:32 - 2nd",
    "quarter": 2
   },
   {
@@ -490,7 +460,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "9:03 - 2nd",
+   "clock": "3:32 - 2nd",
    "quarter": 2
   },
   {
@@ -505,7 +475,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "9:03 - 2nd",
+   "clock": "3:32 - 2nd",
    "quarter": 2
   },
   {
@@ -520,9 +490,9 @@
    "points": 0.0,
    "gameId": "401873012",
    "game": "CIN @ BAL",
-   "clock": "6:17 - 2nd",
+   "clock": "0:57 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-10-25T18:00:16Z"
+ "updated": "2026-10-25T18:15:11Z"
 }
