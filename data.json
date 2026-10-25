@@ -396,7 +396,7 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "1:34 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   },
   {
@@ -411,22 +411,7 @@
    "points": 0.0,
    "gameId": "401873020",
    "game": "GB @ DET",
-   "clock": "0:30 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "7-14-4428718",
-   "week": 7,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Tre Tucker",
-   "slot": "WR",
-   "nfl": "LV",
-   "points": 0.0,
-   "gameId": "401873021",
-   "game": "LAR @ LV",
-   "clock": "1:34 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   },
   {
@@ -441,9 +426,9 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "1:34 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   }
  ],
- "updated": "2026-10-25T21:45:12Z"
+ "updated": "2026-10-25T21:57:23Z"
 }
