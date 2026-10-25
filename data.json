@@ -357,37 +357,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "7-3-4047650",
-   "week": 7,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "DK Metcalf",
-   "slot": "WR",
-   "nfl": "PIT",
-   "points": 0.0,
-   "gameId": "401873011",
-   "game": "PIT VS NO",
-   "clock": "4:38 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-1-4685261",
-   "week": 7,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "Germie Bernard",
-   "slot": "WR",
-   "nfl": "PIT",
-   "points": 0.0,
-   "gameId": "401873011",
-   "game": "PIT VS NO",
-   "clock": "4:38 - 1st",
-   "quarter": 1
-  }
- ],
- "updated": "2026-10-25T13:55:12Z"
+ "live": [],
+ "updated": "2026-10-25T14:00:16Z"
 }
