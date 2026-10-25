@@ -385,21 +385,6 @@
  ],
  "live": [
   {
-   "id": "7-4-4429086",
-   "week": 7,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Michael Mayer",
-   "slot": "TE",
-   "nfl": "LV",
-   "points": 0.0,
-   "gameId": "401873021",
-   "game": "LAR @ LV",
-   "clock": "11:21 - 3rd",
-   "quarter": 3
-  },
-  {
    "id": "7-17-4430027",
    "week": 7,
    "teamId": 17,
@@ -411,9 +396,9 @@
    "points": 0.0,
    "gameId": "401873020",
    "game": "GB @ DET",
-   "clock": "7:46 - 3rd",
+   "clock": "5:25 - 3rd",
    "quarter": 3
   }
  ],
- "updated": "2026-10-25T22:18:32Z"
+ "updated": "2026-10-25T22:30:13Z"
 }
