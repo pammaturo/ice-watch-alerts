@@ -359,33 +359,18 @@
  ],
  "live": [
   {
-   "id": "7-4-4696044",
+   "id": "7-2-3116389",
    "week": 7,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Kaelon Black",
+   "teamId": 2,
+   "team": "LEBRON RAYMONE JAMES SR.",
+   "owner": "Matt Reddy",
+   "player": "Samaje Perine",
    "slot": "RB",
-   "nfl": "SF",
-   "points": -0.4,
-   "gameId": "401873017",
-   "game": "SF @ ATL",
-   "clock": "11:52 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-10-4242335",
-   "week": 7,
-   "teamId": 10,
-   "team": "Arizona M!dgets",
-   "owner": "Daniel Kelly",
-   "player": "Jonathan Taylor",
-   "slot": "RB",
-   "nfl": "IND",
-   "points": -0.1,
-   "gameId": "401873014",
-   "game": "IND @ MIN",
-   "clock": "11:55 - 1st",
+   "nfl": "CIN",
+   "points": -0.2,
+   "gameId": "401873012",
+   "game": "CIN @ BAL",
+   "clock": "11:17 - 1st",
    "quarter": 1
   },
   {
@@ -400,22 +385,7 @@
    "points": 0.0,
    "gameId": "401873017",
    "game": "SF @ ATL",
-   "clock": "11:52 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-16-4685247",
-   "week": 7,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Braelon Allen",
-   "slot": "RB",
-   "nfl": "NYJ",
-   "points": 0.0,
-   "gameId": "401873015",
-   "game": "MIA @ NYJ",
-   "clock": "10:57 - 1st",
+   "clock": "9:22 - 1st",
    "quarter": 1
   },
   {
@@ -430,37 +400,7 @@
    "points": 0.0,
    "gameId": "401873018",
    "game": "TB @ CAR",
-   "clock": "11:59 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-4-4362238",
-   "week": 7,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Chase Brown",
-   "slot": "RB",
-   "nfl": "CIN",
-   "points": 0.0,
-   "gameId": "401873012",
-   "game": "CIN @ BAL",
-   "clock": "13:36 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-1-3150744",
-   "week": 7,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "Chase McLaughlin",
-   "slot": "K",
-   "nfl": "TB",
-   "points": 0.0,
-   "gameId": "401873018",
-   "game": "TB @ CAR",
-   "clock": "11:59 - 1st",
+   "clock": "7:22 - 1st",
    "quarter": 1
   },
   {
@@ -475,7 +415,7 @@
    "points": 0.0,
    "gameId": "401873018",
    "game": "TB @ CAR",
-   "clock": "11:59 - 1st",
+   "clock": "7:22 - 1st",
    "quarter": 1
   },
   {
@@ -490,7 +430,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "11:48 - 1st",
+   "clock": "11:40 - 1st",
    "quarter": 1
   },
   {
@@ -505,7 +445,7 @@
    "points": 0.0,
    "gameId": "401873013",
    "game": "CLE @ TEN",
-   "clock": "12:57 - 1st",
+   "clock": "11:09 - 1st",
    "quarter": 1
   },
   {
@@ -520,7 +460,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "11:48 - 1st",
+   "clock": "11:40 - 1st",
    "quarter": 1
   },
   {
@@ -535,7 +475,7 @@
    "points": 0.0,
    "gameId": "401873017",
    "game": "SF @ ATL",
-   "clock": "11:52 - 1st",
+   "clock": "9:22 - 1st",
    "quarter": 1
   },
   {
@@ -550,7 +490,7 @@
    "points": 0.0,
    "gameId": "401873012",
    "game": "CIN @ BAL",
-   "clock": "13:36 - 1st",
+   "clock": "11:17 - 1st",
    "quarter": 1
   },
   {
@@ -565,22 +505,7 @@
    "points": 0.0,
    "gameId": "401873015",
    "game": "MIA @ NYJ",
-   "clock": "10:57 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-15-15864",
-   "week": 7,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Geno Smith",
-   "slot": "QB",
-   "nfl": "NYJ",
-   "points": 0.0,
-   "gameId": "401873015",
-   "game": "MIA @ NYJ",
-   "clock": "10:57 - 1st",
+   "clock": "9:20 - 1st",
    "quarter": 1
   },
   {
@@ -595,7 +520,7 @@
    "points": 0.0,
    "gameId": "401873017",
    "game": "SF @ ATL",
-   "clock": "11:52 - 1st",
+   "clock": "9:22 - 1st",
    "quarter": 1
   },
   {
@@ -610,7 +535,7 @@
    "points": 0.0,
    "gameId": "401873013",
    "game": "CLE @ TEN",
-   "clock": "12:57 - 1st",
+   "clock": "11:09 - 1st",
    "quarter": 1
   },
   {
@@ -625,22 +550,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "11:48 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-17-4362628",
-   "week": 7,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Ja'Marr Chase",
-   "slot": "WR",
-   "nfl": "CIN",
-   "points": 0.0,
-   "gameId": "401873012",
-   "game": "CIN @ BAL",
-   "clock": "13:36 - 1st",
+   "clock": "11:40 - 1st",
    "quarter": 1
   },
   {
@@ -655,22 +565,7 @@
    "points": 0.0,
    "gameId": "401873018",
    "game": "TB @ CAR",
-   "clock": "11:59 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-17-3915511",
-   "week": 7,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Joe Burrow",
-   "slot": "QB",
-   "nfl": "CIN",
-   "points": 0.0,
-   "gameId": "401873012",
-   "game": "CIN @ BAL",
-   "clock": "13:36 - 1st",
+   "clock": "7:22 - 1st",
    "quarter": 1
   },
   {
@@ -685,7 +580,7 @@
    "points": 0.0,
    "gameId": "401873014",
    "game": "IND @ MIN",
-   "clock": "11:55 - 1st",
+   "clock": "9:13 - 1st",
    "quarter": 1
   },
   {
@@ -700,37 +595,22 @@
    "points": 0.0,
    "gameId": "401873014",
    "game": "IND @ MIN",
-   "clock": "11:55 - 1st",
+   "clock": "9:13 - 1st",
    "quarter": 1
   },
   {
-   "id": "7-4-4870653",
+   "id": "7-4-4696044",
    "week": 7,
    "teamId": 4,
    "team": "Funnel Guy",
    "owner": "Ryan Gregware",
-   "player": "KC Concepcion",
-   "slot": "FLEX",
-   "nfl": "CLE",
+   "player": "Kaelon Black",
+   "slot": "RB",
+   "nfl": "SF",
    "points": 0.0,
-   "gameId": "401873013",
-   "game": "CLE @ TEN",
-   "clock": "12:57 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-11-2971573",
-   "week": 7,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Ka'imi Fairbairn",
-   "slot": "K",
-   "nfl": "HOU",
-   "points": 0.0,
-   "gameId": "401873016",
-   "game": "NYG @ HOU",
-   "clock": "11:48 - 1st",
+   "gameId": "401873017",
+   "game": "SF @ ATL",
+   "clock": "9:22 - 1st",
    "quarter": 1
   },
   {
@@ -745,7 +625,7 @@
    "points": 0.0,
    "gameId": "401873018",
    "game": "TB @ CAR",
-   "clock": "11:59 - 1st",
+   "clock": "7:22 - 1st",
    "quarter": 1
   },
   {
@@ -760,7 +640,7 @@
    "points": 0.0,
    "gameId": "401873017",
    "game": "SF @ ATL",
-   "clock": "11:52 - 1st",
+   "clock": "9:22 - 1st",
    "quarter": 1
   },
   {
@@ -775,7 +655,7 @@
    "points": 0.0,
    "gameId": "401873014",
    "game": "IND @ MIN",
-   "clock": "11:55 - 1st",
+   "clock": "9:13 - 1st",
    "quarter": 1
   },
   {
@@ -790,7 +670,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "11:48 - 1st",
+   "clock": "11:40 - 1st",
    "quarter": 1
   },
   {
@@ -805,7 +685,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "11:48 - 1st",
+   "clock": "11:40 - 1st",
    "quarter": 1
   },
   {
@@ -820,7 +700,7 @@
    "points": 0.0,
    "gameId": "401873012",
    "game": "CIN @ BAL",
-   "clock": "13:36 - 1st",
+   "clock": "11:17 - 1st",
    "quarter": 1
   },
   {
@@ -835,7 +715,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "11:48 - 1st",
+   "clock": "11:40 - 1st",
    "quarter": 1
   },
   {
@@ -850,37 +730,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "11:48 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-3-4723820",
-   "week": 7,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Omar Cooper Jr.",
-   "slot": "FLEX",
-   "nfl": "NYJ",
-   "points": 0.0,
-   "gameId": "401873015",
-   "game": "MIA @ NYJ",
-   "clock": "10:57 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-3-4685702",
-   "week": 7,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Quinshon Judkins",
-   "slot": "RB",
-   "nfl": "CLE",
-   "points": 0.0,
-   "gameId": "401873013",
-   "game": "CLE @ TEN",
-   "clock": "12:57 - 1st",
+   "clock": "11:40 - 1st",
    "quarter": 1
   },
   {
@@ -895,37 +745,7 @@
    "points": 0.0,
    "gameId": "401873018",
    "game": "TB @ CAR",
-   "clock": "11:59 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-2-3116389",
-   "week": 7,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Samaje Perine",
-   "slot": "RB",
-   "nfl": "CIN",
-   "points": 0.0,
-   "gameId": "401873012",
-   "game": "CIN @ BAL",
-   "clock": "13:36 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-17-4571557",
-   "week": 7,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Spencer Shrader",
-   "slot": "K",
-   "nfl": "IND",
-   "points": 0.0,
-   "gameId": "401873014",
-   "game": "IND @ MIN",
-   "clock": "11:55 - 1st",
+   "clock": "7:22 - 1st",
    "quarter": 1
   },
   {
@@ -940,7 +760,7 @@
    "points": 0.0,
    "gameId": "401873014",
    "game": "IND @ MIN",
-   "clock": "11:55 - 1st",
+   "clock": "9:13 - 1st",
    "quarter": 1
   },
   {
@@ -955,7 +775,7 @@
    "points": 0.0,
    "gameId": "401873012",
    "game": "CIN @ BAL",
-   "clock": "13:36 - 1st",
+   "clock": "11:17 - 1st",
    "quarter": 1
   },
   {
@@ -970,7 +790,7 @@
    "points": 0.0,
    "gameId": "401873018",
    "game": "TB @ CAR",
-   "clock": "11:59 - 1st",
+   "clock": "7:22 - 1st",
    "quarter": 1
   },
   {
@@ -985,7 +805,7 @@
    "points": 0.0,
    "gameId": "401873014",
    "game": "IND @ MIN",
-   "clock": "11:55 - 1st",
+   "clock": "9:13 - 1st",
    "quarter": 1
   },
   {
@@ -1000,9 +820,9 @@
    "points": 0.0,
    "gameId": "401873017",
    "game": "SF @ ATL",
-   "clock": "11:52 - 1st",
+   "clock": "9:22 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-10-25T17:08:34Z"
+ "updated": "2026-10-25T17:15:10Z"
 }
