@@ -400,7 +400,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "0:44 - 2nd",
+   "clock": "0:38 - 2nd",
    "quarter": 2
   },
   {
@@ -445,22 +445,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "0:44 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "7-10-4432708",
-   "week": 7,
-   "teamId": 10,
-   "team": "Arizona M!dgets",
-   "owner": "Daniel Kelly",
-   "player": "Marvin Harrison Jr.",
-   "slot": "WR",
-   "nfl": "HOU",
-   "points": 0.0,
-   "gameId": "401873016",
-   "game": "NYG @ HOU",
-   "clock": "0:44 - 2nd",
+   "clock": "0:38 - 2nd",
    "quarter": 2
   },
   {
@@ -475,7 +460,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "0:44 - 2nd",
+   "clock": "0:38 - 2nd",
    "quarter": 2
   },
   {
@@ -494,5 +479,5 @@
    "quarter": 2
   }
  ],
- "updated": "2026-10-25T18:29:24Z"
+ "updated": "2026-10-25T18:30:12Z"
 }
