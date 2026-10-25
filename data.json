@@ -396,7 +396,7 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "14:16 - 2nd",
+   "clock": "12:25 - 2nd",
    "quarter": 2
   },
   {
@@ -411,7 +411,7 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "14:16 - 2nd",
+   "clock": "12:25 - 2nd",
    "quarter": 2
   },
   {
@@ -426,7 +426,7 @@
    "points": 0.0,
    "gameId": "401873020",
    "game": "GB @ DET",
-   "clock": "15:00 - 2nd",
+   "clock": "13:23 - 2nd",
    "quarter": 2
   },
   {
@@ -441,22 +441,7 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "0:51 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-17-4430737",
-   "week": 7,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Kyren Williams",
-   "slot": "RB",
-   "nfl": "LAR",
-   "points": 0.0,
-   "gameId": "401873021",
-   "game": "LAR @ LV",
-   "clock": "0:51 - 1st",
+   "clock": "0:15 - 1st",
    "quarter": 1
   },
   {
@@ -471,7 +456,7 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "0:51 - 1st",
+   "clock": "0:15 - 1st",
    "quarter": 1
   },
   {
@@ -486,7 +471,7 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "0:51 - 1st",
+   "clock": "0:15 - 1st",
    "quarter": 1
   },
   {
@@ -501,9 +486,9 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "0:51 - 1st",
+   "clock": "0:15 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-10-25T21:00:16Z"
+ "updated": "2026-10-25T21:04:32Z"
 }
