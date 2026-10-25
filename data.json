@@ -357,6 +357,67 @@
    "status": "Played"
   }
  ],
- "live": [],
- "updated": "2026-10-23T01:45:11Z"
+ "live": [
+  {
+   "id": "7-13-4361370",
+   "week": 7,
+   "teamId": 13,
+   "team": "Kipps Bay Dumpers",
+   "owner": "Jack Engelhardt",
+   "player": "Chris Olave",
+   "slot": "WR",
+   "nfl": "NO",
+   "points": 0.0,
+   "gameId": "401873011",
+   "game": "PIT VS NO",
+   "clock": "9:29 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "7-3-4047650",
+   "week": 7,
+   "teamId": 3,
+   "team": "The Ball $acks",
+   "owner": "Patrick Ammaturo",
+   "player": "DK Metcalf",
+   "slot": "WR",
+   "nfl": "PIT",
+   "points": 0.0,
+   "gameId": "401873011",
+   "game": "PIT VS NO",
+   "clock": "9:29 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "7-9-4569559",
+   "week": 7,
+   "teamId": 9,
+   "team": "Fenway Food Smugglers",
+   "owner": "John O'Friel",
+   "player": "Devaughn Vele",
+   "slot": "WR",
+   "nfl": "NO",
+   "points": 0.0,
+   "gameId": "401873011",
+   "game": "PIT VS NO",
+   "clock": "9:29 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "7-1-4685261",
+   "week": 7,
+   "teamId": 1,
+   "team": "May I Take Your Hat Sir",
+   "owner": "Adam Wernoch",
+   "player": "Germie Bernard",
+   "slot": "WR",
+   "nfl": "PIT",
+   "points": 0.0,
+   "gameId": "401873011",
+   "game": "PIT VS NO",
+   "clock": "9:29 - 1st",
+   "quarter": 1
+  }
+ ],
+ "updated": "2026-10-25T13:45:11Z"
 }
