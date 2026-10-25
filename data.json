@@ -396,8 +396,8 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "12:50 - 3rd",
+   "quarter": 3
   },
   {
    "id": "7-17-4430027",
@@ -411,24 +411,9 @@
    "points": 0.0,
    "gameId": "401873020",
    "game": "GB @ DET",
-   "clock": "Halftime",
-   "quarter": 2
-  },
-  {
-   "id": "7-7-2573401",
-   "week": 7,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Tyler Higbee",
-   "slot": "TE",
-   "nfl": "LAR",
-   "points": 0.0,
-   "gameId": "401873021",
-   "game": "LAR @ LV",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "8:26 - 3rd",
+   "quarter": 3
   }
  ],
- "updated": "2026-10-25T21:57:23Z"
+ "updated": "2026-10-25T22:15:10Z"
 }
