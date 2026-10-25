@@ -355,6 +355,19 @@
    "points": 0.0,
    "gameId": "401873000",
    "status": "Played"
+  },
+  {
+   "id": "7-7-4568263",
+   "week": 7,
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Ryan Fitzgerald",
+   "slot": "K",
+   "nfl": "CAR",
+   "points": 0.0,
+   "gameId": "401873018",
+   "status": "Played"
   }
  ],
  "live": [
@@ -370,24 +383,9 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "8:55 - 4th",
-   "quarter": 4
-  },
-  {
-   "id": "7-7-4568263",
-   "week": 7,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Ryan Fitzgerald",
-   "slot": "K",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873018",
-   "game": "TB @ CAR",
-   "clock": "2:00 - 4th",
+   "clock": "6:00 - 4th",
    "quarter": 4
   }
  ],
- "updated": "2026-10-25T19:45:11Z"
+ "updated": "2026-10-25T19:53:56Z"
 }
