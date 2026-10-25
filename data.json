@@ -359,6 +359,66 @@
  ],
  "live": [
   {
+   "id": "7-4-4569618",
+   "week": 7,
+   "teamId": 4,
+   "team": "Funnel Guy",
+   "owner": "Ryan Gregware",
+   "player": "Garrett Wilson",
+   "slot": "WR",
+   "nfl": "NYJ",
+   "points": 0.0,
+   "gameId": "401873015",
+   "game": "MIA @ NYJ",
+   "clock": "15:00 - 2nd",
+   "quarter": 2
+  },
+  {
+   "id": "7-15-4695883",
+   "week": 7,
+   "teamId": 15,
+   "team": "Droopy Nuts",
+   "owner": "Sam Davis",
+   "player": "Jalen Coker",
+   "slot": "WR",
+   "nfl": "CAR",
+   "points": 0.0,
+   "gameId": "401873018",
+   "game": "TB @ CAR",
+   "clock": "14:12 - 2nd",
+   "quarter": 2
+  },
+  {
+   "id": "7-7-4568263",
+   "week": 7,
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Ryan Fitzgerald",
+   "slot": "K",
+   "nfl": "CAR",
+   "points": 0.0,
+   "gameId": "401873018",
+   "game": "TB @ CAR",
+   "clock": "14:12 - 2nd",
+   "quarter": 2
+  },
+  {
+   "id": "7-5-4685472",
+   "week": 7,
+   "teamId": 5,
+   "team": "Irvin's in Paris",
+   "owner": "Danny Scott",
+   "player": "Tetairoa McMillan",
+   "slot": "WR",
+   "nfl": "CAR",
+   "points": 0.0,
+   "gameId": "401873018",
+   "game": "TB @ CAR",
+   "clock": "14:12 - 2nd",
+   "quarter": 2
+  },
+  {
    "id": "7-2-3116389",
    "week": 7,
    "teamId": 2,
@@ -370,7 +430,7 @@
    "points": -0.2,
    "gameId": "401873012",
    "game": "CIN @ BAL",
-   "clock": "5:42 - 1st",
+   "clock": "2:12 - 1st",
    "quarter": 1
   },
   {
@@ -385,7 +445,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "5:17 - 1st",
+   "clock": "1:54 - 1st",
    "quarter": 1
   },
   {
@@ -400,7 +460,7 @@
    "points": 0.0,
    "gameId": "401873013",
    "game": "CLE @ TEN",
-   "clock": "5:32 - 1st",
+   "clock": "4:12 - 1st",
    "quarter": 1
   },
   {
@@ -415,7 +475,7 @@
    "points": 0.0,
    "gameId": "401873017",
    "game": "SF @ ATL",
-   "clock": "3:07 - 1st",
+   "clock": "0:56 - 1st",
    "quarter": 1
   },
   {
@@ -430,22 +490,7 @@
    "points": 0.0,
    "gameId": "401873012",
    "game": "CIN @ BAL",
-   "clock": "5:42 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-4-4569618",
-   "week": 7,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Garrett Wilson",
-   "slot": "WR",
-   "nfl": "NYJ",
-   "points": 0.0,
-   "gameId": "401873015",
-   "game": "MIA @ NYJ",
-   "clock": "0:58 - 1st",
+   "clock": "2:12 - 1st",
    "quarter": 1
   },
   {
@@ -460,22 +505,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "5:17 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-15-4695883",
-   "week": 7,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Jalen Coker",
-   "slot": "WR",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873018",
-   "game": "TB @ CAR",
-   "clock": "0:47 - 1st",
+   "clock": "1:54 - 1st",
    "quarter": 1
   },
   {
@@ -490,22 +520,7 @@
    "points": 0.0,
    "gameId": "401873017",
    "game": "SF @ ATL",
-   "clock": "3:07 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-2-4682648",
-   "week": 7,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Malachi Fields",
-   "slot": "FLEX",
-   "nfl": "NYG",
-   "points": 0.0,
-   "gameId": "401873016",
-   "game": "NYG @ HOU",
-   "clock": "5:17 - 1st",
+   "clock": "0:56 - 1st",
    "quarter": 1
   },
   {
@@ -520,7 +535,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "5:17 - 1st",
+   "clock": "1:54 - 1st",
    "quarter": 1
   },
   {
@@ -535,22 +550,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "5:17 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-7-4568263",
-   "week": 7,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Ryan Fitzgerald",
-   "slot": "K",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873018",
-   "game": "TB @ CAR",
-   "clock": "0:47 - 1st",
+   "clock": "1:54 - 1st",
    "quarter": 1
   },
   {
@@ -565,22 +565,7 @@
    "points": 0.0,
    "gameId": "401873012",
    "game": "CIN @ BAL",
-   "clock": "5:42 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-5-4685472",
-   "week": 7,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Tetairoa McMillan",
-   "slot": "WR",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873018",
-   "game": "TB @ CAR",
-   "clock": "0:47 - 1st",
+   "clock": "2:12 - 1st",
    "quarter": 1
   },
   {
@@ -595,7 +580,7 @@
    "points": 0.0,
    "gameId": "401873014",
    "game": "IND @ MIN",
-   "clock": "4:59 - 1st",
+   "clock": "0:07 - 1st",
    "quarter": 1
   },
   {
@@ -610,9 +595,9 @@
    "points": 0.0,
    "gameId": "401873017",
    "game": "SF @ ATL",
-   "clock": "3:07 - 1st",
+   "clock": "0:56 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-10-25T17:30:12Z"
+ "updated": "2026-10-25T17:35:59Z"
 }
