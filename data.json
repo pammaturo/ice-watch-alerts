@@ -385,19 +385,49 @@
  ],
  "live": [
   {
-   "id": "7-11-4427728",
+   "id": "7-2-3045523",
    "week": 7,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Bam Knight",
-   "slot": "RB",
+   "teamId": 2,
+   "team": "LEBRON RAYMONE JAMES SR.",
+   "owner": "Matt Reddy",
+   "player": "Kendrick Bourne",
+   "slot": "WR",
    "nfl": "ARI",
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "1:55 - 1st",
-   "quarter": 1
+   "clock": "14:16 - 2nd",
+   "quarter": 2
+  },
+  {
+   "id": "7-12-4360761",
+   "week": 7,
+   "teamId": 12,
+   "team": "Manhattan M!dgets",
+   "owner": "Nikhil Mehta & Andrew Blough",
+   "player": "Michael Wilson",
+   "slot": "WR",
+   "nfl": "ARI",
+   "points": 0.0,
+   "gameId": "401873019",
+   "game": "DEN @ ARI",
+   "clock": "14:16 - 2nd",
+   "quarter": 2
+  },
+  {
+   "id": "7-17-4430027",
+   "week": 7,
+   "teamId": 17,
+   "team": "Club La La Land",
+   "owner": "Michael Calamari",
+   "player": "Sam LaPorta",
+   "slot": "TE",
+   "nfl": "DET",
+   "points": 0.0,
+   "gameId": "401873020",
+   "game": "GB @ DET",
+   "clock": "15:00 - 2nd",
+   "quarter": 2
   },
   {
    "id": "7-12-4432665",
@@ -411,52 +441,7 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "8:29 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-14-4363538",
-   "week": 7,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Chad Ryland",
-   "slot": "K",
-   "nfl": "ARI",
-   "points": 0.0,
-   "gameId": "401873019",
-   "game": "DEN @ ARI",
-   "clock": "1:55 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-16-4248528",
-   "week": 7,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Christian Watson",
-   "slot": "WR",
-   "nfl": "GB",
-   "points": 0.0,
-   "gameId": "401873020",
-   "game": "GB @ DET",
-   "clock": "7:00 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-2-3045523",
-   "week": 7,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Kendrick Bourne",
-   "slot": "WR",
-   "nfl": "ARI",
-   "points": 0.0,
-   "gameId": "401873019",
-   "game": "DEN @ ARI",
-   "clock": "1:55 - 1st",
+   "clock": "0:51 - 1st",
    "quarter": 1
   },
   {
@@ -471,22 +456,7 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "8:29 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-5-4249087",
-   "week": 7,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Matt Gay",
-   "slot": "K",
-   "nfl": "LV",
-   "points": 0.0,
-   "gameId": "401873021",
-   "game": "LAR @ LV",
-   "clock": "8:29 - 1st",
+   "clock": "0:51 - 1st",
    "quarter": 1
   },
   {
@@ -501,37 +471,7 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "8:29 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-12-4360761",
-   "week": 7,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta & Andrew Blough",
-   "player": "Michael Wilson",
-   "slot": "WR",
-   "nfl": "ARI",
-   "points": 0.0,
-   "gameId": "401873019",
-   "game": "DEN @ ARI",
-   "clock": "1:55 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-17-4430027",
-   "week": 7,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Sam LaPorta",
-   "slot": "TE",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873020",
-   "game": "GB @ DET",
-   "clock": "7:00 - 1st",
+   "clock": "0:51 - 1st",
    "quarter": 1
   },
   {
@@ -546,22 +486,7 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "8:29 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-11-4572680",
-   "week": 7,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Tucker Kraft",
-   "slot": "FLEX",
-   "nfl": "GB",
-   "points": 0.0,
-   "gameId": "401873020",
-   "game": "GB @ DET",
-   "clock": "7:00 - 1st",
+   "clock": "0:51 - 1st",
    "quarter": 1
   },
   {
@@ -576,9 +501,9 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "8:29 - 1st",
+   "clock": "0:51 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-10-25T20:45:10Z"
+ "updated": "2026-10-25T21:00:16Z"
 }
