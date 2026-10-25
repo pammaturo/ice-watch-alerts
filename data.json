@@ -370,22 +370,7 @@
    "points": -1.0,
    "gameId": "401873018",
    "game": "TB @ CAR",
-   "clock": "12:57 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "7-2-3116389",
-   "week": 7,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Samaje Perine",
-   "slot": "RB",
-   "nfl": "CIN",
-   "points": -0.2,
-   "gameId": "401873012",
-   "game": "CIN @ BAL",
-   "clock": "9:24 - 3rd",
+   "clock": "6:30 - 3rd",
    "quarter": 3
   },
   {
@@ -400,23 +385,8 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "Halftime",
-   "quarter": 2
-  },
-  {
-   "id": "7-16-4361050",
-   "week": 7,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Isaiah Likely",
-   "slot": "TE",
-   "nfl": "NYG",
-   "points": 0.0,
-   "gameId": "401873016",
-   "game": "NYG @ HOU",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "10:07 - 3rd",
+   "quarter": 3
   },
   {
    "id": "7-11-4258173",
@@ -430,9 +400,24 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "10:07 - 3rd",
+   "quarter": 3
+  },
+  {
+   "id": "7-2-3116389",
+   "week": 7,
+   "teamId": 2,
+   "team": "LEBRON RAYMONE JAMES SR.",
+   "owner": "Matt Reddy",
+   "player": "Samaje Perine",
+   "slot": "RB",
+   "nfl": "CIN",
+   "points": 0.0,
+   "gameId": "401873012",
+   "game": "CIN @ BAL",
+   "clock": "4:23 - 3rd",
+   "quarter": 3
   }
  ],
- "updated": "2026-10-25T18:45:12Z"
+ "updated": "2026-10-25T19:00:16Z"
 }
