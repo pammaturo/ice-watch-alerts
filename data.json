@@ -370,8 +370,8 @@
    "points": -1.0,
    "gameId": "401873018",
    "game": "TB @ CAR",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "12:57 - 3rd",
+   "quarter": 3
   },
   {
    "id": "7-2-3116389",
@@ -385,8 +385,8 @@
    "points": -0.2,
    "gameId": "401873012",
    "game": "CIN @ BAL",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "9:24 - 3rd",
+   "quarter": 3
   },
   {
    "id": "7-15-2983509",
@@ -400,36 +400,6 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "0:38 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "7-4-4360234",
-   "week": 7,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Evan McPherson",
-   "slot": "K",
-   "nfl": "CIN",
-   "points": 0.0,
-   "gameId": "401873012",
-   "game": "CIN @ BAL",
-   "clock": "Halftime",
-   "quarter": 2
-  },
-  {
-   "id": "7-4-4569618",
-   "week": 7,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Garrett Wilson",
-   "slot": "WR",
-   "nfl": "NYJ",
-   "points": 0.0,
-   "gameId": "401873015",
-   "game": "MIA @ NYJ",
    "clock": "Halftime",
    "quarter": 2
   },
@@ -445,7 +415,7 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "0:38 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   },
   {
@@ -460,24 +430,9 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "0:38 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "7-12-4239993",
-   "week": 7,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta & Andrew Blough",
-   "player": "Tee Higgins",
-   "slot": "WR",
-   "nfl": "CIN",
-   "points": 0.0,
-   "gameId": "401873012",
-   "game": "CIN @ BAL",
    "clock": "Halftime",
    "quarter": 2
   }
  ],
- "updated": "2026-10-25T18:30:12Z"
+ "updated": "2026-10-25T18:45:12Z"
 }
