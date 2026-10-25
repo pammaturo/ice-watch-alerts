@@ -385,6 +385,21 @@
  ],
  "live": [
   {
+   "id": "7-12-4432665",
+   "week": 7,
+   "teamId": 12,
+   "team": "Manhattan M!dgets",
+   "owner": "Nikhil Mehta & Andrew Blough",
+   "player": "Brock Bowers",
+   "slot": "TE",
+   "nfl": "LV",
+   "points": 0.0,
+   "gameId": "401873021",
+   "game": "LAR @ LV",
+   "clock": "10:01 - 2nd",
+   "quarter": 2
+  },
+  {
    "id": "7-2-3045523",
    "week": 7,
    "teamId": 2,
@@ -396,22 +411,22 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "12:25 - 2nd",
+   "clock": "6:19 - 2nd",
    "quarter": 2
   },
   {
-   "id": "7-12-4360761",
+   "id": "7-4-4429086",
    "week": 7,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta & Andrew Blough",
-   "player": "Michael Wilson",
-   "slot": "WR",
-   "nfl": "ARI",
+   "teamId": 4,
+   "team": "Funnel Guy",
+   "owner": "Ryan Gregware",
+   "player": "Michael Mayer",
+   "slot": "TE",
+   "nfl": "LV",
    "points": 0.0,
-   "gameId": "401873019",
-   "game": "DEN @ ARI",
-   "clock": "12:25 - 2nd",
+   "gameId": "401873021",
+   "game": "LAR @ LV",
+   "clock": "10:01 - 2nd",
    "quarter": 2
   },
   {
@@ -426,38 +441,8 @@
    "points": 0.0,
    "gameId": "401873020",
    "game": "GB @ DET",
-   "clock": "13:23 - 2nd",
+   "clock": "10:38 - 2nd",
    "quarter": 2
-  },
-  {
-   "id": "7-12-4432665",
-   "week": 7,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta & Andrew Blough",
-   "player": "Brock Bowers",
-   "slot": "TE",
-   "nfl": "LV",
-   "points": 0.0,
-   "gameId": "401873021",
-   "game": "LAR @ LV",
-   "clock": "0:15 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-4-4429086",
-   "week": 7,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Michael Mayer",
-   "slot": "TE",
-   "nfl": "LV",
-   "points": 0.0,
-   "gameId": "401873021",
-   "game": "LAR @ LV",
-   "clock": "0:15 - 1st",
-   "quarter": 1
   },
   {
    "id": "7-14-4428718",
@@ -471,8 +456,8 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "0:15 - 1st",
-   "quarter": 1
+   "clock": "10:01 - 2nd",
+   "quarter": 2
   },
   {
    "id": "7-7-2573401",
@@ -486,9 +471,9 @@
    "points": 0.0,
    "gameId": "401873021",
    "game": "LAR @ LV",
-   "clock": "0:15 - 1st",
-   "quarter": 1
+   "clock": "10:01 - 2nd",
+   "quarter": 2
   }
  ],
- "updated": "2026-10-25T21:04:32Z"
+ "updated": "2026-10-25T21:15:10Z"
 }
