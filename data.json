@@ -383,8 +383,8 @@
    "points": 0.0,
    "gameId": "401873016",
    "game": "NYG @ HOU",
-   "clock": "End of 4th",
-   "quarter": 4
+   "clock": "10:00 - OT",
+   "quarter": 5
   },
   {
    "id": "7-11-4427728",
@@ -398,7 +398,7 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "12:03 - 1st",
+   "clock": "11:10 - 1st",
    "quarter": 1
   },
   {
@@ -413,7 +413,7 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "12:03 - 1st",
+   "clock": "11:10 - 1st",
    "quarter": 1
   },
   {
@@ -428,7 +428,7 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "12:03 - 1st",
+   "clock": "11:10 - 1st",
    "quarter": 1
   },
   {
@@ -443,7 +443,7 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "12:03 - 1st",
+   "clock": "11:10 - 1st",
    "quarter": 1
   },
   {
@@ -458,7 +458,7 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "12:03 - 1st",
+   "clock": "11:10 - 1st",
    "quarter": 1
   },
   {
@@ -473,7 +473,7 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "12:03 - 1st",
+   "clock": "11:10 - 1st",
    "quarter": 1
   },
   {
@@ -488,7 +488,7 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "12:03 - 1st",
+   "clock": "11:10 - 1st",
    "quarter": 1
   },
   {
@@ -503,9 +503,9 @@
    "points": 0.0,
    "gameId": "401873019",
    "game": "DEN @ ARI",
-   "clock": "12:03 - 1st",
+   "clock": "11:10 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-10-25T20:11:03Z"
+ "updated": "2026-10-25T20:15:10Z"
 }
