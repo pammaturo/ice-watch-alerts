@@ -383,22 +383,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "7-17-4430027",
-   "week": 7,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Sam LaPorta",
-   "slot": "TE",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873020",
-   "game": "GB @ DET",
-   "clock": "2:45 - 4th",
-   "quarter": 4
-  }
- ],
- "updated": "2026-10-25T23:15:13Z"
+ "live": [],
+ "updated": "2026-10-25T23:30:12Z"
 }
