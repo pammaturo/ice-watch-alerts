@@ -396,22 +396,7 @@
    "points": 0.0,
    "gameId": "401873022",
    "game": "KC @ SEA",
-   "clock": "10:33 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "7-8-2473037",
-   "week": 7,
-   "teamId": 8,
-   "team": "BJ's Ferguson",
-   "owner": "David Smeriglio",
-   "player": "Jason Myers",
-   "slot": "K",
-   "nfl": "SEA",
-   "points": 0.0,
-   "gameId": "401873022",
-   "game": "KC @ SEA",
-   "clock": "10:33 - 2nd",
+   "clock": "6:00 - 2nd",
    "quarter": 2
   },
   {
@@ -426,9 +411,9 @@
    "points": 0.0,
    "gameId": "401873022",
    "game": "KC @ SEA",
-   "clock": "10:33 - 2nd",
+   "clock": "6:00 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-10-26T01:00:15Z"
+ "updated": "2026-10-26T01:15:12Z"
 }
