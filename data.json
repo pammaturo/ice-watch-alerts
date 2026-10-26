@@ -385,21 +385,6 @@
  ],
  "live": [
   {
-   "id": "7-15-4887558",
-   "week": 7,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Emanuel Wilson",
-   "slot": "RB",
-   "nfl": "SEA",
-   "points": 0.0,
-   "gameId": "401873022",
-   "game": "KC @ SEA",
-   "clock": "11:57 - 1st",
-   "quarter": 1
-  },
-  {
    "id": "7-10-3055899",
    "week": 7,
    "teamId": 10,
@@ -411,7 +396,7 @@
    "points": 0.0,
    "gameId": "401873022",
    "game": "KC @ SEA",
-   "clock": "11:57 - 1st",
+   "clock": "2:43 - 1st",
    "quarter": 1
   },
   {
@@ -426,22 +411,7 @@
    "points": 0.0,
    "gameId": "401873022",
    "game": "KC @ SEA",
-   "clock": "11:57 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-13-4430878",
-   "week": 7,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Jaxon Smith-Njigba",
-   "slot": "WR",
-   "nfl": "SEA",
-   "points": 0.0,
-   "gameId": "401873022",
-   "game": "KC @ SEA",
-   "clock": "11:57 - 1st",
+   "clock": "2:43 - 1st",
    "quarter": 1
   },
   {
@@ -456,24 +426,9 @@
    "points": 0.0,
    "gameId": "401873022",
    "game": "KC @ SEA",
-   "clock": "11:57 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "7-13-4683062",
-   "week": 7,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Xavier Worthy",
-   "slot": "FLEX",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873022",
-   "game": "KC @ SEA",
-   "clock": "11:57 - 1st",
+   "clock": "2:43 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-10-26T00:30:12Z"
+ "updated": "2026-10-26T00:45:10Z"
 }
