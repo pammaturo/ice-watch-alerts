@@ -383,37 +383,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "7-10-3055899",
-   "week": 7,
-   "teamId": 10,
-   "team": "Arizona M!dgets",
-   "owner": "Daniel Kelly",
-   "player": "Harrison Butker",
-   "slot": "K",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873022",
-   "game": "KC @ SEA",
-   "clock": "8:09 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "7-9-15847",
-   "week": 7,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Travis Kelce",
-   "slot": "TE",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873022",
-   "game": "KC @ SEA",
-   "clock": "8:09 - 3rd",
-   "quarter": 3
-  }
- ],
- "updated": "2026-10-26T02:15:11Z"
+ "live": [],
+ "updated": "2026-10-26T02:30:12Z"
 }
