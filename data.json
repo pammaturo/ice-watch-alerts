@@ -383,6 +383,97 @@
    "status": "Played"
   }
  ],
- "live": [],
- "updated": "2026-10-26T02:30:12Z"
+ "live": [
+  {
+   "id": "7-8-4241389",
+   "week": 7,
+   "teamId": 8,
+   "team": "BJ's Ferguson",
+   "owner": "David Smeriglio",
+   "player": "CeeDee Lamb",
+   "slot": "WR",
+   "nfl": "DAL",
+   "points": 0.0,
+   "gameId": "401873009",
+   "game": "DAL @ PHI",
+   "clock": "10:25 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "7-3-3121023",
+   "week": 7,
+   "teamId": 3,
+   "team": "The Ball $acks",
+   "owner": "Patrick Ammaturo",
+   "player": "Dallas Goedert",
+   "slot": "TE",
+   "nfl": "PHI",
+   "points": 0.0,
+   "gameId": "401873009",
+   "game": "DAL @ PHI",
+   "clock": "10:25 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "7-3-4426354",
+   "week": 7,
+   "teamId": 3,
+   "team": "The Ball $acks",
+   "owner": "Patrick Ammaturo",
+   "player": "George Pickens",
+   "slot": "WR",
+   "nfl": "DAL",
+   "points": 0.0,
+   "gameId": "401873009",
+   "game": "DAL @ PHI",
+   "clock": "10:25 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "7-15-4242355",
+   "week": 7,
+   "teamId": 15,
+   "team": "Droopy Nuts",
+   "owner": "Sam Davis",
+   "player": "Jake Ferguson",
+   "slot": "TE",
+   "nfl": "DAL",
+   "points": 0.0,
+   "gameId": "401873009",
+   "game": "DAL @ PHI",
+   "clock": "10:25 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "7-17-5083754",
+   "week": 7,
+   "teamId": 17,
+   "team": "Club La La Land",
+   "owner": "Michael Calamari",
+   "player": "Ryan Flournoy",
+   "slot": "FLEX",
+   "nfl": "DAL",
+   "points": 0.0,
+   "gameId": "401873009",
+   "game": "DAL @ PHI",
+   "clock": "10:25 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "7-7-4429676",
+   "week": 7,
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Tyler Goodson",
+   "slot": "RB",
+   "nfl": "DAL",
+   "points": 0.0,
+   "gameId": "401873009",
+   "game": "DAL @ PHI",
+   "clock": "10:25 - 1st",
+   "quarter": 1
+  }
+ ],
+ "updated": "2026-10-27T00:30:04Z"
 }
