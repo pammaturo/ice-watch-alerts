@@ -370,6 +370,19 @@
    "status": "Played"
   },
   {
+   "id": "7-15-4242355",
+   "week": 7,
+   "teamId": 15,
+   "team": "Droopy Nuts",
+   "owner": "Sam Davis",
+   "player": "Jake Ferguson",
+   "slot": "TE",
+   "nfl": "DAL",
+   "points": 0.0,
+   "gameId": "401873009",
+   "status": "Played"
+  },
+  {
    "id": "7-7-4568263",
    "week": 7,
    "teamId": 7,
@@ -383,22 +396,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "7-15-4242355",
-   "week": 7,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Jake Ferguson",
-   "slot": "TE",
-   "nfl": "DAL",
-   "points": 0.0,
-   "gameId": "401873009",
-   "game": "DAL @ PHI",
-   "clock": "2:00 - 4th",
-   "quarter": 4
-  }
- ],
- "updated": "2026-10-27T03:15:11Z"
+ "live": [],
+ "updated": "2026-10-27T03:30:15Z"
 }
