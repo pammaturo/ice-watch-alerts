@@ -396,6 +396,82 @@
    "status": "Played"
   }
  ],
- "live": [],
- "updated": "2026-10-29T20:00:16Z"
+ "live": [
+  {
+   "id": "8-15-4695883",
+   "week": 8,
+   "teamId": 15,
+   "team": "Droopy Nuts",
+   "owner": "Sam Davis",
+   "player": "Jalen Coker",
+   "slot": "WR",
+   "nfl": "CAR",
+   "points": 0.0,
+   "gameId": "401873023",
+   "game": "CAR @ GB",
+   "clock": "8:56 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "8-14-4429023",
+   "week": 8,
+   "teamId": 14,
+   "team": "Team Egg",
+   "owner": "Thomas Egg",
+   "player": "MarShawn Lloyd",
+   "slot": "RB",
+   "nfl": "GB",
+   "points": 0.0,
+   "gameId": "401873023",
+   "game": "CAR @ GB",
+   "clock": "8:56 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "8-10-4701936",
+   "week": 8,
+   "teamId": 10,
+   "team": "Arizona Diamondbacks",
+   "owner": "Daniel Kelly",
+   "player": "Matthew Golden",
+   "slot": "WR",
+   "nfl": "GB",
+   "points": 0.0,
+   "gameId": "401873023",
+   "game": "CAR @ GB",
+   "clock": "8:56 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "8-8-4431487",
+   "week": 8,
+   "teamId": 8,
+   "team": "BJ's Ferguson",
+   "owner": "David Smeriglio",
+   "player": "Savion Williams",
+   "slot": "FLEX",
+   "nfl": "GB",
+   "points": 0.0,
+   "gameId": "401873023",
+   "game": "CAR @ GB",
+   "clock": "8:56 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "8-5-4685472",
+   "week": 8,
+   "teamId": 5,
+   "team": "Irvin's in Paris",
+   "owner": "Danny Scott",
+   "player": "Tetairoa McMillan",
+   "slot": "WR",
+   "nfl": "CAR",
+   "points": 0.0,
+   "gameId": "401873023",
+   "game": "CAR @ GB",
+   "clock": "8:56 - 1st",
+   "quarter": 1
+  }
+ ],
+ "updated": "2026-10-30T00:30:14Z"
 }
