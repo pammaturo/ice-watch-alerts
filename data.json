@@ -409,24 +409,9 @@
    "points": 0.0,
    "gameId": "401873023",
    "game": "CAR @ GB",
-   "clock": "7:13 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "8-10-4701936",
-   "week": 8,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "Matthew Golden",
-   "slot": "WR",
-   "nfl": "GB",
-   "points": 0.0,
-   "gameId": "401873023",
-   "game": "CAR @ GB",
-   "clock": "7:13 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-10-30T01:15:13Z"
+ "updated": "2026-10-30T01:30:15Z"
 }
