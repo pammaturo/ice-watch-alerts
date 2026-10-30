@@ -409,23 +409,8 @@
    "points": 0.0,
    "gameId": "401873023",
    "game": "CAR @ GB",
-   "clock": "2:44 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-14-4429023",
-   "week": 8,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "MarShawn Lloyd",
-   "slot": "RB",
-   "nfl": "GB",
-   "points": 0.0,
-   "gameId": "401873023",
-   "game": "CAR @ GB",
-   "clock": "2:44 - 1st",
-   "quarter": 1
+   "clock": "12:24 - 2nd",
+   "quarter": 2
   },
   {
    "id": "8-10-4701936",
@@ -439,8 +424,8 @@
    "points": 0.0,
    "gameId": "401873023",
    "game": "CAR @ GB",
-   "clock": "2:44 - 1st",
-   "quarter": 1
+   "clock": "12:24 - 2nd",
+   "quarter": 2
   },
   {
    "id": "8-8-4431487",
@@ -454,9 +439,9 @@
    "points": 0.0,
    "gameId": "401873023",
    "game": "CAR @ GB",
-   "clock": "2:44 - 1st",
-   "quarter": 1
+   "clock": "12:24 - 2nd",
+   "quarter": 2
   }
  ],
- "updated": "2026-10-30T00:45:12Z"
+ "updated": "2026-10-30T01:00:17Z"
 }
