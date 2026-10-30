@@ -409,7 +409,7 @@
    "points": 0.0,
    "gameId": "401873023",
    "game": "CAR @ GB",
-   "clock": "8:19 - 1st",
+   "clock": "2:44 - 1st",
    "quarter": 1
   },
   {
@@ -424,7 +424,7 @@
    "points": 0.0,
    "gameId": "401873023",
    "game": "CAR @ GB",
-   "clock": "8:19 - 1st",
+   "clock": "2:44 - 1st",
    "quarter": 1
   },
   {
@@ -439,7 +439,7 @@
    "points": 0.0,
    "gameId": "401873023",
    "game": "CAR @ GB",
-   "clock": "8:19 - 1st",
+   "clock": "2:44 - 1st",
    "quarter": 1
   },
   {
@@ -454,24 +454,9 @@
    "points": 0.0,
    "gameId": "401873023",
    "game": "CAR @ GB",
-   "clock": "8:19 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-5-4685472",
-   "week": 8,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Tetairoa McMillan",
-   "slot": "WR",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873023",
-   "game": "CAR @ GB",
-   "clock": "8:19 - 1st",
+   "clock": "2:44 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-10-30T00:33:55Z"
+ "updated": "2026-10-30T00:45:12Z"
 }
