@@ -396,22 +396,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "8-15-4695883",
-   "week": 8,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Jalen Coker",
-   "slot": "WR",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873023",
-   "game": "CAR @ GB",
-   "clock": "12:12 - 4th",
-   "quarter": 4
-  }
- ],
- "updated": "2026-10-30T02:45:11Z"
+ "live": [],
+ "updated": "2026-10-30T03:00:19Z"
 }
