@@ -476,21 +476,6 @@
  ],
  "live": [
   {
-   "id": "8-7-2573401",
-   "week": 8,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Tyler Higbee",
-   "slot": "TE",
-   "nfl": "LAR",
-   "points": 0.0,
-   "gameId": "401873032",
-   "game": "LAC @ LAR",
-   "clock": "11:59 - 3rd",
-   "quarter": 3
-  },
-  {
    "id": "8-1-4427095",
    "week": 8,
    "teamId": 1,
@@ -502,9 +487,9 @@
    "points": 0.0,
    "gameId": "401873034",
    "game": "NE @ MIA",
-   "clock": "0:08 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   }
  ],
- "updated": "2026-11-01T22:45:12Z"
+ "updated": "2026-11-01T23:00:16Z"
 }
