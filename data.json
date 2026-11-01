@@ -409,6 +409,19 @@
    "status": "Inactive"
   },
   {
+   "id": "8-5-4242355",
+   "week": 8,
+   "teamId": 5,
+   "team": "Irvin's in Paris",
+   "owner": "Danny Scott",
+   "player": "Jake Ferguson",
+   "slot": "TE",
+   "nfl": "DAL",
+   "points": 0.0,
+   "gameId": "401873024",
+   "status": "Inactive"
+  },
+  {
    "id": "8-5-4608810",
    "week": 8,
    "teamId": 5,
@@ -463,21 +476,6 @@
  ],
  "live": [
   {
-   "id": "8-5-4242355",
-   "week": 8,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Jake Ferguson",
-   "slot": "TE",
-   "nfl": "DAL",
-   "points": 0.0,
-   "gameId": "401873024",
-   "game": "ARI @ DAL",
-   "clock": "9:18 - OT",
-   "quarter": 5
-  },
-  {
    "id": "8-16-12483",
    "week": 8,
    "teamId": 16,
@@ -486,11 +484,26 @@
    "player": "Matthew Stafford",
    "slot": "QB",
    "nfl": "LAR",
-   "points": -1.48,
+   "points": -1.52,
    "gameId": "401873032",
    "game": "LAC @ LAR",
-   "clock": "6:30 - 1st",
-   "quarter": 1
+   "clock": "15:00 - 2nd",
+   "quarter": 2
+  },
+  {
+   "id": "8-7-2573401",
+   "week": 8,
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Tyler Higbee",
+   "slot": "TE",
+   "nfl": "LAR",
+   "points": 0.0,
+   "gameId": "401873032",
+   "game": "LAC @ LAR",
+   "clock": "15:00 - 2nd",
+   "quarter": 2
   },
   {
    "id": "8-4-4869645",
@@ -504,7 +517,7 @@
    "points": 0.0,
    "gameId": "401873034",
    "game": "NE @ MIA",
-   "clock": "12:41 - 1st",
+   "clock": "6:57 - 1st",
    "quarter": 1
   },
   {
@@ -519,7 +532,7 @@
    "points": 0.0,
    "gameId": "401873033",
    "game": "KC @ DEN",
-   "clock": "13:03 - 1st",
+   "clock": "6:04 - 1st",
    "quarter": 1
   },
   {
@@ -534,67 +547,7 @@
    "points": 0.0,
    "gameId": "401873034",
    "game": "NE @ MIA",
-   "clock": "12:41 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-9-4431452",
-   "week": 8,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Drake Maye",
-   "slot": "QB",
-   "nfl": "NE",
-   "points": 0.0,
-   "gameId": "401873034",
-   "game": "NE @ MIA",
-   "clock": "12:41 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-16-4831959",
-   "week": 8,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Eli Raridon",
-   "slot": "TE",
-   "nfl": "NE",
-   "points": 0.0,
-   "gameId": "401873034",
-   "game": "NE @ MIA",
-   "clock": "12:41 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-10-3055899",
-   "week": 8,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "Harrison Butker",
-   "slot": "K",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873033",
-   "game": "KC @ DEN",
-   "clock": "13:03 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-13-3046439",
-   "week": 8,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Hunter Henry",
-   "slot": "TE",
-   "nfl": "NE",
-   "points": 0.0,
-   "gameId": "401873034",
-   "game": "NE @ MIA",
-   "clock": "12:41 - 1st",
+   "clock": "6:57 - 1st",
    "quarter": 1
   },
   {
@@ -609,84 +562,9 @@
    "points": 0.0,
    "gameId": "401873033",
    "game": "KC @ DEN",
-   "clock": "13:03 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-2-4428331",
-   "week": 8,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Rashee Rice",
-   "slot": "WR",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873033",
-   "game": "KC @ DEN",
-   "clock": "13:03 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-9-4569173",
-   "week": 8,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Rhamondre Stevenson",
-   "slot": "RB",
-   "nfl": "NE",
-   "points": 0.0,
-   "gameId": "401873034",
-   "game": "NE @ MIA",
-   "clock": "12:41 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-9-15847",
-   "week": 8,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Travis Kelce",
-   "slot": "TE",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873033",
-   "game": "KC @ DEN",
-   "clock": "13:03 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-7-2573401",
-   "week": 8,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Tyler Higbee",
-   "slot": "TE",
-   "nfl": "LAR",
-   "points": 0.0,
-   "gameId": "401873032",
-   "game": "LAC @ LAR",
-   "clock": "6:30 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-13-4683062",
-   "week": 8,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Xavier Worthy",
-   "slot": "WR",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873033",
-   "game": "KC @ DEN",
-   "clock": "13:03 - 1st",
+   "clock": "6:04 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-01T21:30:14Z"
+ "updated": "2026-11-01T21:45:11Z"
 }
