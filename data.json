@@ -398,36 +398,6 @@
  ],
  "live": [
   {
-   "id": "8-2-2578570",
-   "week": 8,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Jacoby Brissett",
-   "slot": "QB",
-   "nfl": "ARI",
-   "points": -0.4,
-   "gameId": "401873024",
-   "game": "ARI @ DAL",
-   "clock": "6:02 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "8-1-4890973",
-   "week": 8,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "Ashton Jeanty",
-   "slot": "RB",
-   "nfl": "LV",
-   "points": 0.0,
-   "gameId": "401873029",
-   "game": "LV @ NYJ",
-   "clock": "7:05 - 2nd",
-   "quarter": 2
-  },
-  {
    "id": "8-14-4426502",
    "week": 8,
    "teamId": 14,
@@ -439,7 +409,7 @@
    "points": 0.0,
    "gameId": "401873025",
    "game": "ATL @ TB",
-   "clock": "6:22 - 2nd",
+   "clock": "4:04 - 2nd",
    "quarter": 2
   },
   {
@@ -454,7 +424,7 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "12:27 - 2nd",
+   "clock": "9:50 - 2nd",
    "quarter": 2
   },
   {
@@ -469,7 +439,7 @@
    "points": 0.0,
    "gameId": "401873024",
    "game": "ARI @ DAL",
-   "clock": "6:02 - 2nd",
+   "clock": "4:29 - 2nd",
    "quarter": 2
   },
   {
@@ -484,7 +454,7 @@
    "points": 0.0,
    "gameId": "401873030",
    "game": "MIN @ DET",
-   "clock": "11:21 - 2nd",
+   "clock": "8:48 - 2nd",
    "quarter": 2
   },
   {
@@ -499,22 +469,7 @@
    "points": 0.0,
    "gameId": "401873027",
    "game": "CLE @ PIT",
-   "clock": "8:43 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "8-2-3045523",
-   "week": 8,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Kendrick Bourne",
-   "slot": "FLEX",
-   "nfl": "ARI",
-   "points": 0.0,
-   "gameId": "401873024",
-   "game": "ARI @ DAL",
-   "clock": "6:02 - 2nd",
+   "clock": "4:17 - 2nd",
    "quarter": 2
   },
   {
@@ -529,7 +484,7 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "12:27 - 2nd",
+   "clock": "9:50 - 2nd",
    "quarter": 2
   },
   {
@@ -544,7 +499,7 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "12:27 - 2nd",
+   "clock": "9:50 - 2nd",
    "quarter": 2
   },
   {
@@ -559,7 +514,7 @@
    "points": 0.0,
    "gameId": "401873029",
    "game": "LV @ NYJ",
-   "clock": "7:05 - 2nd",
+   "clock": "5:43 - 2nd",
    "quarter": 2
   },
   {
@@ -574,7 +529,7 @@
    "points": 0.0,
    "gameId": "401873029",
    "game": "LV @ NYJ",
-   "clock": "7:05 - 2nd",
+   "clock": "5:43 - 2nd",
    "quarter": 2
   },
   {
@@ -589,7 +544,7 @@
    "points": 0.0,
    "gameId": "401873028",
    "game": "IND @ JAX",
-   "clock": "7:21 - 2nd",
+   "clock": "7:07 - 2nd",
    "quarter": 2
   },
   {
@@ -604,7 +559,7 @@
    "points": 0.0,
    "gameId": "401873025",
    "game": "ATL @ TB",
-   "clock": "6:22 - 2nd",
+   "clock": "4:04 - 2nd",
    "quarter": 2
   },
   {
@@ -619,7 +574,7 @@
    "points": 0.0,
    "gameId": "401873025",
    "game": "ATL @ TB",
-   "clock": "6:22 - 2nd",
+   "clock": "4:04 - 2nd",
    "quarter": 2
   },
   {
@@ -634,9 +589,9 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "12:27 - 2nd",
+   "clock": "9:50 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-01T19:00:17Z"
+ "updated": "2026-11-01T19:05:54Z"
 }
