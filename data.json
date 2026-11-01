@@ -469,7 +469,7 @@
    "points": 0.0,
    "gameId": "401873030",
    "game": "MIN @ DET",
-   "clock": "4:40 - 3rd",
+   "clock": "4:36 - 3rd",
    "quarter": 3
   },
   {
@@ -484,7 +484,7 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "11:28 - 3rd",
+   "clock": "10:53 - 3rd",
    "quarter": 3
   },
   {
@@ -499,7 +499,7 @@
    "points": 0.0,
    "gameId": "401873029",
    "game": "LV @ NYJ",
-   "clock": "1:33 - 3rd",
+   "clock": "End of 3rd",
    "quarter": 3
   },
   {
@@ -514,9 +514,9 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "11:28 - 3rd",
+   "clock": "10:53 - 3rd",
    "quarter": 3
   }
  ],
- "updated": "2026-11-01T20:13:57Z"
+ "updated": "2026-11-01T20:15:11Z"
 }
