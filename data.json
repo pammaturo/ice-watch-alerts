@@ -476,21 +476,6 @@
  ],
  "live": [
   {
-   "id": "8-16-12483",
-   "week": 8,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Matthew Stafford",
-   "slot": "QB",
-   "nfl": "LAR",
-   "points": -1.2,
-   "gameId": "401873032",
-   "game": "LAC @ LAR",
-   "clock": "1:55 - 2nd",
-   "quarter": 2
-  },
-  {
    "id": "8-4-4869645",
    "week": 8,
    "teamId": 4,
@@ -502,7 +487,7 @@
    "points": 0.0,
    "gameId": "401873034",
    "game": "NE @ MIA",
-   "clock": "9:27 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -517,22 +502,7 @@
    "points": 0.0,
    "gameId": "401873034",
    "game": "NE @ MIA",
-   "clock": "9:27 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "8-9-4372016",
-   "week": 8,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Jaylen Waddle",
-   "slot": "WR",
-   "nfl": "DEN",
-   "points": 0.0,
-   "gameId": "401873033",
-   "game": "KC @ DEN",
-   "clock": "13:46 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -547,9 +517,9 @@
    "points": 0.0,
    "gameId": "401873032",
    "game": "LAC @ LAR",
-   "clock": "1:55 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   }
  ],
- "updated": "2026-11-01T22:15:11Z"
+ "updated": "2026-11-01T22:28:32Z"
 }
