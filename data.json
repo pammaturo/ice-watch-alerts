@@ -487,22 +487,7 @@
    "points": -1.2,
    "gameId": "401873032",
    "game": "LAC @ LAR",
-   "clock": "8:26 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "8-7-2573401",
-   "week": 8,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Tyler Higbee",
-   "slot": "TE",
-   "nfl": "LAR",
-   "points": 0.0,
-   "gameId": "401873032",
-   "game": "LAC @ LAR",
-   "clock": "8:26 - 2nd",
+   "clock": "1:55 - 2nd",
    "quarter": 2
   },
   {
@@ -517,23 +502,8 @@
    "points": 0.0,
    "gameId": "401873034",
    "game": "NE @ MIA",
-   "clock": "0:56 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-13-3128429",
-   "week": 8,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Courtland Sutton",
-   "slot": "FLEX",
-   "nfl": "DEN",
-   "points": 0.0,
-   "gameId": "401873033",
-   "game": "KC @ DEN",
-   "clock": "1:19 - 1st",
-   "quarter": 1
+   "clock": "9:27 - 2nd",
+   "quarter": 2
   },
   {
    "id": "8-1-4427095",
@@ -547,8 +517,8 @@
    "points": 0.0,
    "gameId": "401873034",
    "game": "NE @ MIA",
-   "clock": "0:56 - 1st",
-   "quarter": 1
+   "clock": "9:27 - 2nd",
+   "quarter": 2
   },
   {
    "id": "8-9-4372016",
@@ -562,9 +532,24 @@
    "points": 0.0,
    "gameId": "401873033",
    "game": "KC @ DEN",
-   "clock": "1:19 - 1st",
-   "quarter": 1
+   "clock": "13:46 - 2nd",
+   "quarter": 2
+  },
+  {
+   "id": "8-7-2573401",
+   "week": 8,
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Tyler Higbee",
+   "slot": "TE",
+   "nfl": "LAR",
+   "points": 0.0,
+   "gameId": "401873032",
+   "game": "LAC @ LAR",
+   "clock": "1:55 - 2nd",
+   "quarter": 2
   }
  ],
- "updated": "2026-11-01T22:00:15Z"
+ "updated": "2026-11-01T22:15:11Z"
 }
