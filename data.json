@@ -476,19 +476,19 @@
  ],
  "live": [
   {
-   "id": "8-4-4869645",
+   "id": "8-7-2573401",
    "week": 8,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Caleb Douglas",
-   "slot": "FLEX",
-   "nfl": "MIA",
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Tyler Higbee",
+   "slot": "TE",
+   "nfl": "LAR",
    "points": 0.0,
-   "gameId": "401873034",
-   "game": "NE @ MIA",
-   "clock": "2:00 - 2nd",
-   "quarter": 2
+   "gameId": "401873032",
+   "game": "LAC @ LAR",
+   "clock": "11:59 - 3rd",
+   "quarter": 3
   },
   {
    "id": "8-1-4427095",
@@ -502,24 +502,9 @@
    "points": 0.0,
    "gameId": "401873034",
    "game": "NE @ MIA",
-   "clock": "2:00 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "8-7-2573401",
-   "week": 8,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Tyler Higbee",
-   "slot": "TE",
-   "nfl": "LAR",
-   "points": 0.0,
-   "gameId": "401873032",
-   "game": "LAC @ LAR",
-   "clock": "Halftime",
+   "clock": "0:08 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-01T22:28:32Z"
+ "updated": "2026-11-01T22:45:12Z"
 }
