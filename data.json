@@ -409,22 +409,7 @@
    "points": 0.0,
    "gameId": "401873025",
    "game": "ATL @ TB",
-   "clock": "4:04 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "8-16-4870847",
-   "week": 8,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Ja'Kobi Lane",
-   "slot": "WR",
-   "nfl": "BAL",
-   "points": 0.0,
-   "gameId": "401873026",
-   "game": "BAL @ BUF",
-   "clock": "9:50 - 2nd",
+   "clock": "1:55 - 2nd",
    "quarter": 2
   },
   {
@@ -439,7 +424,7 @@
    "points": 0.0,
    "gameId": "401873024",
    "game": "ARI @ DAL",
-   "clock": "4:29 - 2nd",
+   "clock": "1:13 - 2nd",
    "quarter": 2
   },
   {
@@ -454,7 +439,7 @@
    "points": 0.0,
    "gameId": "401873030",
    "game": "MIN @ DET",
-   "clock": "8:48 - 2nd",
+   "clock": "3:55 - 2nd",
    "quarter": 2
   },
   {
@@ -469,7 +454,7 @@
    "points": 0.0,
    "gameId": "401873027",
    "game": "CLE @ PIT",
-   "clock": "4:17 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -484,7 +469,7 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "9:50 - 2nd",
+   "clock": "7:37 - 2nd",
    "quarter": 2
   },
   {
@@ -499,7 +484,7 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "9:50 - 2nd",
+   "clock": "7:37 - 2nd",
    "quarter": 2
   },
   {
@@ -514,7 +499,7 @@
    "points": 0.0,
    "gameId": "401873029",
    "game": "LV @ NYJ",
-   "clock": "5:43 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -529,7 +514,7 @@
    "points": 0.0,
    "gameId": "401873029",
    "game": "LV @ NYJ",
-   "clock": "5:43 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -544,7 +529,7 @@
    "points": 0.0,
    "gameId": "401873028",
    "game": "IND @ JAX",
-   "clock": "7:07 - 2nd",
+   "clock": "4:02 - 2nd",
    "quarter": 2
   },
   {
@@ -559,7 +544,22 @@
    "points": 0.0,
    "gameId": "401873025",
    "game": "ATL @ TB",
-   "clock": "4:04 - 2nd",
+   "clock": "1:55 - 2nd",
+   "quarter": 2
+  },
+  {
+   "id": "8-15-4697745",
+   "week": 8,
+   "teamId": 15,
+   "team": "Droopy Nuts",
+   "owner": "Sam Davis",
+   "player": "Tyler Loop",
+   "slot": "K",
+   "nfl": "BAL",
+   "points": 0.0,
+   "gameId": "401873026",
+   "game": "BAL @ BUF",
+   "clock": "7:37 - 2nd",
    "quarter": 2
   },
   {
@@ -574,7 +574,7 @@
    "points": 0.0,
    "gameId": "401873025",
    "game": "ATL @ TB",
-   "clock": "4:04 - 2nd",
+   "clock": "1:55 - 2nd",
    "quarter": 2
   },
   {
@@ -589,9 +589,9 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "9:50 - 2nd",
+   "clock": "7:37 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-01T19:05:54Z"
+ "updated": "2026-11-01T19:15:12Z"
 }
