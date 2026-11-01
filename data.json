@@ -409,67 +409,7 @@
    "points": 0.0,
    "gameId": "401873025",
    "game": "ATL @ TB",
-   "clock": "12:44 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "8-4-4429086",
-   "week": 8,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Michael Mayer",
-   "slot": "TE",
-   "nfl": "LV",
-   "points": 0.0,
-   "gameId": "401873029",
-   "game": "LV @ NYJ",
-   "clock": "10:38 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "8-3-4723820",
-   "week": 8,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Omar Cooper Jr.",
-   "slot": "FLEX",
-   "nfl": "NYJ",
-   "points": 0.0,
-   "gameId": "401873029",
-   "game": "LV @ NYJ",
-   "clock": "10:38 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "8-5-4608810",
-   "week": 8,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Tez Johnson",
-   "slot": "FLEX",
-   "nfl": "TB",
-   "points": 0.0,
-   "gameId": "401873025",
-   "game": "ATL @ TB",
-   "clock": "12:44 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "8-7-4870612",
-   "week": 8,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Zachariah Branch",
-   "slot": "WR",
-   "nfl": "ATL",
-   "points": 0.0,
-   "gameId": "401873025",
-   "game": "ATL @ TB",
-   "clock": "12:44 - 3rd",
+   "clock": "7:09 - 3rd",
    "quarter": 3
   },
   {
@@ -484,8 +424,8 @@
    "points": 0.0,
    "gameId": "401873024",
    "game": "ARI @ DAL",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "6:37 - 3rd",
+   "quarter": 3
   },
   {
    "id": "8-5-4429205",
@@ -499,8 +439,8 @@
    "points": 0.0,
    "gameId": "401873030",
    "game": "MIN @ DET",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "9:48 - 3rd",
+   "quarter": 3
   },
   {
    "id": "8-7-3916387",
@@ -514,8 +454,8 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "0:02 - 2nd",
-   "quarter": 2
+   "clock": "14:54 - 3rd",
+   "quarter": 3
   },
   {
    "id": "8-2-3116365",
@@ -529,8 +469,23 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "0:02 - 2nd",
-   "quarter": 2
+   "clock": "14:54 - 3rd",
+   "quarter": 3
+  },
+  {
+   "id": "8-3-4723820",
+   "week": 8,
+   "teamId": 3,
+   "team": "The Ball $acks",
+   "owner": "Patrick Ammaturo",
+   "player": "Omar Cooper Jr.",
+   "slot": "FLEX",
+   "nfl": "NYJ",
+   "points": 0.0,
+   "gameId": "401873029",
+   "game": "LV @ NYJ",
+   "clock": "6:45 - 3rd",
+   "quarter": 3
   },
   {
    "id": "8-17-4571557",
@@ -544,8 +499,23 @@
    "points": 0.0,
    "gameId": "401873028",
    "game": "IND @ JAX",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "9:08 - 3rd",
+   "quarter": 3
+  },
+  {
+   "id": "8-5-4608810",
+   "week": 8,
+   "teamId": 5,
+   "team": "Irvin's in Paris",
+   "owner": "Danny Scott",
+   "player": "Tez Johnson",
+   "slot": "FLEX",
+   "nfl": "TB",
+   "points": 0.0,
+   "gameId": "401873025",
+   "game": "ATL @ TB",
+   "clock": "7:09 - 3rd",
+   "quarter": 3
   },
   {
    "id": "8-15-4697745",
@@ -559,8 +529,23 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "0:02 - 2nd",
-   "quarter": 2
+   "clock": "14:54 - 3rd",
+   "quarter": 3
+  },
+  {
+   "id": "8-7-4870612",
+   "week": 8,
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Zachariah Branch",
+   "slot": "WR",
+   "nfl": "ATL",
+   "points": 0.0,
+   "gameId": "401873025",
+   "game": "ATL @ TB",
+   "clock": "7:09 - 3rd",
+   "quarter": 3
   },
   {
    "id": "8-7-4429615",
@@ -574,9 +559,9 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "0:02 - 2nd",
-   "quarter": 2
+   "clock": "14:54 - 3rd",
+   "quarter": 3
   }
  ],
- "updated": "2026-11-01T19:45:12Z"
+ "updated": "2026-11-01T20:00:16Z"
 }
