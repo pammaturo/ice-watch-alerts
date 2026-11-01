@@ -448,7 +448,7 @@
    "points": 0.0,
    "gameId": "401873024",
    "game": "ARI @ DAL",
-   "clock": "0:50 - 4th",
+   "clock": "0:06 - 4th",
    "quarter": 4
   },
   {
@@ -463,7 +463,7 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "3:56 - 4th",
+   "clock": "1:14 - 4th",
    "quarter": 4
   },
   {
@@ -478,7 +478,7 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "3:56 - 4th",
+   "clock": "1:14 - 4th",
    "quarter": 4
   },
   {
@@ -490,40 +490,10 @@
    "player": "Matthew Stafford",
    "slot": "QB",
    "nfl": "LAR",
-   "points": -1.64,
+   "points": -1.8,
    "gameId": "401873032",
    "game": "LAC @ LAR",
-   "clock": "12:06 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-11-4429096",
-   "week": 8,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Blake Corum",
-   "slot": "RB",
-   "nfl": "LAR",
-   "points": 0.0,
-   "gameId": "401873032",
-   "game": "LAC @ LAR",
-   "clock": "12:06 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-17-4430737",
-   "week": 8,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Kyren Williams",
-   "slot": "RB",
-   "nfl": "LAR",
-   "points": 0.0,
-   "gameId": "401873032",
-   "game": "LAC @ LAR",
-   "clock": "12:06 - 1st",
+   "clock": "9:21 - 1st",
    "quarter": 1
   },
   {
@@ -538,9 +508,9 @@
    "points": 0.0,
    "gameId": "401873032",
    "game": "LAC @ LAR",
-   "clock": "12:06 - 1st",
+   "clock": "9:21 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-01T21:15:11Z"
+ "updated": "2026-11-01T21:22:14Z"
 }
