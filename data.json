@@ -484,10 +484,10 @@
    "player": "Matthew Stafford",
    "slot": "QB",
    "nfl": "LAR",
-   "points": -1.52,
+   "points": -1.2,
    "gameId": "401873032",
    "game": "LAC @ LAR",
-   "clock": "10:06 - 2nd",
+   "clock": "8:26 - 2nd",
    "quarter": 2
   },
   {
@@ -502,7 +502,7 @@
    "points": 0.0,
    "gameId": "401873032",
    "game": "LAC @ LAR",
-   "clock": "10:06 - 2nd",
+   "clock": "8:26 - 2nd",
    "quarter": 2
   },
   {
@@ -517,7 +517,7 @@
    "points": 0.0,
    "gameId": "401873034",
    "game": "NE @ MIA",
-   "clock": "1:20 - 1st",
+   "clock": "0:56 - 1st",
    "quarter": 1
   },
   {
@@ -532,7 +532,7 @@
    "points": 0.0,
    "gameId": "401873033",
    "game": "KC @ DEN",
-   "clock": "2:07 - 1st",
+   "clock": "1:19 - 1st",
    "quarter": 1
   },
   {
@@ -547,7 +547,7 @@
    "points": 0.0,
    "gameId": "401873034",
    "game": "NE @ MIA",
-   "clock": "1:20 - 1st",
+   "clock": "0:56 - 1st",
    "quarter": 1
   },
   {
@@ -562,9 +562,9 @@
    "points": 0.0,
    "gameId": "401873033",
    "game": "KC @ DEN",
-   "clock": "2:07 - 1st",
+   "clock": "1:19 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-01T21:56:54Z"
+ "updated": "2026-11-01T22:00:15Z"
 }
