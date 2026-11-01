@@ -406,7 +406,7 @@
    "nfl": "NYJ",
    "points": 0.0,
    "gameId": "401873029",
-   "status": "Inactive"
+   "status": "Played"
   },
   {
    "id": "8-5-4242355",
@@ -419,7 +419,7 @@
    "nfl": "DAL",
    "points": 0.0,
    "gameId": "401873024",
-   "status": "Inactive"
+   "status": "Played"
   },
   {
    "id": "8-5-4608810",
@@ -487,7 +487,7 @@
    "points": -1.52,
    "gameId": "401873032",
    "game": "LAC @ LAR",
-   "clock": "15:00 - 2nd",
+   "clock": "10:06 - 2nd",
    "quarter": 2
   },
   {
@@ -502,7 +502,7 @@
    "points": 0.0,
    "gameId": "401873032",
    "game": "LAC @ LAR",
-   "clock": "15:00 - 2nd",
+   "clock": "10:06 - 2nd",
    "quarter": 2
   },
   {
@@ -517,7 +517,7 @@
    "points": 0.0,
    "gameId": "401873034",
    "game": "NE @ MIA",
-   "clock": "6:57 - 1st",
+   "clock": "1:20 - 1st",
    "quarter": 1
   },
   {
@@ -532,7 +532,7 @@
    "points": 0.0,
    "gameId": "401873033",
    "game": "KC @ DEN",
-   "clock": "6:04 - 1st",
+   "clock": "2:07 - 1st",
    "quarter": 1
   },
   {
@@ -547,7 +547,7 @@
    "points": 0.0,
    "gameId": "401873034",
    "game": "NE @ MIA",
-   "clock": "6:57 - 1st",
+   "clock": "1:20 - 1st",
    "quarter": 1
   },
   {
@@ -562,9 +562,9 @@
    "points": 0.0,
    "gameId": "401873033",
    "game": "KC @ DEN",
-   "clock": "6:04 - 1st",
+   "clock": "2:07 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-01T21:45:11Z"
+ "updated": "2026-11-01T21:56:54Z"
 }
