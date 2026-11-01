@@ -398,21 +398,6 @@
  ],
  "live": [
   {
-   "id": "8-14-4426502",
-   "week": 8,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Drake London",
-   "slot": "WR",
-   "nfl": "ATL",
-   "points": 0.0,
-   "gameId": "401873025",
-   "game": "ATL @ TB",
-   "clock": "7:18 - 4th",
-   "quarter": 4
-  },
-  {
    "id": "8-5-4242355",
    "week": 8,
    "teamId": 5,
@@ -424,52 +409,7 @@
    "points": 0.0,
    "gameId": "401873024",
    "game": "ARI @ DAL",
-   "clock": "12:09 - 4th",
-   "quarter": 4
-  },
-  {
-   "id": "8-3-4723820",
-   "week": 8,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Omar Cooper Jr.",
-   "slot": "FLEX",
-   "nfl": "NYJ",
-   "points": 0.0,
-   "gameId": "401873029",
-   "game": "LV @ NYJ",
-   "clock": "10:06 - 4th",
-   "quarter": 4
-  },
-  {
-   "id": "8-5-4608810",
-   "week": 8,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Tez Johnson",
-   "slot": "FLEX",
-   "nfl": "TB",
-   "points": 0.0,
-   "gameId": "401873025",
-   "game": "ATL @ TB",
-   "clock": "7:18 - 4th",
-   "quarter": 4
-  },
-  {
-   "id": "8-7-4870612",
-   "week": 8,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Zachariah Branch",
-   "slot": "WR",
-   "nfl": "ATL",
-   "points": 0.0,
-   "gameId": "401873025",
-   "game": "ATL @ TB",
-   "clock": "7:18 - 4th",
+   "clock": "6:31 - 4th",
    "quarter": 4
   },
   {
@@ -484,8 +424,53 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "6:01 - 3rd",
-   "quarter": 3
+   "clock": "15:00 - 4th",
+   "quarter": 4
+  },
+  {
+   "id": "8-3-4723820",
+   "week": 8,
+   "teamId": 3,
+   "team": "The Ball $acks",
+   "owner": "Patrick Ammaturo",
+   "player": "Omar Cooper Jr.",
+   "slot": "FLEX",
+   "nfl": "NYJ",
+   "points": 0.0,
+   "gameId": "401873029",
+   "game": "LV @ NYJ",
+   "clock": "4:31 - 4th",
+   "quarter": 4
+  },
+  {
+   "id": "8-5-4608810",
+   "week": 8,
+   "teamId": 5,
+   "team": "Irvin's in Paris",
+   "owner": "Danny Scott",
+   "player": "Tez Johnson",
+   "slot": "FLEX",
+   "nfl": "TB",
+   "points": 0.0,
+   "gameId": "401873025",
+   "game": "ATL @ TB",
+   "clock": "2:51 - 4th",
+   "quarter": 4
+  },
+  {
+   "id": "8-7-4870612",
+   "week": 8,
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Zachariah Branch",
+   "slot": "WR",
+   "nfl": "ATL",
+   "points": 0.0,
+   "gameId": "401873025",
+   "game": "ATL @ TB",
+   "clock": "2:51 - 4th",
+   "quarter": 4
   },
   {
    "id": "8-7-4429615",
@@ -499,9 +484,9 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "6:01 - 3rd",
-   "quarter": 3
+   "clock": "15:00 - 4th",
+   "quarter": 4
   }
  ],
- "updated": "2026-11-01T20:30:14Z"
+ "updated": "2026-11-01T20:45:13Z"
 }
