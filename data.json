@@ -409,8 +409,38 @@
    "points": 0.0,
    "gameId": "401873025",
    "game": "ATL @ TB",
-   "clock": "7:09 - 3rd",
-   "quarter": 3
+   "clock": "15:00 - 4th",
+   "quarter": 4
+  },
+  {
+   "id": "8-5-4608810",
+   "week": 8,
+   "teamId": 5,
+   "team": "Irvin's in Paris",
+   "owner": "Danny Scott",
+   "player": "Tez Johnson",
+   "slot": "FLEX",
+   "nfl": "TB",
+   "points": 0.0,
+   "gameId": "401873025",
+   "game": "ATL @ TB",
+   "clock": "15:00 - 4th",
+   "quarter": 4
+  },
+  {
+   "id": "8-7-4870612",
+   "week": 8,
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Zachariah Branch",
+   "slot": "WR",
+   "nfl": "ATL",
+   "points": 0.0,
+   "gameId": "401873025",
+   "game": "ATL @ TB",
+   "clock": "15:00 - 4th",
+   "quarter": 4
   },
   {
    "id": "8-5-4242355",
@@ -424,7 +454,7 @@
    "points": 0.0,
    "gameId": "401873024",
    "game": "ARI @ DAL",
-   "clock": "6:37 - 3rd",
+   "clock": "0:57 - 3rd",
    "quarter": 3
   },
   {
@@ -439,7 +469,7 @@
    "points": 0.0,
    "gameId": "401873030",
    "game": "MIN @ DET",
-   "clock": "9:48 - 3rd",
+   "clock": "4:40 - 3rd",
    "quarter": 3
   },
   {
@@ -454,22 +484,7 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "14:54 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "8-2-3116365",
-   "week": 8,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Mark Andrews",
-   "slot": "TE",
-   "nfl": "BAL",
-   "points": 0.0,
-   "gameId": "401873026",
-   "game": "BAL @ BUF",
-   "clock": "14:54 - 3rd",
+   "clock": "11:28 - 3rd",
    "quarter": 3
   },
   {
@@ -484,67 +499,7 @@
    "points": 0.0,
    "gameId": "401873029",
    "game": "LV @ NYJ",
-   "clock": "6:45 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "8-17-4571557",
-   "week": 8,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Spencer Shrader",
-   "slot": "K",
-   "nfl": "IND",
-   "points": 0.0,
-   "gameId": "401873028",
-   "game": "IND @ JAX",
-   "clock": "9:08 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "8-5-4608810",
-   "week": 8,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Tez Johnson",
-   "slot": "FLEX",
-   "nfl": "TB",
-   "points": 0.0,
-   "gameId": "401873025",
-   "game": "ATL @ TB",
-   "clock": "7:09 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "8-15-4697745",
-   "week": 8,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Tyler Loop",
-   "slot": "K",
-   "nfl": "BAL",
-   "points": 0.0,
-   "gameId": "401873026",
-   "game": "BAL @ BUF",
-   "clock": "14:54 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "8-7-4870612",
-   "week": 8,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Zachariah Branch",
-   "slot": "WR",
-   "nfl": "ATL",
-   "points": 0.0,
-   "gameId": "401873025",
-   "game": "ATL @ TB",
-   "clock": "7:09 - 3rd",
+   "clock": "1:33 - 3rd",
    "quarter": 3
   },
   {
@@ -559,9 +514,9 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "14:54 - 3rd",
+   "clock": "11:28 - 3rd",
    "quarter": 3
   }
  ],
- "updated": "2026-11-01T20:00:16Z"
+ "updated": "2026-11-01T20:13:57Z"
 }
