@@ -398,6 +398,21 @@
  ],
  "live": [
   {
+   "id": "8-17-3915511",
+   "week": 8,
+   "teamId": 17,
+   "team": "Club La La Land",
+   "owner": "Michael Calamari",
+   "player": "Joe Burrow",
+   "slot": "QB",
+   "nfl": "CIN",
+   "points": -1.28,
+   "gameId": "401873031",
+   "game": "TEN @ CIN",
+   "clock": "6:41 - 1st",
+   "quarter": 1
+  },
+  {
    "id": "8-7-5083076",
    "week": 8,
    "teamId": 7,
@@ -409,7 +424,7 @@
    "points": -0.8,
    "gameId": "401873027",
    "game": "CLE @ PIT",
-   "clock": "11:14 - 1st",
+   "clock": "7:45 - 1st",
    "quarter": 1
   },
   {
@@ -424,7 +439,7 @@
    "points": 0.0,
    "gameId": "401873029",
    "game": "LV @ NYJ",
-   "clock": "8:59 - 1st",
+   "clock": "4:50 - 1st",
    "quarter": 1
   },
   {
@@ -439,52 +454,7 @@
    "points": 0.0,
    "gameId": "401873024",
    "game": "ARI @ DAL",
-   "clock": "9:00 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-14-4686361",
-   "week": 8,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Cam Little",
-   "slot": "K",
-   "nfl": "JAX",
-   "points": 0.0,
-   "gameId": "401873028",
-   "game": "IND @ JAX",
-   "clock": "5:35 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-12-17372",
-   "week": 8,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta & Andrew Blough",
-   "player": "Chris Boswell",
-   "slot": "K",
-   "nfl": "PIT",
-   "points": 0.0,
-   "gameId": "401873027",
-   "game": "CLE @ PIT",
-   "clock": "11:14 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-15-4362619",
-   "week": 8,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Chris Rodriguez Jr.",
-   "slot": "RB",
-   "nfl": "JAX",
-   "points": 0.0,
-   "gameId": "401873028",
-   "game": "IND @ JAX",
-   "clock": "5:35 - 1st",
+   "clock": "4:34 - 1st",
    "quarter": 1
   },
   {
@@ -499,7 +469,7 @@
    "points": 0.0,
    "gameId": "401873027",
    "game": "CLE @ PIT",
-   "clock": "11:14 - 1st",
+   "clock": "7:45 - 1st",
    "quarter": 1
   },
   {
@@ -514,7 +484,7 @@
    "points": 0.0,
    "gameId": "401873025",
    "game": "ATL @ TB",
-   "clock": "7:43 - 1st",
+   "clock": "4:53 - 1st",
    "quarter": 1
   },
   {
@@ -529,22 +499,7 @@
    "points": 0.0,
    "gameId": "401873031",
    "game": "TEN @ CIN",
-   "clock": "9:33 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-1-4685261",
-   "week": 8,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "Germie Bernard",
-   "slot": "WR",
-   "nfl": "PIT",
-   "points": 0.0,
-   "gameId": "401873027",
-   "game": "CLE @ PIT",
-   "clock": "11:14 - 1st",
+   "clock": "6:41 - 1st",
    "quarter": 1
   },
   {
@@ -559,7 +514,7 @@
    "points": 0.0,
    "gameId": "401873029",
    "game": "LV @ NYJ",
-   "clock": "8:59 - 1st",
+   "clock": "4:50 - 1st",
    "quarter": 1
   },
   {
@@ -574,22 +529,7 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "10:00 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-17-4362628",
-   "week": 8,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Ja'Marr Chase",
-   "slot": "WR",
-   "nfl": "CIN",
-   "points": 0.0,
-   "gameId": "401873031",
-   "game": "TEN @ CIN",
-   "clock": "9:33 - 1st",
+   "clock": "5:21 - 1st",
    "quarter": 1
   },
   {
@@ -604,7 +544,7 @@
    "points": 0.0,
    "gameId": "401873030",
    "game": "MIN @ DET",
-   "clock": "9:28 - 1st",
+   "clock": "4:55 - 1st",
    "quarter": 1
   },
   {
@@ -619,22 +559,7 @@
    "points": 0.0,
    "gameId": "401873024",
    "game": "ARI @ DAL",
-   "clock": "9:00 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-2-4426388",
-   "week": 8,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Jameson Williams",
-   "slot": "WR",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873030",
-   "game": "MIN @ DET",
-   "clock": "9:28 - 1st",
+   "clock": "4:34 - 1st",
    "quarter": 1
   },
   {
@@ -649,7 +574,7 @@
    "points": 0.0,
    "gameId": "401873030",
    "game": "MIN @ DET",
-   "clock": "9:28 - 1st",
+   "clock": "4:55 - 1st",
    "quarter": 1
   },
   {
@@ -664,7 +589,7 @@
    "points": 0.0,
    "gameId": "401873030",
    "game": "MIN @ DET",
-   "clock": "9:28 - 1st",
+   "clock": "4:55 - 1st",
    "quarter": 1
   },
   {
@@ -679,22 +604,7 @@
    "points": 0.0,
    "gameId": "401873027",
    "game": "CLE @ PIT",
-   "clock": "11:14 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-9-15818",
-   "week": 8,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Keenan Allen",
-   "slot": "WR",
-   "nfl": "IND",
-   "points": 0.0,
-   "gameId": "401873028",
-   "game": "IND @ JAX",
-   "clock": "5:35 - 1st",
+   "clock": "7:45 - 1st",
    "quarter": 1
   },
   {
@@ -709,7 +619,7 @@
    "points": 0.0,
    "gameId": "401873024",
    "game": "ARI @ DAL",
-   "clock": "9:00 - 1st",
+   "clock": "4:34 - 1st",
    "quarter": 1
   },
   {
@@ -724,7 +634,7 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "10:00 - 1st",
+   "clock": "5:21 - 1st",
    "quarter": 1
   },
   {
@@ -739,22 +649,7 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "10:00 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-5-4249087",
-   "week": 8,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Matt Gay",
-   "slot": "K",
-   "nfl": "LV",
-   "points": 0.0,
-   "gameId": "401873029",
-   "game": "LV @ NYJ",
-   "clock": "8:59 - 1st",
+   "clock": "5:21 - 1st",
    "quarter": 1
   },
   {
@@ -769,7 +664,7 @@
    "points": 0.0,
    "gameId": "401873029",
    "game": "LV @ NYJ",
-   "clock": "8:59 - 1st",
+   "clock": "4:50 - 1st",
    "quarter": 1
   },
   {
@@ -784,7 +679,7 @@
    "points": 0.0,
    "gameId": "401873024",
    "game": "ARI @ DAL",
-   "clock": "9:00 - 1st",
+   "clock": "4:34 - 1st",
    "quarter": 1
   },
   {
@@ -799,22 +694,7 @@
    "points": 0.0,
    "gameId": "401873029",
    "game": "LV @ NYJ",
-   "clock": "8:59 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-13-4038815",
-   "week": 8,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Rico Dowdle",
-   "slot": "RB",
-   "nfl": "PIT",
-   "points": 0.0,
-   "gameId": "401873027",
-   "game": "CLE @ PIT",
-   "clock": "11:14 - 1st",
+   "clock": "4:50 - 1st",
    "quarter": 1
   },
   {
@@ -829,7 +709,7 @@
    "points": 0.0,
    "gameId": "401873024",
    "game": "ARI @ DAL",
-   "clock": "9:00 - 1st",
+   "clock": "4:34 - 1st",
    "quarter": 1
   },
   {
@@ -844,7 +724,7 @@
    "points": 0.0,
    "gameId": "401873030",
    "game": "MIN @ DET",
-   "clock": "9:28 - 1st",
+   "clock": "4:55 - 1st",
    "quarter": 1
   },
   {
@@ -859,7 +739,7 @@
    "points": 0.0,
    "gameId": "401873028",
    "game": "IND @ JAX",
-   "clock": "5:35 - 1st",
+   "clock": "2:05 - 1st",
    "quarter": 1
   },
   {
@@ -874,7 +754,7 @@
    "points": 0.0,
    "gameId": "401873030",
    "game": "MIN @ DET",
-   "clock": "9:28 - 1st",
+   "clock": "4:55 - 1st",
    "quarter": 1
   },
   {
@@ -889,7 +769,7 @@
    "points": 0.0,
    "gameId": "401873031",
    "game": "TEN @ CIN",
-   "clock": "9:33 - 1st",
+   "clock": "6:41 - 1st",
    "quarter": 1
   },
   {
@@ -904,7 +784,7 @@
    "points": 0.0,
    "gameId": "401873025",
    "game": "ATL @ TB",
-   "clock": "7:43 - 1st",
+   "clock": "4:53 - 1st",
    "quarter": 1
   },
   {
@@ -919,7 +799,7 @@
    "points": 0.0,
    "gameId": "401873024",
    "game": "ARI @ DAL",
-   "clock": "9:00 - 1st",
+   "clock": "4:34 - 1st",
    "quarter": 1
   },
   {
@@ -934,22 +814,7 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "10:00 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-15-4431459",
-   "week": 8,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Tyler Warren",
-   "slot": "TE",
-   "nfl": "IND",
-   "points": 0.0,
-   "gameId": "401873028",
-   "game": "IND @ JAX",
-   "clock": "5:35 - 1st",
+   "clock": "5:21 - 1st",
    "quarter": 1
   },
   {
@@ -964,7 +829,7 @@
    "points": 0.0,
    "gameId": "401873030",
    "game": "MIN @ DET",
-   "clock": "9:28 - 1st",
+   "clock": "4:55 - 1st",
    "quarter": 1
   },
   {
@@ -979,7 +844,7 @@
    "points": 0.0,
    "gameId": "401873025",
    "game": "ATL @ TB",
-   "clock": "7:43 - 1st",
+   "clock": "4:53 - 1st",
    "quarter": 1
   },
   {
@@ -994,9 +859,9 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "10:00 - 1st",
+   "clock": "5:21 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-01T18:17:32Z"
+ "updated": "2026-11-01T18:30:14Z"
 }
