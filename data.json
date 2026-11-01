@@ -394,6 +394,32 @@
    "points": 0.0,
    "gameId": "401873018",
    "status": "Played"
+  },
+  {
+   "id": "8-5-4608810",
+   "week": 8,
+   "teamId": 5,
+   "team": "Irvin's in Paris",
+   "owner": "Danny Scott",
+   "player": "Tez Johnson",
+   "slot": "FLEX",
+   "nfl": "TB",
+   "points": 0.0,
+   "gameId": "401873025",
+   "status": "Played"
+  },
+  {
+   "id": "8-7-4870612",
+   "week": 8,
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Zachariah Branch",
+   "slot": "WR",
+   "nfl": "ATL",
+   "points": 0.0,
+   "gameId": "401873025",
+   "status": "Played"
   }
  ],
  "live": [
@@ -409,7 +435,7 @@
    "points": 0.0,
    "gameId": "401873024",
    "game": "ARI @ DAL",
-   "clock": "3:54 - 4th",
+   "clock": "2:23 - 4th",
    "quarter": 4
   },
   {
@@ -424,7 +450,7 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "12:23 - 4th",
+   "clock": "9:39 - 4th",
    "quarter": 4
   },
   {
@@ -439,37 +465,7 @@
    "points": 0.0,
    "gameId": "401873029",
    "game": "LV @ NYJ",
-   "clock": "3:26 - 4th",
-   "quarter": 4
-  },
-  {
-   "id": "8-5-4608810",
-   "week": 8,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Tez Johnson",
-   "slot": "FLEX",
-   "nfl": "TB",
-   "points": 0.0,
-   "gameId": "401873025",
-   "game": "ATL @ TB",
-   "clock": "1:10 - 4th",
-   "quarter": 4
-  },
-  {
-   "id": "8-7-4870612",
-   "week": 8,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Zachariah Branch",
-   "slot": "WR",
-   "nfl": "ATL",
-   "points": 0.0,
-   "gameId": "401873025",
-   "game": "ATL @ TB",
-   "clock": "1:10 - 4th",
+   "clock": "0:27 - 4th",
    "quarter": 4
   },
   {
@@ -484,9 +480,9 @@
    "points": 0.0,
    "gameId": "401873026",
    "game": "BAL @ BUF",
-   "clock": "12:23 - 4th",
+   "clock": "9:39 - 4th",
    "quarter": 4
   }
  ],
- "updated": "2026-11-01T20:50:43Z"
+ "updated": "2026-11-01T21:00:17Z"
 }
