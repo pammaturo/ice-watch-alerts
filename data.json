@@ -474,22 +474,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "8-1-4427095",
-   "week": 8,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "DeMario Douglas",
-   "slot": "WR",
-   "nfl": "NE",
-   "points": 0.0,
-   "gameId": "401873034",
-   "game": "NE @ MIA",
-   "clock": "10:08 - 3rd",
-   "quarter": 3
-  }
- ],
- "updated": "2026-11-01T23:15:13Z"
+ "live": [],
+ "updated": "2026-11-01T23:30:14Z"
 }
