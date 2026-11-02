@@ -487,24 +487,9 @@
    "points": 0.0,
    "gameId": "401873035",
    "game": "PHI @ WSH",
-   "clock": "12:16 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "8-14-2976212",
-   "week": 8,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Stefon Diggs",
-   "slot": "FLEX",
-   "nfl": "WSH",
-   "points": 0.0,
-   "gameId": "401873035",
-   "game": "PHI @ WSH",
-   "clock": "12:16 - 2nd",
+   "clock": "4:56 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-02T02:15:11Z"
+ "updated": "2026-11-02T02:30:14Z"
 }
