@@ -474,6 +474,67 @@
    "status": "Played"
   }
  ],
- "live": [],
- "updated": "2026-11-01T23:30:14Z"
+ "live": [
+  {
+   "id": "8-3-3121023",
+   "week": 8,
+   "teamId": 3,
+   "team": "The Ball $acks",
+   "owner": "Patrick Ammaturo",
+   "player": "Dallas Goedert",
+   "slot": "TE",
+   "nfl": "PHI",
+   "points": 0.0,
+   "gameId": "401873035",
+   "game": "PHI @ WSH",
+   "clock": "12:17 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "8-5-3929630",
+   "week": 8,
+   "teamId": 5,
+   "team": "Irvin's in Paris",
+   "owner": "Danny Scott",
+   "player": "Saquon Barkley",
+   "slot": "RB",
+   "nfl": "PHI",
+   "points": 0.0,
+   "gameId": "401873035",
+   "game": "PHI @ WSH",
+   "clock": "12:17 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "8-14-2976212",
+   "week": 8,
+   "teamId": 14,
+   "team": "Team Egg",
+   "owner": "Thomas Egg",
+   "player": "Stefon Diggs",
+   "slot": "FLEX",
+   "nfl": "WSH",
+   "points": 0.0,
+   "gameId": "401873035",
+   "game": "PHI @ WSH",
+   "clock": "12:17 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "8-12-4685201",
+   "week": 8,
+   "teamId": 12,
+   "team": "Manhattan M!dgets",
+   "owner": "Nikhil Mehta & Andrew Blough",
+   "player": "Tanner McKee",
+   "slot": "QB",
+   "nfl": "PHI",
+   "points": 0.0,
+   "gameId": "401873035",
+   "game": "PHI @ WSH",
+   "clock": "12:17 - 1st",
+   "quarter": 1
+  }
+ ],
+ "updated": "2026-11-02T01:30:13Z"
 }
