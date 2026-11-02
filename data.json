@@ -474,22 +474,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "8-3-3121023",
-   "week": 8,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Dallas Goedert",
-   "slot": "TE",
-   "nfl": "PHI",
-   "points": 0.0,
-   "gameId": "401873035",
-   "game": "PHI @ WSH",
-   "clock": "1:23 - 2nd",
-   "quarter": 2
-  }
- ],
- "updated": "2026-11-02T02:45:12Z"
+ "live": [],
+ "updated": "2026-11-02T03:00:19Z"
 }
