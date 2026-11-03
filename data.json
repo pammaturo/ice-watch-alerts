@@ -476,21 +476,6 @@
  ],
  "live": [
   {
-   "id": "8-13-17427",
-   "week": 8,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Cairo Santos",
-   "slot": "K",
-   "nfl": "CHI",
-   "points": 0.0,
-   "gameId": "401873036",
-   "game": "CHI @ SEA",
-   "clock": "6:12 - 1st",
-   "quarter": 1
-  },
-  {
    "id": "8-15-4887558",
    "week": 8,
    "teamId": 15,
@@ -502,7 +487,7 @@
    "points": 0.0,
    "gameId": "401873036",
    "game": "CHI @ SEA",
-   "clock": "6:12 - 1st",
+   "clock": "1:41 - 1st",
    "quarter": 1
   },
   {
@@ -517,7 +502,7 @@
    "points": 0.0,
    "gameId": "401873036",
    "game": "CHI @ SEA",
-   "clock": "6:12 - 1st",
+   "clock": "1:41 - 1st",
    "quarter": 1
   },
   {
@@ -532,24 +517,9 @@
    "points": 0.0,
    "gameId": "401873036",
    "game": "CHI @ SEA",
-   "clock": "6:12 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-5-3912547",
-   "week": 8,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Sam Darnold",
-   "slot": "QB",
-   "nfl": "SEA",
-   "points": 0.0,
-   "gameId": "401873036",
-   "game": "CHI @ SEA",
-   "clock": "6:12 - 1st",
+   "clock": "1:41 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-03T01:30:13Z"
+ "updated": "2026-11-03T01:45:11Z"
 }
