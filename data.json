@@ -487,7 +487,7 @@
    "points": 0.0,
    "gameId": "401873036",
    "game": "CHI @ SEA",
-   "clock": "1:41 - 1st",
+   "clock": "1:40 - 1st",
    "quarter": 1
   },
   {
@@ -502,24 +502,9 @@
    "points": 0.0,
    "gameId": "401873036",
    "game": "CHI @ SEA",
-   "clock": "1:41 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "8-13-4430878",
-   "week": 8,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Jaxon Smith-Njigba",
-   "slot": "WR",
-   "nfl": "SEA",
-   "points": 0.0,
-   "gameId": "401873036",
-   "game": "CHI @ SEA",
-   "clock": "1:41 - 1st",
+   "clock": "1:40 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-03T01:45:11Z"
+ "updated": "2026-11-03T01:47:55Z"
 }
