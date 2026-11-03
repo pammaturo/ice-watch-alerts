@@ -1,5 +1,5 @@
 {
- "week": 8,
+ "week": 9,
  "teams": [
   {
    "teamId": 1,
@@ -54,7 +54,7 @@
   {
    "teamId": 12,
    "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta & Andrew Blough"
+   "owner": "Nikhil Mehta"
   },
   {
    "teamId": 13,
@@ -488,5 +488,5 @@
   }
  ],
  "live": [],
- "updated": "2026-11-03T04:45:11Z"
+ "updated": "2026-11-03T16:07:28Z"
 }
