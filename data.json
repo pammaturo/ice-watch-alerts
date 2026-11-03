@@ -396,6 +396,19 @@
    "status": "Played"
   },
   {
+   "id": "8-15-4887558",
+   "week": 8,
+   "teamId": 15,
+   "team": "Droopy Nuts",
+   "owner": "Sam Davis",
+   "player": "Emanuel Wilson",
+   "slot": "RB",
+   "nfl": "SEA",
+   "points": 0.0,
+   "gameId": "401873036",
+   "status": "Inactive"
+  },
+  {
    "id": "8-3-4723820",
    "week": 8,
    "teamId": 3,
@@ -474,22 +487,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "8-15-4887558",
-   "week": 8,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Emanuel Wilson",
-   "slot": "RB",
-   "nfl": "SEA",
-   "points": 0.0,
-   "gameId": "401873036",
-   "game": "CHI @ SEA",
-   "clock": "3:54 - 4th",
-   "quarter": 4
-  }
- ],
- "updated": "2026-11-03T04:15:13Z"
+ "live": [],
+ "updated": "2026-11-03T04:27:02Z"
 }
