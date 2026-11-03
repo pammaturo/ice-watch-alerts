@@ -406,7 +406,7 @@
    "nfl": "SEA",
    "points": 0.0,
    "gameId": "401873036",
-   "status": "Inactive"
+   "status": "Played"
   },
   {
    "id": "8-3-4723820",
@@ -488,5 +488,5 @@
   }
  ],
  "live": [],
- "updated": "2026-11-03T04:27:02Z"
+ "updated": "2026-11-03T04:45:11Z"
 }
