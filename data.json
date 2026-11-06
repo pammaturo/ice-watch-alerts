@@ -487,6 +487,52 @@
    "status": "Played"
   }
  ],
- "live": [],
- "updated": "2026-11-03T16:07:28Z"
+ "live": [
+  {
+   "id": "9-15-4362619",
+   "week": 9,
+   "teamId": 15,
+   "team": "Droopy Nuts",
+   "owner": "Sam Davis",
+   "player": "Chris Rodriguez Jr.",
+   "slot": "RB",
+   "nfl": "JAX",
+   "points": 0.0,
+   "gameId": "401873037",
+   "game": "JAX @ BAL",
+   "clock": "9:06 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "9-7-3916387",
+   "week": 9,
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Lamar Jackson",
+   "slot": "QB",
+   "nfl": "BAL",
+   "points": 0.0,
+   "gameId": "401873037",
+   "game": "JAX @ BAL",
+   "clock": "9:06 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "9-11-4432620",
+   "week": 9,
+   "teamId": 11,
+   "team": "Toronto Tricerit!ts",
+   "owner": "John Tagios",
+   "player": "Parker Washington",
+   "slot": "WR",
+   "nfl": "JAX",
+   "points": 0.0,
+   "gameId": "401873037",
+   "game": "JAX @ BAL",
+   "clock": "9:06 - 1st",
+   "quarter": 1
+  }
+ ],
+ "updated": "2026-11-06T01:30:14Z"
 }
