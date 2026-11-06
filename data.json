@@ -485,9 +485,7 @@
    "points": 0.0,
    "gameId": "401873025",
    "status": "Played"
-  }
- ],
- "live": [
+  },
   {
    "id": "9-7-3916387",
    "week": 9,
@@ -499,10 +497,9 @@
    "nfl": "BAL",
    "points": 0.0,
    "gameId": "401873037",
-   "game": "JAX @ BAL",
-   "clock": "4:52 - 4th",
-   "quarter": 4
+   "status": "Inactive"
   }
  ],
- "updated": "2026-11-06T04:00:16Z"
+ "live": [],
+ "updated": "2026-11-06T04:15:12Z"
 }
