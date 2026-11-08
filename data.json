@@ -513,22 +513,7 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "15:00 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "9-14-3054850",
-   "week": 9,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Alvin Kamara",
-   "slot": "RB",
-   "nfl": "NO",
-   "points": 0.0,
-   "gameId": "401873039",
-   "game": "CLE @ NO",
-   "clock": "11:39 - 3rd",
+   "clock": "10:20 - 3rd",
    "quarter": 3
   },
   {
@@ -543,22 +528,7 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "15:00 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "9-7-4568263",
-   "week": 9,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Ryan Fitzgerald",
-   "slot": "K",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873041",
-   "game": "DEN @ CAR",
-   "clock": "15:00 - 3rd",
+   "clock": "10:20 - 3rd",
    "quarter": 3
   },
   {
@@ -573,22 +543,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "12:02 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "9-7-2573401",
-   "week": 9,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Tyler Higbee",
-   "slot": "TE",
-   "nfl": "LAR",
-   "points": 0.0,
-   "gameId": "401873043",
-   "game": "LAR @ WSH",
-   "clock": "12:02 - 3rd",
+   "clock": "8:18 - 3rd",
    "quarter": 3
   },
   {
@@ -603,9 +558,9 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "13:56 - 3rd",
+   "quarter": 3
   }
  ],
- "updated": "2026-11-08T19:45:11Z"
+ "updated": "2026-11-08T19:58:27Z"
 }
