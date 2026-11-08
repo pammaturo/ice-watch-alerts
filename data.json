@@ -513,7 +513,7 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "9:34 - 3rd",
+   "clock": "4:14 - 3rd",
    "quarter": 3
   },
   {
@@ -528,39 +528,9 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "9:34 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "9-14-2976212",
-   "week": 9,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Stefon Diggs",
-   "slot": "FLEX",
-   "nfl": "WSH",
-   "points": 0.0,
-   "gameId": "401873043",
-   "game": "LAR @ WSH",
-   "clock": "7:01 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "9-15-4431459",
-   "week": 9,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Tyler Warren",
-   "slot": "TE",
-   "nfl": "IND",
-   "points": 0.0,
-   "gameId": "401873040",
-   "game": "DAL @ IND",
-   "clock": "13:19 - 3rd",
+   "clock": "4:14 - 3rd",
    "quarter": 3
   }
  ],
- "updated": "2026-11-08T20:00:16Z"
+ "updated": "2026-11-08T20:15:12Z"
 }
