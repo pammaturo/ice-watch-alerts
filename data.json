@@ -502,6 +502,36 @@
  ],
  "live": [
   {
+   "id": "9-3-2577417",
+   "week": 9,
+   "teamId": 3,
+   "team": "The Ball $acks",
+   "owner": "Patrick Ammaturo",
+   "player": "Dak Prescott",
+   "slot": "QB",
+   "nfl": "DAL",
+   "points": -0.84,
+   "gameId": "401873040",
+   "game": "DAL @ IND",
+   "clock": "6:13 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "9-11-3046779",
+   "week": 9,
+   "teamId": 11,
+   "team": "Toronto Tricerit!ts",
+   "owner": "John Tagios",
+   "player": "Jared Goff",
+   "slot": "QB",
+   "nfl": "DET",
+   "points": -0.76,
+   "gameId": "401873042",
+   "game": "DET @ MIA",
+   "clock": "2:44 - 1st",
+   "quarter": 1
+  },
+  {
    "id": "9-16-4597500",
    "week": 9,
    "teamId": 16,
@@ -513,7 +543,7 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "6:47 - 1st",
+   "clock": "4:35 - 1st",
    "quarter": 1
   },
   {
@@ -528,7 +558,7 @@
    "points": 0.0,
    "gameId": "401873039",
    "game": "CLE @ NO",
-   "clock": "7:20 - 1st",
+   "clock": "4:00 - 1st",
    "quarter": 1
   },
   {
@@ -543,7 +573,7 @@
    "points": 0.0,
    "gameId": "401873039",
    "game": "CLE @ NO",
-   "clock": "7:20 - 1st",
+   "clock": "4:00 - 1st",
    "quarter": 1
   },
   {
@@ -558,7 +588,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "10:04 - 1st",
+   "clock": "2:52 - 1st",
    "quarter": 1
   },
   {
@@ -573,37 +603,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "10:04 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-13-4685720",
-   "week": 9,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Bryce Young",
-   "slot": "QB",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873041",
-   "game": "DEN @ CAR",
-   "clock": "11:09 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-4-4869645",
-   "week": 9,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Caleb Douglas",
-   "slot": "WR",
-   "nfl": "MIA",
-   "points": 0.0,
-   "gameId": "401873042",
-   "game": "DET @ MIA",
-   "clock": "8:22 - 1st",
+   "clock": "2:52 - 1st",
    "quarter": 1
   },
   {
@@ -618,67 +618,7 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "9:41 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-13-4361370",
-   "week": 9,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Chris Olave",
-   "slot": "WR",
-   "nfl": "NO",
-   "points": 0.0,
-   "gameId": "401873039",
-   "game": "CLE @ NO",
-   "clock": "7:20 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-10-4241416",
-   "week": 9,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "Chuba Hubbard",
-   "slot": "RB",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873041",
-   "game": "DEN @ CAR",
-   "clock": "11:09 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-3-3121023",
-   "week": 9,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Dallas Goedert",
-   "slot": "TE",
-   "nfl": "PHI",
-   "points": 0.0,
-   "gameId": "401873044",
-   "game": "NYG @ PHI",
-   "clock": "10:26 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-8-4832800",
-   "week": 9,
-   "teamId": 8,
-   "team": "BJ's Ferguson",
-   "owner": "David Smeriglio",
-   "player": "Denzel Boston",
-   "slot": "WR",
-   "nfl": "CLE",
-   "points": 0.0,
-   "gameId": "401873039",
-   "game": "CLE @ NO",
-   "clock": "7:20 - 1st",
+   "clock": "6:13 - 1st",
    "quarter": 1
   },
   {
@@ -693,7 +633,7 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "6:47 - 1st",
+   "clock": "4:35 - 1st",
    "quarter": 1
   },
   {
@@ -708,22 +648,7 @@
    "points": 0.0,
    "gameId": "401873042",
    "game": "DET @ MIA",
-   "clock": "8:22 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-10-4241985",
-   "week": 9,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "J.K. Dobbins",
-   "slot": "FLEX",
-   "nfl": "DEN",
-   "points": 0.0,
-   "gameId": "401873041",
-   "game": "DEN @ CAR",
-   "clock": "11:09 - 1st",
+   "clock": "2:44 - 1st",
    "quarter": 1
   },
   {
@@ -738,7 +663,7 @@
    "points": 0.0,
    "gameId": "401873041",
    "game": "DEN @ CAR",
-   "clock": "11:09 - 1st",
+   "clock": "4:26 - 1st",
    "quarter": 1
   },
   {
@@ -753,22 +678,7 @@
    "points": 0.0,
    "gameId": "401873042",
    "game": "DET @ MIA",
-   "clock": "8:22 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-9-4372016",
-   "week": 9,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Jaylen Waddle",
-   "slot": "WR",
-   "nfl": "DEN",
-   "points": 0.0,
-   "gameId": "401873041",
-   "game": "DEN @ CAR",
-   "clock": "11:09 - 1st",
+   "clock": "2:44 - 1st",
    "quarter": 1
   },
   {
@@ -783,37 +693,7 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "9:41 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-8-4567048",
-   "week": 9,
-   "teamId": 8,
-   "team": "BJ's Ferguson",
-   "owner": "David Smeriglio",
-   "player": "Kenneth Walker III",
-   "slot": "RB",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873045",
-   "game": "NYJ @ KC",
-   "clock": "6:47 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-17-4430737",
-   "week": 9,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Kyren Williams",
-   "slot": "RB",
-   "nfl": "LAR",
-   "points": 0.0,
-   "gameId": "401873043",
-   "game": "LAR @ WSH",
-   "clock": "10:04 - 1st",
+   "clock": "6:13 - 1st",
    "quarter": 1
   },
   {
@@ -828,7 +708,7 @@
    "points": 0.0,
    "gameId": "401873044",
    "game": "NYG @ PHI",
-   "clock": "10:26 - 1st",
+   "clock": "5:31 - 1st",
    "quarter": 1
   },
   {
@@ -843,22 +723,7 @@
    "points": 0.0,
    "gameId": "401873044",
    "game": "NYG @ PHI",
-   "clock": "10:26 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-5-4595348",
-   "week": 9,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Malik Nabers",
-   "slot": "WR",
-   "nfl": "NYG",
-   "points": 0.0,
-   "gameId": "401873044",
-   "game": "NYG @ PHI",
-   "clock": "10:26 - 1st",
+   "clock": "5:31 - 1st",
    "quarter": 1
   },
   {
@@ -873,82 +738,7 @@
    "points": 0.0,
    "gameId": "401873042",
    "game": "DET @ MIA",
-   "clock": "8:22 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-16-12483",
-   "week": 9,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Matthew Stafford",
-   "slot": "QB",
-   "nfl": "LAR",
-   "points": 0.0,
-   "gameId": "401873043",
-   "game": "LAR @ WSH",
-   "clock": "10:04 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-9-4711533",
-   "week": 9,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Ollie Gordon II",
-   "slot": "RB",
-   "nfl": "MIA",
-   "points": 0.0,
-   "gameId": "401873042",
-   "game": "DET @ MIA",
-   "clock": "8:22 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-4-3139477",
-   "week": 9,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Patrick Mahomes",
-   "slot": "QB",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873045",
-   "game": "NYJ @ KC",
-   "clock": "6:47 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-15-4426515",
-   "week": 9,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Puka Nacua",
-   "slot": "WR",
-   "nfl": "LAR",
-   "points": 0.0,
-   "gameId": "401873043",
-   "game": "LAR @ WSH",
-   "clock": "10:04 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-3-4685702",
-   "week": 9,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Quinshon Judkins",
-   "slot": "FLEX",
-   "nfl": "CLE",
-   "points": 0.0,
-   "gameId": "401873039",
-   "game": "CLE @ NO",
-   "clock": "7:20 - 1st",
+   "clock": "2:44 - 1st",
    "quarter": 1
   },
   {
@@ -963,7 +753,7 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "6:47 - 1st",
+   "clock": "4:35 - 1st",
    "quarter": 1
   },
   {
@@ -978,7 +768,7 @@
    "points": 0.0,
    "gameId": "401873041",
    "game": "DEN @ CAR",
-   "clock": "11:09 - 1st",
+   "clock": "4:26 - 1st",
    "quarter": 1
   },
   {
@@ -993,7 +783,7 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "9:41 - 1st",
+   "clock": "6:13 - 1st",
    "quarter": 1
   },
   {
@@ -1008,37 +798,7 @@
    "points": 0.0,
    "gameId": "401873042",
    "game": "DET @ MIA",
-   "clock": "8:22 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-5-3929630",
-   "week": 9,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Saquon Barkley",
-   "slot": "RB",
-   "nfl": "PHI",
-   "points": 0.0,
-   "gameId": "401873044",
-   "game": "NYG @ PHI",
-   "clock": "10:26 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-17-4571557",
-   "week": 9,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Spencer Shrader",
-   "slot": "K",
-   "nfl": "IND",
-   "points": 0.0,
-   "gameId": "401873040",
-   "game": "DAL @ IND",
-   "clock": "9:41 - 1st",
+   "clock": "2:44 - 1st",
    "quarter": 1
   },
   {
@@ -1053,7 +813,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "10:04 - 1st",
+   "clock": "2:52 - 1st",
    "quarter": 1
   },
   {
@@ -1068,7 +828,7 @@
    "points": 0.0,
    "gameId": "401873041",
    "game": "DEN @ CAR",
-   "clock": "11:09 - 1st",
+   "clock": "4:26 - 1st",
    "quarter": 1
   },
   {
@@ -1083,22 +843,7 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "6:47 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-7-4429676",
-   "week": 9,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Tyler Goodson",
-   "slot": "RB",
-   "nfl": "DAL",
-   "points": 0.0,
-   "gameId": "401873040",
-   "game": "DAL @ IND",
-   "clock": "9:41 - 1st",
+   "clock": "4:35 - 1st",
    "quarter": 1
   },
   {
@@ -1113,7 +858,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "10:04 - 1st",
+   "clock": "2:52 - 1st",
    "quarter": 1
   },
   {
@@ -1128,7 +873,7 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "9:41 - 1st",
+   "clock": "6:13 - 1st",
    "quarter": 1
   },
   {
@@ -1143,9 +888,9 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "6:47 - 1st",
+   "clock": "4:35 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-08T18:15:10Z"
+ "updated": "2026-11-08T18:28:03Z"
 }
