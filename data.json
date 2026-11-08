@@ -513,7 +513,7 @@
    "points": -1.0,
    "gameId": "401873041",
    "game": "DEN @ CAR",
-   "clock": "8:20 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -528,7 +528,7 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "6:29 - 2nd",
+   "clock": "2:16 - 2nd",
    "quarter": 2
   },
   {
@@ -543,7 +543,7 @@
    "points": 0.0,
    "gameId": "401873039",
    "game": "CLE @ NO",
-   "clock": "4:11 - 2nd",
+   "clock": "1:38 - 2nd",
    "quarter": 2
   },
   {
@@ -558,22 +558,7 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "6:29 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "9-15-4695883",
-   "week": 9,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Jalen Coker",
-   "slot": "WR",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873041",
-   "game": "DEN @ CAR",
-   "clock": "8:20 - 2nd",
+   "clock": "2:16 - 2nd",
    "quarter": 2
   },
   {
@@ -588,7 +573,7 @@
    "points": 0.0,
    "gameId": "401873042",
    "game": "DET @ MIA",
-   "clock": "4:49 - 2nd",
+   "clock": "0:27 - 2nd",
    "quarter": 2
   },
   {
@@ -603,22 +588,7 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "11:23 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "9-2-4682648",
-   "week": 9,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Malachi Fields",
-   "slot": "FLEX",
-   "nfl": "NYG",
-   "points": 0.0,
-   "gameId": "401873044",
-   "game": "NYG @ PHI",
-   "clock": "13:33 - 2nd",
+   "clock": "5:30 - 2nd",
    "quarter": 2
   },
   {
@@ -633,7 +603,7 @@
    "points": 0.0,
    "gameId": "401873042",
    "game": "DET @ MIA",
-   "clock": "4:49 - 2nd",
+   "clock": "0:27 - 2nd",
    "quarter": 2
   },
   {
@@ -648,7 +618,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "9:02 - 2nd",
+   "clock": "2:20 - 2nd",
    "quarter": 2
   },
   {
@@ -663,7 +633,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "9:02 - 2nd",
+   "clock": "2:20 - 2nd",
    "quarter": 2
   },
   {
@@ -678,9 +648,9 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "11:23 - 2nd",
+   "clock": "5:30 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-08T19:00:18Z"
+ "updated": "2026-11-08T19:15:12Z"
 }
