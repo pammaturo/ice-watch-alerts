@@ -515,21 +515,6 @@
  ],
  "live": [
   {
-   "id": "9-5-4249087",
-   "week": 9,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Matt Gay",
-   "slot": "K",
-   "nfl": "LV",
-   "points": 0.0,
-   "gameId": "401873047",
-   "game": "LV @ SF",
-   "clock": "15:00 - 2nd",
-   "quarter": 2
-  },
-  {
    "id": "9-9-4431452",
    "week": 9,
    "teamId": 9,
@@ -538,26 +523,11 @@
    "player": "Drake Maye",
    "slot": "QB",
    "nfl": "NE",
-   "points": -1.04,
+   "points": -3.04,
    "gameId": "401873049",
    "game": "GB @ NE",
-   "clock": "0:23 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-9-4569173",
-   "week": 9,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Rhamondre Stevenson",
-   "slot": "FLEX",
-   "nfl": "NE",
-   "points": -0.2,
-   "gameId": "401873049",
-   "game": "GB @ NE",
-   "clock": "0:23 - 1st",
-   "quarter": 1
+   "clock": "11:54 - 2nd",
+   "quarter": 2
   },
   {
    "id": "9-1-4427095",
@@ -571,24 +541,9 @@
    "points": 0.0,
    "gameId": "401873049",
    "game": "GB @ NE",
-   "clock": "0:23 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-8-2473037",
-   "week": 9,
-   "teamId": 8,
-   "team": "BJ's Ferguson",
-   "owner": "David Smeriglio",
-   "player": "Jason Myers",
-   "slot": "K",
-   "nfl": "SEA",
-   "points": 0.0,
-   "gameId": "401873048",
-   "game": "ARI @ SEA",
-   "clock": "1:27 - 1st",
-   "quarter": 1
+   "clock": "11:54 - 2nd",
+   "quarter": 2
   }
  ],
- "updated": "2026-11-08T22:00:18Z"
+ "updated": "2026-11-08T22:15:11Z"
 }
