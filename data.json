@@ -500,22 +500,6 @@
    "status": "Inactive"
   }
  ],
- "live": [
-  {
-   "id": "9-8-4360248",
-   "week": 9,
-   "teamId": 8,
-   "team": "BJ's Ferguson",
-   "owner": "David Smeriglio",
-   "player": "Kyle Pitts Sr.",
-   "slot": "TE",
-   "nfl": "ATL",
-   "points": 0.0,
-   "gameId": "401873038",
-   "game": "CIN VS ATL",
-   "clock": "14:22 - 2nd",
-   "quarter": 2
-  }
- ],
- "updated": "2026-11-08T15:15:11Z"
+ "live": [],
+ "updated": "2026-11-08T15:30:14Z"
 }
