@@ -502,21 +502,6 @@
  ],
  "live": [
   {
-   "id": "9-3-2577417",
-   "week": 9,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Dak Prescott",
-   "slot": "QB",
-   "nfl": "DAL",
-   "points": -0.84,
-   "gameId": "401873040",
-   "game": "DAL @ IND",
-   "clock": "6:13 - 1st",
-   "quarter": 1
-  },
-  {
    "id": "9-11-3046779",
    "week": 9,
    "teamId": 11,
@@ -528,7 +513,22 @@
    "points": -0.76,
    "gameId": "401873042",
    "game": "DET @ MIA",
-   "clock": "2:44 - 1st",
+   "clock": "1:48 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "9-3-2577417",
+   "week": 9,
+   "teamId": 3,
+   "team": "The Ball $acks",
+   "owner": "Patrick Ammaturo",
+   "player": "Dak Prescott",
+   "slot": "QB",
+   "nfl": "DAL",
+   "points": -0.56,
+   "gameId": "401873040",
+   "game": "DAL @ IND",
+   "clock": "5:01 - 1st",
    "quarter": 1
   },
   {
@@ -558,7 +558,7 @@
    "points": 0.0,
    "gameId": "401873039",
    "game": "CLE @ NO",
-   "clock": "4:00 - 1st",
+   "clock": "2:13 - 1st",
    "quarter": 1
   },
   {
@@ -573,7 +573,7 @@
    "points": 0.0,
    "gameId": "401873039",
    "game": "CLE @ NO",
-   "clock": "4:00 - 1st",
+   "clock": "2:13 - 1st",
    "quarter": 1
   },
   {
@@ -588,7 +588,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "2:52 - 1st",
+   "clock": "2:10 - 1st",
    "quarter": 1
   },
   {
@@ -603,7 +603,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "2:52 - 1st",
+   "clock": "2:10 - 1st",
    "quarter": 1
   },
   {
@@ -618,7 +618,7 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "6:13 - 1st",
+   "clock": "5:01 - 1st",
    "quarter": 1
   },
   {
@@ -648,7 +648,7 @@
    "points": 0.0,
    "gameId": "401873042",
    "game": "DET @ MIA",
-   "clock": "2:44 - 1st",
+   "clock": "1:48 - 1st",
    "quarter": 1
   },
   {
@@ -663,7 +663,7 @@
    "points": 0.0,
    "gameId": "401873041",
    "game": "DEN @ CAR",
-   "clock": "4:26 - 1st",
+   "clock": "3:29 - 1st",
    "quarter": 1
   },
   {
@@ -678,7 +678,7 @@
    "points": 0.0,
    "gameId": "401873042",
    "game": "DET @ MIA",
-   "clock": "2:44 - 1st",
+   "clock": "1:48 - 1st",
    "quarter": 1
   },
   {
@@ -693,7 +693,7 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "6:13 - 1st",
+   "clock": "5:01 - 1st",
    "quarter": 1
   },
   {
@@ -738,7 +738,7 @@
    "points": 0.0,
    "gameId": "401873042",
    "game": "DET @ MIA",
-   "clock": "2:44 - 1st",
+   "clock": "1:48 - 1st",
    "quarter": 1
   },
   {
@@ -768,7 +768,7 @@
    "points": 0.0,
    "gameId": "401873041",
    "game": "DEN @ CAR",
-   "clock": "4:26 - 1st",
+   "clock": "3:29 - 1st",
    "quarter": 1
   },
   {
@@ -783,7 +783,7 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "6:13 - 1st",
+   "clock": "5:01 - 1st",
    "quarter": 1
   },
   {
@@ -798,7 +798,7 @@
    "points": 0.0,
    "gameId": "401873042",
    "game": "DET @ MIA",
-   "clock": "2:44 - 1st",
+   "clock": "1:48 - 1st",
    "quarter": 1
   },
   {
@@ -813,7 +813,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "2:52 - 1st",
+   "clock": "2:10 - 1st",
    "quarter": 1
   },
   {
@@ -828,7 +828,7 @@
    "points": 0.0,
    "gameId": "401873041",
    "game": "DEN @ CAR",
-   "clock": "4:26 - 1st",
+   "clock": "3:29 - 1st",
    "quarter": 1
   },
   {
@@ -858,7 +858,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "2:52 - 1st",
+   "clock": "2:10 - 1st",
    "quarter": 1
   },
   {
@@ -873,7 +873,7 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "6:13 - 1st",
+   "clock": "5:01 - 1st",
    "quarter": 1
   },
   {
@@ -892,5 +892,5 @@
    "quarter": 1
   }
  ],
- "updated": "2026-11-08T18:28:03Z"
+ "updated": "2026-11-08T18:30:13Z"
 }
