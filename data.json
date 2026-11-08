@@ -513,24 +513,9 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "11:41 - 4th",
-   "quarter": 4
-  },
-  {
-   "id": "9-17-4832955",
-   "week": 9,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Emmett Johnson",
-   "slot": "RB",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873045",
-   "game": "NYJ @ KC",
-   "clock": "11:41 - 4th",
+   "clock": "7:20 - 4th",
    "quarter": 4
   }
  ],
- "updated": "2026-11-08T20:31:48Z"
+ "updated": "2026-11-08T20:45:13Z"
 }
