@@ -526,22 +526,7 @@
    "points": -2.0,
    "gameId": "401873049",
    "game": "GB @ NE",
-   "clock": "13:28 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-1-4890973",
-   "week": 9,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "Ashton Jeanty",
-   "slot": "RB",
-   "nfl": "LV",
-   "points": 0.0,
-   "gameId": "401873047",
-   "game": "LV @ SF",
-   "clock": "13:26 - 1st",
+   "clock": "7:59 - 1st",
    "quarter": 1
   },
   {
@@ -556,22 +541,7 @@
    "points": 0.0,
    "gameId": "401873047",
    "game": "LV @ SF",
-   "clock": "13:26 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-10-4363538",
-   "week": 9,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "Chad Ryland",
-   "slot": "K",
-   "nfl": "ARI",
-   "points": 0.0,
-   "gameId": "401873048",
-   "game": "ARI @ SEA",
-   "clock": "13:35 - 1st",
+   "clock": "6:10 - 1st",
    "quarter": 1
   },
   {
@@ -586,7 +556,7 @@
    "points": 0.0,
    "gameId": "401873049",
    "game": "GB @ NE",
-   "clock": "13:28 - 1st",
+   "clock": "7:59 - 1st",
    "quarter": 1
   },
   {
@@ -601,7 +571,7 @@
    "points": 0.0,
    "gameId": "401873049",
    "game": "GB @ NE",
-   "clock": "13:28 - 1st",
+   "clock": "7:59 - 1st",
    "quarter": 1
   },
   {
@@ -616,7 +586,7 @@
    "points": 0.0,
    "gameId": "401873049",
    "game": "GB @ NE",
-   "clock": "13:28 - 1st",
+   "clock": "7:59 - 1st",
    "quarter": 1
   },
   {
@@ -631,7 +601,7 @@
    "points": 0.0,
    "gameId": "401873048",
    "game": "ARI @ SEA",
-   "clock": "13:35 - 1st",
+   "clock": "7:06 - 1st",
    "quarter": 1
   },
   {
@@ -646,7 +616,7 @@
    "points": 0.0,
    "gameId": "401873047",
    "game": "LV @ SF",
-   "clock": "13:26 - 1st",
+   "clock": "6:10 - 1st",
    "quarter": 1
   },
   {
@@ -661,22 +631,7 @@
    "points": 0.0,
    "gameId": "401873048",
    "game": "ARI @ SEA",
-   "clock": "13:35 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-2-4047365",
-   "week": 9,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Josh Jacobs",
-   "slot": "RB",
-   "nfl": "GB",
-   "points": 0.0,
-   "gameId": "401873049",
-   "game": "GB @ NE",
-   "clock": "13:28 - 1st",
+   "clock": "7:06 - 1st",
    "quarter": 1
   },
   {
@@ -691,7 +646,7 @@
    "points": 0.0,
    "gameId": "401873047",
    "game": "LV @ SF",
-   "clock": "13:26 - 1st",
+   "clock": "6:10 - 1st",
    "quarter": 1
   },
   {
@@ -706,7 +661,7 @@
    "points": 0.0,
    "gameId": "401873049",
    "game": "GB @ NE",
-   "clock": "13:28 - 1st",
+   "clock": "7:59 - 1st",
    "quarter": 1
   },
   {
@@ -721,37 +676,7 @@
    "points": 0.0,
    "gameId": "401873047",
    "game": "LV @ SF",
-   "clock": "13:26 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-10-4701936",
-   "week": 9,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "Matthew Golden",
-   "slot": "WR",
-   "nfl": "GB",
-   "points": 0.0,
-   "gameId": "401873049",
-   "game": "GB @ NE",
-   "clock": "13:28 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-10-4361307",
-   "week": 9,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "Trey McBride",
-   "slot": "TE",
-   "nfl": "ARI",
-   "points": 0.0,
-   "gameId": "401873048",
-   "game": "ARI @ SEA",
-   "clock": "13:35 - 1st",
+   "clock": "6:10 - 1st",
    "quarter": 1
   },
   {
@@ -766,9 +691,9 @@
    "points": 0.0,
    "gameId": "401873048",
    "game": "ARI @ SEA",
-   "clock": "13:35 - 1st",
+   "clock": "7:06 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-08T21:30:14Z"
+ "updated": "2026-11-08T21:45:11Z"
 }
