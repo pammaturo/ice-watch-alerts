@@ -513,67 +513,7 @@
    "points": 0.0,
    "gameId": "401873038",
    "game": "CIN VS ATL",
-   "clock": "11:12 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-14-4426502",
-   "week": 9,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Drake London",
-   "slot": "WR",
-   "nfl": "ATL",
-   "points": 0.0,
-   "gameId": "401873038",
-   "game": "CIN VS ATL",
-   "clock": "11:12 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-4-4360234",
-   "week": 9,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Evan McPherson",
-   "slot": "K",
-   "nfl": "CIN",
-   "points": 0.0,
-   "gameId": "401873038",
-   "game": "CIN VS ATL",
-   "clock": "11:12 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-17-4362628",
-   "week": 9,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Ja'Marr Chase",
-   "slot": "WR",
-   "nfl": "CIN",
-   "points": 0.0,
-   "gameId": "401873038",
-   "game": "CIN VS ATL",
-   "clock": "11:12 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-17-3915511",
-   "week": 9,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Joe Burrow",
-   "slot": "QB",
-   "nfl": "CIN",
-   "points": 0.0,
-   "gameId": "401873038",
-   "game": "CIN VS ATL",
-   "clock": "11:12 - 1st",
+   "clock": "5:21 - 1st",
    "quarter": 1
   },
   {
@@ -588,22 +528,7 @@
    "points": 0.0,
    "gameId": "401873038",
    "game": "CIN VS ATL",
-   "clock": "11:12 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-2-3116164",
-   "week": 9,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Mike Gesicki",
-   "slot": "TE",
-   "nfl": "CIN",
-   "points": 0.0,
-   "gameId": "401873038",
-   "game": "CIN VS ATL",
-   "clock": "11:12 - 1st",
+   "clock": "5:21 - 1st",
    "quarter": 1
   },
   {
@@ -618,9 +543,9 @@
    "points": 0.0,
    "gameId": "401873038",
    "game": "CIN VS ATL",
-   "clock": "11:12 - 1st",
+   "clock": "5:21 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-08T14:45:12Z"
+ "updated": "2026-11-08T15:00:06Z"
 }
