@@ -487,6 +487,19 @@
    "status": "Played"
   },
   {
+   "id": "9-16-4597500",
+   "week": 9,
+   "teamId": 16,
+   "team": "Manhattan M!dgets",
+   "owner": "Nick Tasolides",
+   "player": "Adonai Mitchell",
+   "slot": "WR",
+   "nfl": "NYJ",
+   "points": 0.0,
+   "gameId": "401873045",
+   "status": "Played"
+  },
+  {
    "id": "9-7-3916387",
    "week": 9,
    "teamId": 7,
@@ -502,20 +515,20 @@
  ],
  "live": [
   {
-   "id": "9-16-4597500",
+   "id": "9-11-2971573",
    "week": 9,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Adonai Mitchell",
-   "slot": "WR",
-   "nfl": "NYJ",
+   "teamId": 11,
+   "team": "Toronto Tricerit!ts",
+   "owner": "John Tagios",
+   "player": "Ka'imi Fairbairn",
+   "slot": "K",
+   "nfl": "HOU",
    "points": 0.0,
-   "gameId": "401873045",
-   "game": "NYJ @ KC",
-   "clock": "2:14 - 4th",
-   "quarter": 4
+   "gameId": "401873046",
+   "game": "HOU @ LAC",
+   "clock": "12:00 - 1st",
+   "quarter": 1
   }
  ],
- "updated": "2026-11-08T21:00:17Z"
+ "updated": "2026-11-08T21:11:33Z"
 }
