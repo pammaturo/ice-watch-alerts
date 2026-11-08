@@ -513,22 +513,6 @@
    "status": "Inactive"
   }
  ],
- "live": [
-  {
-   "id": "9-11-2971573",
-   "week": 9,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Ka'imi Fairbairn",
-   "slot": "K",
-   "nfl": "HOU",
-   "points": 0.0,
-   "gameId": "401873046",
-   "game": "HOU @ LAC",
-   "clock": "12:00 - 1st",
-   "quarter": 1
-  }
- ],
- "updated": "2026-11-08T21:11:33Z"
+ "live": [],
+ "updated": "2026-11-08T21:15:11Z"
 }
