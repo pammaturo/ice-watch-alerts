@@ -502,18 +502,18 @@
  ],
  "live": [
   {
-   "id": "9-11-3046779",
+   "id": "9-7-4568263",
    "week": 9,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Jared Goff",
-   "slot": "QB",
-   "nfl": "DET",
-   "points": -0.32,
-   "gameId": "401873042",
-   "game": "DET @ MIA",
-   "clock": "12:13 - 2nd",
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Ryan Fitzgerald",
+   "slot": "K",
+   "nfl": "CAR",
+   "points": -1.0,
+   "gameId": "401873041",
+   "game": "DEN @ CAR",
+   "clock": "8:20 - 2nd",
    "quarter": 2
   },
   {
@@ -528,7 +528,7 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "14:51 - 2nd",
+   "clock": "6:29 - 2nd",
    "quarter": 2
   },
   {
@@ -543,7 +543,7 @@
    "points": 0.0,
    "gameId": "401873039",
    "game": "CLE @ NO",
-   "clock": "10:30 - 2nd",
+   "clock": "4:11 - 2nd",
    "quarter": 2
   },
   {
@@ -558,22 +558,7 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "14:51 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "9-4-4367209",
-   "week": 9,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Greg Dulcich",
-   "slot": "TE",
-   "nfl": "MIA",
-   "points": 0.0,
-   "gameId": "401873042",
-   "game": "DET @ MIA",
-   "clock": "12:13 - 2nd",
+   "clock": "6:29 - 2nd",
    "quarter": 2
   },
   {
@@ -588,7 +573,7 @@
    "points": 0.0,
    "gameId": "401873041",
    "game": "DEN @ CAR",
-   "clock": "15:00 - 2nd",
+   "clock": "8:20 - 2nd",
    "quarter": 2
   },
   {
@@ -603,7 +588,7 @@
    "points": 0.0,
    "gameId": "401873042",
    "game": "DET @ MIA",
-   "clock": "12:13 - 2nd",
+   "clock": "4:49 - 2nd",
    "quarter": 2
   },
   {
@@ -618,7 +603,22 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "14:08 - 2nd",
+   "clock": "11:23 - 2nd",
+   "quarter": 2
+  },
+  {
+   "id": "9-2-4682648",
+   "week": 9,
+   "teamId": 2,
+   "team": "LEBRON RAYMONE JAMES SR.",
+   "owner": "Matt Reddy",
+   "player": "Malachi Fields",
+   "slot": "FLEX",
+   "nfl": "NYG",
+   "points": 0.0,
+   "gameId": "401873044",
+   "game": "NYG @ PHI",
+   "clock": "13:33 - 2nd",
    "quarter": 2
   },
   {
@@ -633,37 +633,7 @@
    "points": 0.0,
    "gameId": "401873042",
    "game": "DET @ MIA",
-   "clock": "12:13 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "9-7-4568263",
-   "week": 9,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Ryan Fitzgerald",
-   "slot": "K",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873041",
-   "game": "DEN @ CAR",
-   "clock": "15:00 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "9-17-4430027",
-   "week": 9,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Sam LaPorta",
-   "slot": "TE",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873042",
-   "game": "DET @ MIA",
-   "clock": "12:13 - 2nd",
+   "clock": "4:49 - 2nd",
    "quarter": 2
   },
   {
@@ -678,22 +648,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "12:37 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "9-5-4685472",
-   "week": 9,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Tetairoa McMillan",
-   "slot": "WR",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873041",
-   "game": "DEN @ CAR",
-   "clock": "15:00 - 2nd",
+   "clock": "9:02 - 2nd",
    "quarter": 2
   },
   {
@@ -708,7 +663,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "12:37 - 2nd",
+   "clock": "9:02 - 2nd",
    "quarter": 2
   },
   {
@@ -723,39 +678,9 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "14:08 - 2nd",
+   "clock": "11:23 - 2nd",
    "quarter": 2
-  },
-  {
-   "id": "9-16-4870795",
-   "week": 9,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Makai Lemon",
-   "slot": "FLEX",
-   "nfl": "PHI",
-   "points": 0.0,
-   "gameId": "401873044",
-   "game": "NYG @ PHI",
-   "clock": "1:22 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-2-4682648",
-   "week": 9,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Malachi Fields",
-   "slot": "FLEX",
-   "nfl": "NYG",
-   "points": 0.0,
-   "gameId": "401873044",
-   "game": "NYG @ PHI",
-   "clock": "1:22 - 1st",
-   "quarter": 1
   }
  ],
- "updated": "2026-11-08T18:45:11Z"
+ "updated": "2026-11-08T19:00:18Z"
 }
