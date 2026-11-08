@@ -513,22 +513,6 @@
    "status": "Inactive"
   }
  ],
- "live": [
-  {
-   "id": "9-9-4431452",
-   "week": 9,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Drake Maye",
-   "slot": "QB",
-   "nfl": "NE",
-   "points": -1.6,
-   "gameId": "401873049",
-   "game": "GB @ NE",
-   "clock": "10:29 - 2nd",
-   "quarter": 2
-  }
- ],
- "updated": "2026-11-08T22:20:21Z"
+ "live": [],
+ "updated": "2026-11-08T22:30:14Z"
 }
