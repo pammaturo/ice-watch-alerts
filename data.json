@@ -513,8 +513,8 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "0:07 - 2nd",
-   "quarter": 2
+   "clock": "15:00 - 3rd",
+   "quarter": 3
   },
   {
    "id": "9-14-3054850",
@@ -528,8 +528,8 @@
    "points": 0.0,
    "gameId": "401873039",
    "game": "CLE @ NO",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "11:39 - 3rd",
+   "quarter": 3
   },
   {
    "id": "9-17-4832955",
@@ -543,23 +543,8 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "0:07 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "9-2-4426388",
-   "week": 9,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Jameson Williams",
-   "slot": "WR",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873042",
-   "game": "DET @ MIA",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "15:00 - 3rd",
+   "quarter": 3
   },
   {
    "id": "9-7-4568263",
@@ -573,8 +558,8 @@
    "points": 0.0,
    "gameId": "401873041",
    "game": "DEN @ CAR",
-   "clock": "0:04 - 2nd",
-   "quarter": 2
+   "clock": "15:00 - 3rd",
+   "quarter": 3
   },
   {
    "id": "9-14-2976212",
@@ -588,8 +573,8 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "12:02 - 3rd",
+   "quarter": 3
   },
   {
    "id": "9-7-2573401",
@@ -603,8 +588,8 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "12:02 - 3rd",
+   "quarter": 3
   },
   {
    "id": "9-15-4431459",
@@ -618,9 +603,9 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "1:05 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   }
  ],
- "updated": "2026-11-08T19:30:13Z"
+ "updated": "2026-11-08T19:45:11Z"
 }
