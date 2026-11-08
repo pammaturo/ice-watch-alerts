@@ -502,21 +502,6 @@
  ],
  "live": [
   {
-   "id": "9-7-4568263",
-   "week": 9,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Ryan Fitzgerald",
-   "slot": "K",
-   "nfl": "CAR",
-   "points": -1.0,
-   "gameId": "401873041",
-   "game": "DEN @ CAR",
-   "clock": "1:49 - 2nd",
-   "quarter": 2
-  },
-  {
    "id": "9-16-4597500",
    "week": 9,
    "teamId": 16,
@@ -528,7 +513,7 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "2:00 - 2nd",
+   "clock": "0:07 - 2nd",
    "quarter": 2
   },
   {
@@ -543,7 +528,7 @@
    "points": 0.0,
    "gameId": "401873039",
    "game": "CLE @ NO",
-   "clock": "1:38 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   },
   {
@@ -558,7 +543,7 @@
    "points": 0.0,
    "gameId": "401873045",
    "game": "NYJ @ KC",
-   "clock": "2:00 - 2nd",
+   "clock": "0:07 - 2nd",
    "quarter": 2
   },
   {
@@ -573,22 +558,22 @@
    "points": 0.0,
    "gameId": "401873042",
    "game": "DET @ MIA",
-   "clock": "0:23 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   },
   {
-   "id": "9-9-15818",
+   "id": "9-7-4568263",
    "week": 9,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Keenan Allen",
-   "slot": "WR",
-   "nfl": "IND",
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Ryan Fitzgerald",
+   "slot": "K",
+   "nfl": "CAR",
    "points": 0.0,
-   "gameId": "401873040",
-   "game": "DAL @ IND",
-   "clock": "5:12 - 2nd",
+   "gameId": "401873041",
+   "game": "DEN @ CAR",
+   "clock": "0:04 - 2nd",
    "quarter": 2
   },
   {
@@ -603,7 +588,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "1:57 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   },
   {
@@ -618,7 +603,7 @@
    "points": 0.0,
    "gameId": "401873043",
    "game": "LAR @ WSH",
-   "clock": "1:57 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   },
   {
@@ -633,9 +618,9 @@
    "points": 0.0,
    "gameId": "401873040",
    "game": "DAL @ IND",
-   "clock": "5:12 - 2nd",
+   "clock": "1:05 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-08T19:16:29Z"
+ "updated": "2026-11-08T19:30:13Z"
 }
