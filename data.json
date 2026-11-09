@@ -515,36 +515,6 @@
  ],
  "live": [
   {
-   "id": "9-12-4596448",
-   "week": 9,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta",
-   "player": "Bucky Irving",
-   "slot": "FLEX",
-   "nfl": "TB",
-   "points": 0.0,
-   "gameId": "401873050",
-   "game": "TB @ CHI",
-   "clock": "10:25 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-13-17427",
-   "week": 9,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Cairo Santos",
-   "slot": "K",
-   "nfl": "CHI",
-   "points": 0.0,
-   "gameId": "401873050",
-   "game": "TB @ CHI",
-   "clock": "10:25 - 1st",
-   "quarter": 1
-  },
-  {
    "id": "9-1-3150744",
    "week": 9,
    "teamId": 1,
@@ -556,7 +526,7 @@
    "points": 0.0,
    "gameId": "401873050",
    "game": "TB @ CHI",
-   "clock": "10:25 - 1st",
+   "clock": "6:00 - 1st",
    "quarter": 1
   },
   {
@@ -571,7 +541,7 @@
    "points": 0.0,
    "gameId": "401873050",
    "game": "TB @ CHI",
-   "clock": "10:25 - 1st",
+   "clock": "6:00 - 1st",
    "quarter": 1
   },
   {
@@ -586,24 +556,9 @@
    "points": 0.0,
    "gameId": "401873050",
    "game": "TB @ CHI",
-   "clock": "10:25 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-4-4431299",
-   "week": 9,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Rome Odunze",
-   "slot": "FLEX",
-   "nfl": "CHI",
-   "points": 0.0,
-   "gameId": "401873050",
-   "game": "TB @ CHI",
-   "clock": "10:25 - 1st",
+   "clock": "6:00 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-09T01:30:14Z"
+ "updated": "2026-11-09T01:45:11Z"
 }
