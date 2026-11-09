@@ -513,22 +513,6 @@
    "status": "Inactive"
   }
  ],
- "live": [
-  {
-   "id": "9-11-4723086",
-   "week": 9,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Colston Loveland",
-   "slot": "TE",
-   "nfl": "CHI",
-   "points": 0.0,
-   "gameId": "401873050",
-   "game": "TB @ CHI",
-   "clock": "13:48 - 2nd",
-   "quarter": 2
-  }
- ],
- "updated": "2026-11-09T02:00:16Z"
+ "live": [],
+ "updated": "2026-11-09T02:15:11Z"
 }
