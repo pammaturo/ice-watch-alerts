@@ -515,21 +515,6 @@
  ],
  "live": [
   {
-   "id": "9-1-3150744",
-   "week": 9,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "Chase McLaughlin",
-   "slot": "K",
-   "nfl": "TB",
-   "points": 0.0,
-   "gameId": "401873050",
-   "game": "TB @ CHI",
-   "clock": "4:08 - 1st",
-   "quarter": 1
-  },
-  {
    "id": "9-11-4723086",
    "week": 9,
    "teamId": 11,
@@ -541,24 +526,9 @@
    "points": 0.0,
    "gameId": "401873050",
    "game": "TB @ CHI",
-   "clock": "4:08 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-8-4567750",
-   "week": 9,
-   "teamId": 8,
-   "team": "BJ's Ferguson",
-   "owner": "David Smeriglio",
-   "player": "Emeka Egbuka",
-   "slot": "FLEX",
-   "nfl": "TB",
-   "points": 0.0,
-   "gameId": "401873050",
-   "game": "TB @ CHI",
-   "clock": "4:08 - 1st",
-   "quarter": 1
+   "clock": "13:48 - 2nd",
+   "quarter": 2
   }
  ],
- "updated": "2026-11-09T01:50:43Z"
+ "updated": "2026-11-09T02:00:16Z"
 }
