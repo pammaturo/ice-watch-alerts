@@ -526,24 +526,9 @@
    "points": 0.0,
    "gameId": "401873051",
    "game": "BUF @ MIN",
-   "clock": "4:51 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "9-16-4567104",
-   "week": 9,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Will Reichard",
-   "slot": "K",
-   "nfl": "MIN",
-   "points": 0.0,
-   "gameId": "401873051",
-   "game": "BUF @ MIN",
-   "clock": "4:51 - 2nd",
+   "clock": "2:44 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-10T02:30:16Z"
+ "updated": "2026-11-10T02:36:14Z"
 }
