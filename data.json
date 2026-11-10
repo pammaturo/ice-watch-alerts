@@ -513,22 +513,6 @@
    "status": "Inactive"
   }
  ],
- "live": [
-  {
-   "id": "9-11-4262921",
-   "week": 9,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Justin Jefferson",
-   "slot": "WR",
-   "nfl": "MIN",
-   "points": 0.0,
-   "gameId": "401873051",
-   "game": "BUF @ MIN",
-   "clock": "0:44 - 2nd",
-   "quarter": 2
-  }
- ],
- "updated": "2026-11-10T02:45:15Z"
+ "live": [],
+ "updated": "2026-11-10T03:00:18Z"
 }
