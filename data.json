@@ -513,6 +513,82 @@
    "status": "Inactive"
   }
  ],
- "live": [],
- "updated": "2026-11-09T02:15:11Z"
+ "live": [
+  {
+   "id": "9-14-4385690",
+   "week": 9,
+   "teamId": 14,
+   "team": "Team Egg",
+   "owner": "Thomas Egg",
+   "player": "Dalton Kincaid",
+   "slot": "TE",
+   "nfl": "BUF",
+   "points": 0.0,
+   "gameId": "401873051",
+   "game": "BUF @ MIN",
+   "clock": "8:53 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "9-11-4262921",
+   "week": 9,
+   "teamId": 11,
+   "team": "Toronto Tricerit!ts",
+   "owner": "John Tagios",
+   "player": "Justin Jefferson",
+   "slot": "WR",
+   "nfl": "MIN",
+   "points": 0.0,
+   "gameId": "401873051",
+   "game": "BUF @ MIN",
+   "clock": "8:53 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "9-15-3915411",
+   "week": 9,
+   "teamId": 15,
+   "team": "Droopy Nuts",
+   "owner": "Sam Davis",
+   "player": "Ty Johnson",
+   "slot": "RB",
+   "nfl": "BUF",
+   "points": 0.0,
+   "gameId": "401873051",
+   "game": "BUF @ MIN",
+   "clock": "8:53 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "9-12-3917232",
+   "week": 9,
+   "teamId": 12,
+   "team": "Manhattan M!dgets",
+   "owner": "Nikhil Mehta",
+   "player": "Tyler Bass",
+   "slot": "K",
+   "nfl": "BUF",
+   "points": 0.0,
+   "gameId": "401873051",
+   "game": "BUF @ MIN",
+   "clock": "8:53 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "9-16-4567104",
+   "week": 9,
+   "teamId": 16,
+   "team": "Manhattan M!dgets",
+   "owner": "Nick Tasolides",
+   "player": "Will Reichard",
+   "slot": "K",
+   "nfl": "MIN",
+   "points": 0.0,
+   "gameId": "401873051",
+   "game": "BUF @ MIN",
+   "clock": "8:53 - 1st",
+   "quarter": 1
+  }
+ ],
+ "updated": "2026-11-10T01:30:16Z"
 }
