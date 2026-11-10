@@ -526,22 +526,7 @@
    "points": 0.0,
    "gameId": "401873051",
    "game": "BUF @ MIN",
-   "clock": "2:59 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-12-3917232",
-   "week": 9,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta",
-   "player": "Tyler Bass",
-   "slot": "K",
-   "nfl": "BUF",
-   "points": 0.0,
-   "gameId": "401873051",
-   "game": "BUF @ MIN",
-   "clock": "2:59 - 1st",
+   "clock": "1:57 - 1st",
    "quarter": 1
   },
   {
@@ -556,9 +541,9 @@
    "points": 0.0,
    "gameId": "401873051",
    "game": "BUF @ MIN",
-   "clock": "2:59 - 1st",
+   "clock": "1:57 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-10T01:45:11Z"
+ "updated": "2026-11-10T01:49:20Z"
 }
