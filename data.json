@@ -515,21 +515,6 @@
  ],
  "live": [
   {
-   "id": "9-14-4385690",
-   "week": 9,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Dalton Kincaid",
-   "slot": "TE",
-   "nfl": "BUF",
-   "points": 0.0,
-   "gameId": "401873051",
-   "game": "BUF @ MIN",
-   "clock": "8:53 - 1st",
-   "quarter": 1
-  },
-  {
    "id": "9-11-4262921",
    "week": 9,
    "teamId": 11,
@@ -541,22 +526,7 @@
    "points": 0.0,
    "gameId": "401873051",
    "game": "BUF @ MIN",
-   "clock": "8:53 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "9-15-3915411",
-   "week": 9,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Ty Johnson",
-   "slot": "RB",
-   "nfl": "BUF",
-   "points": 0.0,
-   "gameId": "401873051",
-   "game": "BUF @ MIN",
-   "clock": "8:53 - 1st",
+   "clock": "2:59 - 1st",
    "quarter": 1
   },
   {
@@ -571,7 +541,7 @@
    "points": 0.0,
    "gameId": "401873051",
    "game": "BUF @ MIN",
-   "clock": "8:53 - 1st",
+   "clock": "2:59 - 1st",
    "quarter": 1
   },
   {
@@ -586,9 +556,9 @@
    "points": 0.0,
    "gameId": "401873051",
    "game": "BUF @ MIN",
-   "clock": "8:53 - 1st",
+   "clock": "2:59 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-10T01:30:16Z"
+ "updated": "2026-11-10T01:45:11Z"
 }
