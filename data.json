@@ -515,21 +515,6 @@
  ],
  "live": [
   {
-   "id": "10-7-4360635",
-   "week": 10,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Chig Okonkwo",
-   "slot": "TE",
-   "nfl": "WSH",
-   "points": 0.0,
-   "gameId": "401873052",
-   "game": "WSH @ NYG",
-   "clock": "7:41 - 1st",
-   "quarter": 1
-  },
-  {
    "id": "10-2-4682648",
    "week": 10,
    "teamId": 2,
@@ -541,24 +526,9 @@
    "points": 0.0,
    "gameId": "401873052",
    "game": "WSH @ NYG",
-   "clock": "7:41 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-5-4595348",
-   "week": 10,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Malik Nabers",
-   "slot": "WR",
-   "nfl": "NYG",
-   "points": 0.0,
-   "gameId": "401873052",
-   "game": "WSH @ NYG",
-   "clock": "7:41 - 1st",
-   "quarter": 1
+   "clock": "15:00 - 2nd",
+   "quarter": 2
   }
  ],
- "updated": "2026-11-13T01:30:15Z"
+ "updated": "2026-11-13T01:45:11Z"
 }
