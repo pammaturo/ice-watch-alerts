@@ -513,22 +513,6 @@
    "status": "Inactive"
   }
  ],
- "live": [
-  {
-   "id": "10-2-4682648",
-   "week": 10,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Malachi Fields",
-   "slot": "FLEX",
-   "nfl": "NYG",
-   "points": 0.0,
-   "gameId": "401873052",
-   "game": "WSH @ NYG",
-   "clock": "Halftime",
-   "quarter": 2
-  }
- ],
- "updated": "2026-11-13T02:37:56Z"
+ "live": [],
+ "updated": "2026-11-13T03:00:16Z"
 }
