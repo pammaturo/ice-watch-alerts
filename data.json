@@ -515,21 +515,6 @@
  ],
  "live": [
   {
-   "id": "10-16-4597500",
-   "week": 10,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Adonai Mitchell",
-   "slot": "FLEX",
-   "nfl": "NYJ",
-   "points": 0.0,
-   "gameId": "401873054",
-   "game": "BUF @ NYJ",
-   "clock": "0:12 - 2nd",
-   "quarter": 2
-  },
-  {
    "id": "10-14-3054850",
    "week": 10,
    "teamId": 14,
@@ -541,8 +526,8 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "13:49 - 3rd",
+   "quarter": 3
   },
   {
    "id": "10-1-5208518",
@@ -556,8 +541,8 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "13:49 - 3rd",
+   "quarter": 3
   },
   {
    "id": "10-13-4361370",
@@ -571,8 +556,8 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "13:49 - 3rd",
+   "quarter": 3
   },
   {
    "id": "10-10-3117256",
@@ -586,23 +571,8 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "Halftime",
-   "quarter": 2
-  },
-  {
-   "id": "10-8-3916433",
-   "week": 10,
-   "teamId": 8,
-   "team": "BJ's Ferguson",
-   "owner": "David Smeriglio",
-   "player": "Jakobi Meyers",
-   "slot": "FLEX",
-   "nfl": "JAX",
-   "points": 0.0,
-   "gameId": "401873057",
-   "game": "JAX @ TEN",
-   "clock": "0:25 - 2nd",
-   "quarter": 2
+   "clock": "13:46 - 3rd",
+   "quarter": 3
   },
   {
    "id": "10-8-4685489",
@@ -616,8 +586,8 @@
    "points": 0.0,
    "gameId": "401873058",
    "game": "KC @ ATL",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "13:02 - 3rd",
+   "quarter": 3
   },
   {
    "id": "10-9-4429022",
@@ -631,6 +601,21 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
+   "clock": "13:46 - 3rd",
+   "quarter": 3
+  },
+  {
+   "id": "10-16-4597500",
+   "week": 10,
+   "teamId": 16,
+   "team": "Manhattan M!dgets",
+   "owner": "Nick Tasolides",
+   "player": "Adonai Mitchell",
+   "slot": "FLEX",
+   "nfl": "NYJ",
+   "points": 0.0,
+   "gameId": "401873054",
+   "game": "BUF @ NYJ",
    "clock": "Halftime",
    "quarter": 2
   },
@@ -646,7 +631,7 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "0:20 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   },
   {
@@ -661,9 +646,9 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "0:20 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   }
  ],
- "updated": "2026-11-15T19:30:13Z"
+ "updated": "2026-11-15T19:45:12Z"
 }
