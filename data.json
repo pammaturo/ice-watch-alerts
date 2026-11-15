@@ -515,6 +515,21 @@
  ],
  "live": [
   {
+   "id": "10-11-4428557",
+   "week": 10,
+   "teamId": 11,
+   "team": "Toronto Tricerit!ts",
+   "owner": "John Tagios",
+   "player": "Tyjae Spears",
+   "slot": "RB",
+   "nfl": "TEN",
+   "points": -0.3,
+   "gameId": "401873057",
+   "game": "JAX @ TEN",
+   "clock": "12:54 - 2nd",
+   "quarter": 2
+  },
+  {
    "id": "10-12-4360689",
    "week": 10,
    "teamId": 12,
@@ -523,11 +538,11 @@
    "player": "Tyler Shough",
    "slot": "QB",
    "nfl": "NO",
-   "points": -0.62,
+   "points": -0.22,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "1:47 - 1st",
-   "quarter": 1
+   "clock": "12:52 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-16-4597500",
@@ -541,8 +556,8 @@
    "points": 0.0,
    "gameId": "401873054",
    "game": "BUF @ NYJ",
-   "clock": "2:50 - 1st",
-   "quarter": 1
+   "clock": "13:21 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-14-3054850",
@@ -556,8 +571,8 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "1:47 - 1st",
-   "quarter": 1
+   "clock": "12:52 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-15-4258620",
@@ -571,8 +586,8 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "4:19 - 1st",
-   "quarter": 1
+   "clock": "12:07 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-1-5208518",
@@ -586,8 +601,8 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "1:47 - 1st",
-   "quarter": 1
+   "clock": "12:52 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-13-4361370",
@@ -601,23 +616,8 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "1:47 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-15-4362619",
-   "week": 10,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Chris Rodriguez Jr.",
-   "slot": "RB",
-   "nfl": "JAX",
-   "points": 0.0,
-   "gameId": "401873057",
-   "game": "JAX @ TEN",
-   "clock": "4:38 - 1st",
-   "quarter": 1
+   "clock": "12:52 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-14-4385690",
@@ -631,8 +631,8 @@
    "points": 0.0,
    "gameId": "401873054",
    "game": "BUF @ NYJ",
-   "clock": "2:50 - 1st",
-   "quarter": 1
+   "clock": "13:21 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-10-3117256",
@@ -646,8 +646,8 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "4:19 - 1st",
-   "quarter": 1
+   "clock": "12:07 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-3-2576925",
@@ -661,8 +661,8 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "1:47 - 1st",
-   "quarter": 1
+   "clock": "12:52 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-8-4832800",
@@ -676,8 +676,8 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "4:19 - 1st",
-   "quarter": 1
+   "clock": "12:07 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-9-4569559",
@@ -691,23 +691,8 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "1:47 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-14-4426502",
-   "week": 10,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Drake London",
-   "slot": "WR",
-   "nfl": "ATL",
-   "points": 0.0,
-   "gameId": "401873058",
-   "game": "KC @ ATL",
-   "clock": "3:15 - 1st",
-   "quarter": 1
+   "clock": "12:52 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-4-4569618",
@@ -721,8 +706,8 @@
    "points": 0.0,
    "gameId": "401873054",
    "game": "BUF @ NYJ",
-   "clock": "2:50 - 1st",
-   "quarter": 1
+   "clock": "13:21 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-8-3916433",
@@ -736,8 +721,8 @@
    "points": 0.0,
    "gameId": "401873057",
    "game": "JAX @ TEN",
-   "clock": "4:38 - 1st",
-   "quarter": 1
+   "clock": "12:54 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-15-4695883",
@@ -751,8 +736,8 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "1:47 - 1st",
-   "quarter": 1
+   "clock": "12:52 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-3-3124679",
@@ -766,8 +751,8 @@
    "points": 0.0,
    "gameId": "401873054",
    "game": "BUF @ NYJ",
-   "clock": "2:50 - 1st",
-   "quarter": 1
+   "clock": "13:21 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-8-4685489",
@@ -781,23 +766,8 @@
    "points": 0.0,
    "gameId": "401873058",
    "game": "KC @ ATL",
-   "clock": "3:15 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-12-4880281",
-   "week": 10,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta",
-   "player": "Jordyn Tyson",
-   "slot": "WR",
-   "nfl": "NO",
-   "points": 0.0,
-   "gameId": "401873055",
-   "game": "CAR @ NO",
-   "clock": "1:47 - 1st",
-   "quarter": 1
+   "clock": "14:53 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-4-3929645",
@@ -811,8 +781,8 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "1:47 - 1st",
-   "quarter": 1
+   "clock": "12:52 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-9-4429022",
@@ -826,8 +796,8 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "4:19 - 1st",
-   "quarter": 1
+   "clock": "12:07 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-5-4635008",
@@ -841,8 +811,8 @@
    "points": 0.0,
    "gameId": "401873054",
    "game": "BUF @ NYJ",
-   "clock": "2:50 - 1st",
-   "quarter": 1
+   "clock": "13:21 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-15-4569603",
@@ -856,8 +826,8 @@
    "points": 0.0,
    "gameId": "401873059",
    "game": "MIA @ IND",
-   "clock": "6:04 - 1st",
-   "quarter": 1
+   "clock": "14:51 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-10-4701936",
@@ -871,8 +841,8 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "2:46 - 1st",
-   "quarter": 1
+   "clock": "14:55 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-2-4428331",
@@ -886,23 +856,8 @@
    "points": 0.0,
    "gameId": "401873058",
    "game": "KC @ ATL",
-   "clock": "3:15 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-17-4571557",
-   "week": 10,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Spencer Shrader",
-   "slot": "K",
-   "nfl": "IND",
-   "points": 0.0,
-   "gameId": "401873059",
-   "game": "MIA @ IND",
-   "clock": "6:04 - 1st",
-   "quarter": 1
+   "clock": "14:53 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-5-4685472",
@@ -916,8 +871,8 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "1:47 - 1st",
-   "quarter": 1
+   "clock": "12:52 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-13-4869461",
@@ -931,8 +886,8 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "2:46 - 1st",
-   "quarter": 1
+   "clock": "14:55 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-11-4572680",
@@ -946,54 +901,9 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "2:46 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-11-4428557",
-   "week": 10,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Tyjae Spears",
-   "slot": "RB",
-   "nfl": "TEN",
-   "points": 0.0,
-   "gameId": "401873057",
-   "game": "JAX @ TEN",
-   "clock": "4:38 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-12-3917232",
-   "week": 10,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta",
-   "player": "Tyler Bass",
-   "slot": "K",
-   "nfl": "BUF",
-   "points": 0.0,
-   "gameId": "401873054",
-   "game": "BUF @ NYJ",
-   "clock": "2:50 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-15-4431459",
-   "week": 10,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Tyler Warren",
-   "slot": "TE",
-   "nfl": "IND",
-   "points": 0.0,
-   "gameId": "401873059",
-   "game": "MIA @ IND",
-   "clock": "6:04 - 1st",
-   "quarter": 1
+   "clock": "14:55 - 2nd",
+   "quarter": 2
   }
  ],
- "updated": "2026-11-15T18:30:14Z"
+ "updated": "2026-11-15T18:45:16Z"
 }
