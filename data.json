@@ -515,21 +515,6 @@
  ],
  "live": [
   {
-   "id": "10-11-4428557",
-   "week": 10,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Tyjae Spears",
-   "slot": "RB",
-   "nfl": "TEN",
-   "points": -0.3,
-   "gameId": "401873057",
-   "game": "JAX @ TEN",
-   "clock": "2:00 - 2nd",
-   "quarter": 2
-  },
-  {
    "id": "10-16-4597500",
    "week": 10,
    "teamId": 16,
@@ -541,7 +526,7 @@
    "points": 0.0,
    "gameId": "401873054",
    "game": "BUF @ NYJ",
-   "clock": "3:12 - 2nd",
+   "clock": "0:12 - 2nd",
    "quarter": 2
   },
   {
@@ -556,7 +541,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "2:00 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   },
   {
@@ -571,7 +556,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "2:00 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   },
   {
@@ -586,7 +571,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "2:00 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   },
   {
@@ -601,37 +586,7 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "2:00 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-8-4832800",
-   "week": 10,
-   "teamId": 8,
-   "team": "BJ's Ferguson",
-   "owner": "David Smeriglio",
-   "player": "Denzel Boston",
-   "slot": "WR",
-   "nfl": "CLE",
-   "points": 0.0,
-   "gameId": "401873056",
-   "game": "HOU @ CLE",
-   "clock": "2:00 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-9-4569559",
-   "week": 10,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Devaughn Vele",
-   "slot": "WR",
-   "nfl": "NO",
-   "points": 0.0,
-   "gameId": "401873055",
-   "game": "CAR @ NO",
-   "clock": "2:00 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   },
   {
@@ -646,7 +601,7 @@
    "points": 0.0,
    "gameId": "401873057",
    "game": "JAX @ TEN",
-   "clock": "2:00 - 2nd",
+   "clock": "0:25 - 2nd",
    "quarter": 2
   },
   {
@@ -661,7 +616,7 @@
    "points": 0.0,
    "gameId": "401873058",
    "game": "KC @ ATL",
-   "clock": "2:00 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   },
   {
@@ -676,22 +631,7 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "2:00 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-10-4701936",
-   "week": 10,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "Matthew Golden",
-   "slot": "WR",
-   "nfl": "GB",
-   "points": 0.0,
-   "gameId": "401873060",
-   "game": "MIN @ GB",
-   "clock": "4:54 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   },
   {
@@ -706,7 +646,7 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "4:54 - 2nd",
+   "clock": "0:20 - 2nd",
    "quarter": 2
   },
   {
@@ -721,9 +661,9 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "4:54 - 2nd",
+   "clock": "0:20 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-15T19:15:12Z"
+ "updated": "2026-11-15T19:30:13Z"
 }
