@@ -515,6 +515,21 @@
  ],
  "live": [
   {
+   "id": "10-16-4597500",
+   "week": 10,
+   "teamId": 16,
+   "team": "Manhattan M!dgets",
+   "owner": "Nick Tasolides",
+   "player": "Adonai Mitchell",
+   "slot": "FLEX",
+   "nfl": "NYJ",
+   "points": 0.0,
+   "gameId": "401873054",
+   "game": "BUF @ NYJ",
+   "clock": "10:55 - 3rd",
+   "quarter": 3
+  },
+  {
    "id": "10-14-3054850",
    "week": 10,
    "teamId": 14,
@@ -526,7 +541,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "13:49 - 3rd",
+   "clock": "9:56 - 3rd",
    "quarter": 3
   },
   {
@@ -541,7 +556,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "13:49 - 3rd",
+   "clock": "9:56 - 3rd",
    "quarter": 3
   },
   {
@@ -556,7 +571,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "13:49 - 3rd",
+   "clock": "9:56 - 3rd",
    "quarter": 3
   },
   {
@@ -571,7 +586,7 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "13:46 - 3rd",
+   "clock": "12:05 - 3rd",
    "quarter": 3
   },
   {
@@ -586,7 +601,7 @@
    "points": 0.0,
    "gameId": "401873058",
    "game": "KC @ ATL",
-   "clock": "13:02 - 3rd",
+   "clock": "10:29 - 3rd",
    "quarter": 3
   },
   {
@@ -601,23 +616,8 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "13:46 - 3rd",
+   "clock": "12:05 - 3rd",
    "quarter": 3
-  },
-  {
-   "id": "10-16-4597500",
-   "week": 10,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Adonai Mitchell",
-   "slot": "FLEX",
-   "nfl": "NYJ",
-   "points": 0.0,
-   "gameId": "401873054",
-   "game": "BUF @ NYJ",
-   "clock": "Halftime",
-   "quarter": 2
   },
   {
    "id": "10-13-4869461",
@@ -631,8 +631,8 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "10:02 - 3rd",
+   "quarter": 3
   },
   {
    "id": "10-11-4572680",
@@ -646,9 +646,9 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "10:02 - 3rd",
+   "quarter": 3
   }
  ],
- "updated": "2026-11-15T19:45:12Z"
+ "updated": "2026-11-15T19:53:02Z"
 }
