@@ -513,37 +513,6 @@
    "status": "Inactive"
   }
  ],
- "live": [
-  {
-   "id": "10-16-4047646",
-   "week": 10,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "A.J. Brown",
-   "slot": "WR",
-   "nfl": "NE",
-   "points": 0.0,
-   "gameId": "401873053",
-   "game": "NE VS DET",
-   "clock": "7:24 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "10-17-4430027",
-   "week": 10,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Sam LaPorta",
-   "slot": "TE",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873053",
-   "game": "NE VS DET",
-   "clock": "7:24 - 3rd",
-   "quarter": 3
-  }
- ],
- "updated": "2026-11-15T16:45:11Z"
+ "live": [],
+ "updated": "2026-11-15T17:00:22Z"
 }
