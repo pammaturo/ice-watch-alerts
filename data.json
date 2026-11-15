@@ -515,21 +515,6 @@
  ],
  "live": [
   {
-   "id": "10-10-3117256",
-   "week": 10,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "Dalton Schultz",
-   "slot": "FLEX",
-   "nfl": "HOU",
-   "points": 0.0,
-   "gameId": "401873056",
-   "game": "HOU @ CLE",
-   "clock": "11:02 - 4th",
-   "quarter": 4
-  },
-  {
    "id": "10-8-4685489",
    "week": 10,
    "teamId": 8,
@@ -541,7 +526,7 @@
    "points": 0.0,
    "gameId": "401873058",
    "game": "KC @ ATL",
-   "clock": "9:55 - 4th",
+   "clock": "6:45 - 4th",
    "quarter": 4
   },
   {
@@ -556,9 +541,9 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "11:02 - 4th",
+   "clock": "6:08 - 4th",
    "quarter": 4
   }
  ],
- "updated": "2026-11-15T20:30:14Z"
+ "updated": "2026-11-15T20:45:18Z"
 }
