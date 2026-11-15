@@ -515,19 +515,19 @@
  ],
  "live": [
   {
-   "id": "10-16-4597500",
+   "id": "10-8-4685489",
    "week": 10,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Adonai Mitchell",
-   "slot": "FLEX",
-   "nfl": "NYJ",
+   "teamId": 8,
+   "team": "BJ's Ferguson",
+   "owner": "David Smeriglio",
+   "player": "Jaydn Ott",
+   "slot": "RB",
+   "nfl": "KC",
    "points": 0.0,
-   "gameId": "401873054",
-   "game": "BUF @ NYJ",
-   "clock": "10:02 - 3rd",
-   "quarter": 3
+   "gameId": "401873058",
+   "game": "KC @ ATL",
+   "clock": "15:00 - 4th",
+   "quarter": 4
   },
   {
    "id": "10-10-3117256",
@@ -541,22 +541,7 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "8:35 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "10-8-4685489",
-   "week": 10,
-   "teamId": 8,
-   "team": "BJ's Ferguson",
-   "owner": "David Smeriglio",
-   "player": "Jaydn Ott",
-   "slot": "RB",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873058",
-   "game": "KC @ ATL",
-   "clock": "8:06 - 3rd",
+   "clock": "1:04 - 3rd",
    "quarter": 3
   },
   {
@@ -571,39 +556,9 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "8:35 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "10-13-4869461",
-   "week": 10,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Trey Smack",
-   "slot": "K",
-   "nfl": "GB",
-   "points": 0.0,
-   "gameId": "401873060",
-   "game": "MIN @ GB",
-   "clock": "7:11 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "10-11-4572680",
-   "week": 10,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Tucker Kraft",
-   "slot": "TE",
-   "nfl": "GB",
-   "points": 0.0,
-   "gameId": "401873060",
-   "game": "MIN @ GB",
-   "clock": "7:11 - 3rd",
+   "clock": "1:04 - 3rd",
    "quarter": 3
   }
  ],
- "updated": "2026-11-15T20:00:17Z"
+ "updated": "2026-11-15T20:15:12Z"
 }
