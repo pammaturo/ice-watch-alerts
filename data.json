@@ -541,21 +541,6 @@
  ],
  "live": [
   {
-   "id": "10-12-4710855",
-   "week": 10,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta",
-   "player": "Konata Mumpfield",
-   "slot": "WR",
-   "nfl": "LAR",
-   "points": 0.0,
-   "gameId": "401873061",
-   "game": "LAR @ ARI",
-   "clock": "9:09 - 2nd",
-   "quarter": 2
-  },
-  {
    "id": "10-8-4241389",
    "week": 10,
    "teamId": 8,
@@ -567,8 +552,8 @@
    "points": 0.0,
    "gameId": "401873063",
    "game": "SF @ DAL",
-   "clock": "1:03 - 1st",
-   "quarter": 1
+   "clock": "12:02 - 2nd",
+   "quarter": 2
   },
   {
    "id": "10-17-5083754",
@@ -582,9 +567,9 @@
    "points": 0.0,
    "gameId": "401873063",
    "game": "SF @ DAL",
-   "clock": "1:03 - 1st",
-   "quarter": 1
+   "clock": "12:02 - 2nd",
+   "quarter": 2
   }
  ],
- "updated": "2026-11-15T22:00:26Z"
+ "updated": "2026-11-15T22:15:20Z"
 }
