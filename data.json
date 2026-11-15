@@ -515,21 +515,6 @@
  ],
  "live": [
   {
-   "id": "10-12-4360689",
-   "week": 10,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta",
-   "player": "Tyler Shough",
-   "slot": "QB",
-   "nfl": "NO",
-   "points": -2.02,
-   "gameId": "401873055",
-   "game": "CAR @ NO",
-   "clock": "6:46 - 2nd",
-   "quarter": 2
-  },
-  {
    "id": "10-11-4428557",
    "week": 10,
    "teamId": 11,
@@ -541,7 +526,7 @@
    "points": -0.3,
    "gameId": "401873057",
    "game": "JAX @ TEN",
-   "clock": "7:54 - 2nd",
+   "clock": "3:28 - 2nd",
    "quarter": 2
   },
   {
@@ -556,7 +541,7 @@
    "points": 0.0,
    "gameId": "401873054",
    "game": "BUF @ NYJ",
-   "clock": "6:58 - 2nd",
+   "clock": "4:38 - 2nd",
    "quarter": 2
   },
   {
@@ -571,7 +556,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "6:46 - 2nd",
+   "clock": "3:13 - 2nd",
    "quarter": 2
   },
   {
@@ -586,7 +571,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "6:46 - 2nd",
+   "clock": "3:13 - 2nd",
    "quarter": 2
   },
   {
@@ -601,7 +586,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "6:46 - 2nd",
+   "clock": "3:13 - 2nd",
    "quarter": 2
   },
   {
@@ -616,7 +601,7 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "7:33 - 2nd",
+   "clock": "4:12 - 2nd",
    "quarter": 2
   },
   {
@@ -631,7 +616,7 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "7:33 - 2nd",
+   "clock": "4:12 - 2nd",
    "quarter": 2
   },
   {
@@ -646,22 +631,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "6:46 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-4-4569618",
-   "week": 10,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Garrett Wilson",
-   "slot": "WR",
-   "nfl": "NYJ",
-   "points": 0.0,
-   "gameId": "401873054",
-   "game": "BUF @ NYJ",
-   "clock": "6:58 - 2nd",
+   "clock": "3:13 - 2nd",
    "quarter": 2
   },
   {
@@ -676,7 +646,7 @@
    "points": 0.0,
    "gameId": "401873057",
    "game": "JAX @ TEN",
-   "clock": "7:54 - 2nd",
+   "clock": "3:28 - 2nd",
    "quarter": 2
   },
   {
@@ -691,7 +661,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "6:46 - 2nd",
+   "clock": "3:13 - 2nd",
    "quarter": 2
   },
   {
@@ -706,7 +676,7 @@
    "points": 0.0,
    "gameId": "401873058",
    "game": "KC @ ATL",
-   "clock": "7:12 - 2nd",
+   "clock": "3:05 - 2nd",
    "quarter": 2
   },
   {
@@ -721,7 +691,7 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "7:33 - 2nd",
+   "clock": "4:12 - 2nd",
    "quarter": 2
   },
   {
@@ -736,22 +706,7 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "9:31 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-2-4428331",
-   "week": 10,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Rashee Rice",
-   "slot": "WR",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873058",
-   "game": "KC @ ATL",
-   "clock": "7:12 - 2nd",
+   "clock": "5:26 - 2nd",
    "quarter": 2
   },
   {
@@ -766,7 +721,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "6:46 - 2nd",
+   "clock": "3:13 - 2nd",
    "quarter": 2
   },
   {
@@ -781,7 +736,7 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "9:31 - 2nd",
+   "clock": "5:26 - 2nd",
    "quarter": 2
   },
   {
@@ -796,9 +751,9 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "9:31 - 2nd",
+   "clock": "5:26 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-15T19:00:18Z"
+ "updated": "2026-11-15T19:12:09Z"
 }
