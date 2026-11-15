@@ -515,6 +515,21 @@
  ],
  "live": [
   {
+   "id": "10-12-4360689",
+   "week": 10,
+   "teamId": 12,
+   "team": "Manhattan M!dgets",
+   "owner": "Nikhil Mehta",
+   "player": "Tyler Shough",
+   "slot": "QB",
+   "nfl": "NO",
+   "points": -2.02,
+   "gameId": "401873055",
+   "game": "CAR @ NO",
+   "clock": "6:46 - 2nd",
+   "quarter": 2
+  },
+  {
    "id": "10-11-4428557",
    "week": 10,
    "teamId": 11,
@@ -526,22 +541,7 @@
    "points": -0.3,
    "gameId": "401873057",
    "game": "JAX @ TEN",
-   "clock": "12:54 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-12-4360689",
-   "week": 10,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta",
-   "player": "Tyler Shough",
-   "slot": "QB",
-   "nfl": "NO",
-   "points": -0.22,
-   "gameId": "401873055",
-   "game": "CAR @ NO",
-   "clock": "12:52 - 2nd",
+   "clock": "7:54 - 2nd",
    "quarter": 2
   },
   {
@@ -556,7 +556,7 @@
    "points": 0.0,
    "gameId": "401873054",
    "game": "BUF @ NYJ",
-   "clock": "13:21 - 2nd",
+   "clock": "6:58 - 2nd",
    "quarter": 2
   },
   {
@@ -571,22 +571,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "12:52 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-15-4258620",
-   "week": 10,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Andre Szmyt",
-   "slot": "K",
-   "nfl": "CLE",
-   "points": 0.0,
-   "gameId": "401873056",
-   "game": "HOU @ CLE",
-   "clock": "12:07 - 2nd",
+   "clock": "6:46 - 2nd",
    "quarter": 2
   },
   {
@@ -601,7 +586,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "12:52 - 2nd",
+   "clock": "6:46 - 2nd",
    "quarter": 2
   },
   {
@@ -616,22 +601,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "12:52 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-14-4385690",
-   "week": 10,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Dalton Kincaid",
-   "slot": "TE",
-   "nfl": "BUF",
-   "points": 0.0,
-   "gameId": "401873054",
-   "game": "BUF @ NYJ",
-   "clock": "13:21 - 2nd",
+   "clock": "6:46 - 2nd",
    "quarter": 2
   },
   {
@@ -646,22 +616,7 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "12:07 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-3-2576925",
-   "week": 10,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Darren Waller",
-   "slot": "TE",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873055",
-   "game": "CAR @ NO",
-   "clock": "12:52 - 2nd",
+   "clock": "7:33 - 2nd",
    "quarter": 2
   },
   {
@@ -676,7 +631,7 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "12:07 - 2nd",
+   "clock": "7:33 - 2nd",
    "quarter": 2
   },
   {
@@ -691,7 +646,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "12:52 - 2nd",
+   "clock": "6:46 - 2nd",
    "quarter": 2
   },
   {
@@ -706,7 +661,7 @@
    "points": 0.0,
    "gameId": "401873054",
    "game": "BUF @ NYJ",
-   "clock": "13:21 - 2nd",
+   "clock": "6:58 - 2nd",
    "quarter": 2
   },
   {
@@ -721,7 +676,7 @@
    "points": 0.0,
    "gameId": "401873057",
    "game": "JAX @ TEN",
-   "clock": "12:54 - 2nd",
+   "clock": "7:54 - 2nd",
    "quarter": 2
   },
   {
@@ -736,22 +691,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "12:52 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-3-3124679",
-   "week": 10,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Jason Sanders",
-   "slot": "K",
-   "nfl": "NYJ",
-   "points": 0.0,
-   "gameId": "401873054",
-   "game": "BUF @ NYJ",
-   "clock": "13:21 - 2nd",
+   "clock": "6:46 - 2nd",
    "quarter": 2
   },
   {
@@ -766,22 +706,7 @@
    "points": 0.0,
    "gameId": "401873058",
    "game": "KC @ ATL",
-   "clock": "14:53 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-4-3929645",
-   "week": 10,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Juwan Johnson",
-   "slot": "TE",
-   "nfl": "NO",
-   "points": 0.0,
-   "gameId": "401873055",
-   "game": "CAR @ NO",
-   "clock": "12:52 - 2nd",
+   "clock": "7:12 - 2nd",
    "quarter": 2
   },
   {
@@ -796,37 +721,7 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "12:07 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-5-4635008",
-   "week": 10,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Keon Coleman",
-   "slot": "FLEX",
-   "nfl": "BUF",
-   "points": 0.0,
-   "gameId": "401873054",
-   "game": "BUF @ NYJ",
-   "clock": "13:21 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-15-4569603",
-   "week": 10,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Malik Washington",
-   "slot": "WR",
-   "nfl": "MIA",
-   "points": 0.0,
-   "gameId": "401873059",
-   "game": "MIA @ IND",
-   "clock": "14:51 - 2nd",
+   "clock": "7:33 - 2nd",
    "quarter": 2
   },
   {
@@ -841,7 +736,7 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "14:55 - 2nd",
+   "clock": "9:31 - 2nd",
    "quarter": 2
   },
   {
@@ -856,7 +751,7 @@
    "points": 0.0,
    "gameId": "401873058",
    "game": "KC @ ATL",
-   "clock": "14:53 - 2nd",
+   "clock": "7:12 - 2nd",
    "quarter": 2
   },
   {
@@ -871,7 +766,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "12:52 - 2nd",
+   "clock": "6:46 - 2nd",
    "quarter": 2
   },
   {
@@ -886,7 +781,7 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "14:55 - 2nd",
+   "clock": "9:31 - 2nd",
    "quarter": 2
   },
   {
@@ -901,9 +796,9 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "14:55 - 2nd",
+   "clock": "9:31 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-15T18:45:16Z"
+ "updated": "2026-11-15T19:00:18Z"
 }
