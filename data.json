@@ -541,21 +541,6 @@
  ],
  "live": [
   {
-   "id": "10-13-4430878",
-   "week": 10,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Jaxon Smith-Njigba",
-   "slot": "WR",
-   "nfl": "SEA",
-   "points": 0.0,
-   "gameId": "401873062",
-   "game": "SEA @ LV",
-   "clock": "11:13 - 2nd",
-   "quarter": 2
-  },
-  {
    "id": "10-12-4710855",
    "week": 10,
    "teamId": 12,
@@ -567,7 +552,7 @@
    "points": 0.0,
    "gameId": "401873061",
    "game": "LAR @ ARI",
-   "clock": "15:00 - 2nd",
+   "clock": "9:09 - 2nd",
    "quarter": 2
   },
   {
@@ -582,37 +567,7 @@
    "points": 0.0,
    "gameId": "401873063",
    "game": "SF @ DAL",
-   "clock": "6:56 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-3-2577417",
-   "week": 10,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Dak Prescott",
-   "slot": "QB",
-   "nfl": "DAL",
-   "points": 0.0,
-   "gameId": "401873063",
-   "game": "SF @ DAL",
-   "clock": "6:56 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-3-4426354",
-   "week": 10,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "George Pickens",
-   "slot": "WR",
-   "nfl": "DAL",
-   "points": 0.0,
-   "gameId": "401873063",
-   "game": "SF @ DAL",
-   "clock": "6:56 - 1st",
+   "clock": "1:03 - 1st",
    "quarter": 1
   },
   {
@@ -627,9 +582,9 @@
    "points": 0.0,
    "gameId": "401873063",
    "game": "SF @ DAL",
-   "clock": "6:56 - 1st",
+   "clock": "1:03 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-15T21:45:11Z"
+ "updated": "2026-11-15T22:00:26Z"
 }
