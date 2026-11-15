@@ -539,22 +539,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "10-8-4241389",
-   "week": 10,
-   "teamId": 8,
-   "team": "BJ's Ferguson",
-   "owner": "David Smeriglio",
-   "player": "CeeDee Lamb",
-   "slot": "WR",
-   "nfl": "DAL",
-   "points": 0.0,
-   "gameId": "401873063",
-   "game": "SF @ DAL",
-   "clock": "6:59 - 3rd",
-   "quarter": 3
-  }
- ],
- "updated": "2026-11-15T23:30:13Z"
+ "live": [],
+ "updated": "2026-11-15T23:41:48Z"
 }
