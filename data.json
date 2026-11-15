@@ -511,73 +511,8 @@
    "points": 0.0,
    "gameId": "401873037",
    "status": "Inactive"
-  },
-  {
-   "id": "10-11-3046779",
-   "week": 10,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Jared Goff",
-   "slot": "QB",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873053",
-   "status": "Inactive"
-  },
-  {
-   "id": "10-14-4374302",
-   "week": 10,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Amon-Ra St. Brown",
-   "slot": "WR",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873053",
-   "status": "Inactive"
-  },
-  {
-   "id": "10-17-4430027",
-   "week": 10,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Sam LaPorta",
-   "slot": "TE",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873053",
-   "status": "Inactive"
-  },
-  {
-   "id": "10-2-4426388",
-   "week": 10,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Jameson Williams",
-   "slot": "WR",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873053",
-   "status": "Inactive"
-  },
-  {
-   "id": "10-3-4429795",
-   "week": 10,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Jahmyr Gibbs",
-   "slot": "RB",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873053",
-   "status": "Inactive"
   }
  ],
  "live": [],
- "updated": "2026-11-15T17:48:37Z"
+ "updated": "2026-11-15T18:00:16Z"
 }
