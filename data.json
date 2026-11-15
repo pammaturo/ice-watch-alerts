@@ -526,67 +526,7 @@
    "points": 0.0,
    "gameId": "401873053",
    "game": "NE VS DET",
-   "clock": "9:28 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-14-4374302",
-   "week": 10,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Amon-Ra St. Brown",
-   "slot": "WR",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873053",
-   "game": "NE VS DET",
-   "clock": "9:28 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-1-4427095",
-   "week": 10,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "DeMario Douglas",
-   "slot": "WR",
-   "nfl": "NE",
-   "points": 0.0,
-   "gameId": "401873053",
-   "game": "NE VS DET",
-   "clock": "9:28 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-3-4429795",
-   "week": 10,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Jahmyr Gibbs",
-   "slot": "RB",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873053",
-   "game": "NE VS DET",
-   "clock": "9:28 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-2-4689936",
-   "week": 10,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Jake Bates",
-   "slot": "K",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873053",
-   "game": "NE VS DET",
-   "clock": "9:28 - 1st",
+   "clock": "5:57 - 1st",
    "quarter": 1
   },
   {
@@ -601,22 +541,7 @@
    "points": 0.0,
    "gameId": "401873053",
    "game": "NE VS DET",
-   "clock": "9:28 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "10-11-3046779",
-   "week": 10,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Jared Goff",
-   "slot": "QB",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873053",
-   "game": "NE VS DET",
-   "clock": "9:28 - 1st",
+   "clock": "5:57 - 1st",
    "quarter": 1
   },
   {
@@ -631,7 +556,7 @@
    "points": 0.0,
    "gameId": "401873053",
    "game": "NE VS DET",
-   "clock": "9:28 - 1st",
+   "clock": "5:57 - 1st",
    "quarter": 1
   },
   {
@@ -646,9 +571,9 @@
    "points": 0.0,
    "gameId": "401873053",
    "game": "NE VS DET",
-   "clock": "9:28 - 1st",
+   "clock": "5:57 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-15T14:45:15Z"
+ "updated": "2026-11-15T15:00:18Z"
 }
