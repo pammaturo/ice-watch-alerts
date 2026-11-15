@@ -526,37 +526,7 @@
    "points": 0.0,
    "gameId": "401873053",
    "game": "NE VS DET",
-   "clock": "2:00 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-2-4426388",
-   "week": 10,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Jameson Williams",
-   "slot": "WR",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873053",
-   "game": "NE VS DET",
-   "clock": "2:00 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-7-4698253",
-   "week": 10,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Lan Larison",
-   "slot": "RB",
-   "nfl": "NE",
-   "points": 0.0,
-   "gameId": "401873053",
-   "game": "NE VS DET",
-   "clock": "2:00 - 2nd",
+   "clock": "0:33 - 2nd",
    "quarter": 2
   },
   {
@@ -571,9 +541,9 @@
    "points": 0.0,
    "gameId": "401873053",
    "game": "NE VS DET",
-   "clock": "2:00 - 2nd",
+   "clock": "0:33 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-15T15:54:17Z"
+ "updated": "2026-11-15T16:00:17Z"
 }
