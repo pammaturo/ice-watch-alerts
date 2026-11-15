@@ -526,7 +526,7 @@
    "points": -0.3,
    "gameId": "401873057",
    "game": "JAX @ TEN",
-   "clock": "3:28 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -541,7 +541,7 @@
    "points": 0.0,
    "gameId": "401873054",
    "game": "BUF @ NYJ",
-   "clock": "4:38 - 2nd",
+   "clock": "3:12 - 2nd",
    "quarter": 2
   },
   {
@@ -556,7 +556,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "3:13 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -571,7 +571,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "3:13 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -586,7 +586,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "3:13 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -601,7 +601,7 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "4:12 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -616,7 +616,7 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "4:12 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -631,7 +631,7 @@
    "points": 0.0,
    "gameId": "401873055",
    "game": "CAR @ NO",
-   "clock": "3:13 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -646,22 +646,7 @@
    "points": 0.0,
    "gameId": "401873057",
    "game": "JAX @ TEN",
-   "clock": "3:28 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-15-4695883",
-   "week": 10,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Jalen Coker",
-   "slot": "WR",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873055",
-   "game": "CAR @ NO",
-   "clock": "3:13 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -676,7 +661,7 @@
    "points": 0.0,
    "gameId": "401873058",
    "game": "KC @ ATL",
-   "clock": "3:05 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -691,7 +676,7 @@
    "points": 0.0,
    "gameId": "401873056",
    "game": "HOU @ CLE",
-   "clock": "4:12 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -706,22 +691,7 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "5:26 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-5-4685472",
-   "week": 10,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Tetairoa McMillan",
-   "slot": "WR",
-   "nfl": "CAR",
-   "points": 0.0,
-   "gameId": "401873055",
-   "game": "CAR @ NO",
-   "clock": "3:13 - 2nd",
+   "clock": "4:54 - 2nd",
    "quarter": 2
   },
   {
@@ -736,7 +706,7 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "5:26 - 2nd",
+   "clock": "4:54 - 2nd",
    "quarter": 2
   },
   {
@@ -751,9 +721,9 @@
    "points": 0.0,
    "gameId": "401873060",
    "game": "MIN @ GB",
-   "clock": "5:26 - 2nd",
+   "clock": "4:54 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-15T19:12:09Z"
+ "updated": "2026-11-15T19:15:12Z"
 }
