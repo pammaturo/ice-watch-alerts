@@ -541,21 +541,6 @@
  ],
  "live": [
   {
-   "id": "10-1-8439",
-   "week": 10,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "Aaron Rodgers",
-   "slot": "QB",
-   "nfl": "PIT",
-   "points": 0.0,
-   "gameId": "401873064",
-   "game": "PIT @ CIN",
-   "clock": "5:28 - 2nd",
-   "quarter": 2
-  },
-  {
    "id": "10-3-4047650",
    "week": 10,
    "teamId": 3,
@@ -567,9 +552,9 @@
    "points": 0.0,
    "gameId": "401873064",
    "game": "PIT @ CIN",
-   "clock": "5:28 - 2nd",
+   "clock": "1:25 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-16T02:30:18Z"
+ "updated": "2026-11-16T02:45:17Z"
 }
