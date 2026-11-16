@@ -552,7 +552,7 @@
    "points": 0.0,
    "gameId": "401873064",
    "game": "PIT @ CIN",
-   "clock": "9:51 - 2nd",
+   "clock": "5:28 - 2nd",
    "quarter": 2
   },
   {
@@ -567,24 +567,9 @@
    "points": 0.0,
    "gameId": "401873064",
    "game": "PIT @ CIN",
-   "clock": "9:51 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "10-1-4685261",
-   "week": 10,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "Germie Bernard",
-   "slot": "FLEX",
-   "nfl": "PIT",
-   "points": 0.0,
-   "gameId": "401873064",
-   "game": "PIT @ CIN",
-   "clock": "9:51 - 2nd",
+   "clock": "5:28 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-16T02:15:18Z"
+ "updated": "2026-11-16T02:30:18Z"
 }
