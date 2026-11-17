@@ -539,6 +539,22 @@
    "status": "Played"
   }
  ],
- "live": [],
- "updated": "2026-11-16T03:45:10Z"
+ "live": [
+  {
+   "id": "10-7-4429615",
+   "week": 10,
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Zay Flowers",
+   "slot": "WR",
+   "nfl": "BAL",
+   "points": 0.0,
+   "gameId": "401873065",
+   "game": "LAC @ BAL",
+   "clock": "9:15 - 1st",
+   "quarter": 1
+  }
+ ],
+ "updated": "2026-11-17T01:30:16Z"
 }
