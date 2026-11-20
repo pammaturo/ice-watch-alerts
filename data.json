@@ -552,24 +552,9 @@
    "points": 0.0,
    "gameId": "401873066",
    "game": "IND @ HOU",
-   "clock": "6:55 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "11-15-4431459",
-   "week": 11,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Tyler Warren",
-   "slot": "TE",
-   "nfl": "IND",
-   "points": 0.0,
-   "gameId": "401873066",
-   "game": "IND @ HOU",
-   "clock": "6:55 - 2nd",
+   "clock": "2:55 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-20T02:15:11Z"
+ "updated": "2026-11-20T02:30:15Z"
 }
