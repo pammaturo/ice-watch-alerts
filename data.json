@@ -541,66 +541,6 @@
  ],
  "live": [
   {
-   "id": "11-2-4432577",
-   "week": 11,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "C.J. Stroud",
-   "slot": "QB",
-   "nfl": "HOU",
-   "points": -1.04,
-   "gameId": "401873066",
-   "game": "IND @ HOU",
-   "clock": "3:54 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-14-4362478",
-   "week": 11,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Emari Demercado",
-   "slot": "RB",
-   "nfl": "HOU",
-   "points": 0.0,
-   "gameId": "401873066",
-   "game": "IND @ HOU",
-   "clock": "3:54 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-11-2971573",
-   "week": 11,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Ka'imi Fairbairn",
-   "slot": "K",
-   "nfl": "HOU",
-   "points": 0.0,
-   "gameId": "401873066",
-   "game": "IND @ HOU",
-   "clock": "3:54 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-1-4258173",
-   "week": 11,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "Nico Collins",
-   "slot": "WR",
-   "nfl": "HOU",
-   "points": 0.0,
-   "gameId": "401873066",
-   "game": "IND @ HOU",
-   "clock": "3:54 - 1st",
-   "quarter": 1
-  },
-  {
    "id": "11-8-4366031",
    "week": 11,
    "teamId": 8,
@@ -612,8 +552,8 @@
    "points": 0.0,
    "gameId": "401873066",
    "game": "IND @ HOU",
-   "clock": "3:54 - 1st",
-   "quarter": 1
+   "clock": "15:00 - 2nd",
+   "quarter": 2
   },
   {
    "id": "11-15-4431459",
@@ -627,24 +567,9 @@
    "points": 0.0,
    "gameId": "401873066",
    "game": "IND @ HOU",
-   "clock": "3:54 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-2-4686422",
-   "week": 11,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Xavier Hutchinson",
-   "slot": "WR",
-   "nfl": "HOU",
-   "points": 0.0,
-   "gameId": "401873066",
-   "game": "IND @ HOU",
-   "clock": "3:54 - 1st",
-   "quarter": 1
+   "clock": "15:00 - 2nd",
+   "quarter": 2
   }
  ],
- "updated": "2026-11-20T01:45:11Z"
+ "updated": "2026-11-20T02:00:18Z"
 }
