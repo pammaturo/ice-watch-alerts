@@ -539,22 +539,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "11-8-4366031",
-   "week": 11,
-   "teamId": 8,
-   "team": "BJ's Ferguson",
-   "owner": "David Smeriglio",
-   "player": "Tank Dell",
-   "slot": "WR",
-   "nfl": "HOU",
-   "points": 0.0,
-   "gameId": "401873066",
-   "game": "IND @ HOU",
-   "clock": "10:15 - 3rd",
-   "quarter": 3
-  }
- ],
- "updated": "2026-11-20T03:15:19Z"
+ "live": [],
+ "updated": "2026-11-20T03:30:12Z"
 }
