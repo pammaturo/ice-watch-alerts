@@ -549,40 +549,10 @@
    "player": "C.J. Stroud",
    "slot": "QB",
    "nfl": "HOU",
-   "points": 0.0,
+   "points": -1.04,
    "gameId": "401873066",
    "game": "IND @ HOU",
-   "clock": "10:43 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-10-3117256",
-   "week": 11,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "Dalton Schultz",
-   "slot": "FLEX",
-   "nfl": "HOU",
-   "points": 0.0,
-   "gameId": "401873066",
-   "game": "IND @ HOU",
-   "clock": "10:43 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-9-4035538",
-   "week": 11,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "David Montgomery",
-   "slot": "RB",
-   "nfl": "HOU",
-   "points": 0.0,
-   "gameId": "401873066",
-   "game": "IND @ HOU",
-   "clock": "10:43 - 1st",
+   "clock": "3:54 - 1st",
    "quarter": 1
   },
   {
@@ -597,7 +567,7 @@
    "points": 0.0,
    "gameId": "401873066",
    "game": "IND @ HOU",
-   "clock": "10:43 - 1st",
+   "clock": "3:54 - 1st",
    "quarter": 1
   },
   {
@@ -612,7 +582,7 @@
    "points": 0.0,
    "gameId": "401873066",
    "game": "IND @ HOU",
-   "clock": "10:43 - 1st",
+   "clock": "3:54 - 1st",
    "quarter": 1
   },
   {
@@ -627,7 +597,7 @@
    "points": 0.0,
    "gameId": "401873066",
    "game": "IND @ HOU",
-   "clock": "10:43 - 1st",
+   "clock": "3:54 - 1st",
    "quarter": 1
   },
   {
@@ -642,7 +612,7 @@
    "points": 0.0,
    "gameId": "401873066",
    "game": "IND @ HOU",
-   "clock": "10:43 - 1st",
+   "clock": "3:54 - 1st",
    "quarter": 1
   },
   {
@@ -657,7 +627,7 @@
    "points": 0.0,
    "gameId": "401873066",
    "game": "IND @ HOU",
-   "clock": "10:43 - 1st",
+   "clock": "3:54 - 1st",
    "quarter": 1
   },
   {
@@ -672,9 +642,9 @@
    "points": 0.0,
    "gameId": "401873066",
    "game": "IND @ HOU",
-   "clock": "10:43 - 1st",
+   "clock": "3:54 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-20T01:30:14Z"
+ "updated": "2026-11-20T01:45:11Z"
 }
