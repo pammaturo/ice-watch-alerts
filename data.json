@@ -541,21 +541,6 @@
  ],
  "live": [
   {
-   "id": "11-7-4240657",
-   "week": 11,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Michael Carter",
-   "slot": "RB",
-   "nfl": "TEN",
-   "points": 0.0,
-   "gameId": "401873073",
-   "game": "TEN @ DAL",
-   "clock": "11:40 - 4th",
-   "quarter": 4
-  },
-  {
    "id": "11-2-3116365",
    "week": 11,
    "teamId": 2,
@@ -567,9 +552,24 @@
    "points": 0.0,
    "gameId": "401873068",
    "game": "BAL @ CAR",
-   "clock": "0:31 - 3rd",
-   "quarter": 3
+   "clock": "13:01 - 4th",
+   "quarter": 4
+  },
+  {
+   "id": "11-7-4240657",
+   "week": 11,
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Michael Carter",
+   "slot": "RB",
+   "nfl": "TEN",
+   "points": 0.0,
+   "gameId": "401873073",
+   "game": "TEN @ DAL",
+   "clock": "6:28 - 4th",
+   "quarter": 4
   }
  ],
- "updated": "2026-11-22T20:30:24Z"
+ "updated": "2026-11-22T20:45:14Z"
 }
