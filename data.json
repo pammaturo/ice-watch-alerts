@@ -541,21 +541,6 @@
  ],
  "live": [
   {
-   "id": "11-1-3150744",
-   "week": 11,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "Chase McLaughlin",
-   "slot": "K",
-   "nfl": "TB",
-   "points": 0.0,
-   "gameId": "401873072",
-   "game": "TB @ DET",
-   "clock": "0:14 - 2nd",
-   "quarter": 2
-  },
-  {
    "id": "11-2-3116365",
    "week": 11,
    "teamId": 2,
@@ -567,7 +552,7 @@
    "points": 0.0,
    "gameId": "401873068",
    "game": "BAL @ CAR",
-   "clock": "5:06 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -582,9 +567,9 @@
    "points": 0.0,
    "gameId": "401873073",
    "game": "TEN @ DAL",
-   "clock": "4:08 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   }
  ],
- "updated": "2026-11-22T19:15:13Z"
+ "updated": "2026-11-22T19:30:21Z"
 }
