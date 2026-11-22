@@ -539,6 +539,52 @@
    "status": "Played"
   }
  ],
- "live": [],
- "updated": "2026-11-22T21:00:22Z"
+ "live": [
+  {
+   "id": "11-4-4569618",
+   "week": 11,
+   "teamId": 4,
+   "team": "Funnel Guy",
+   "owner": "Ryan Gregware",
+   "player": "Garrett Wilson",
+   "slot": "FLEX",
+   "nfl": "NYJ",
+   "points": 0.0,
+   "gameId": "401873074",
+   "game": "NYJ @ LAC",
+   "clock": "10:25 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "11-12-4808766",
+   "week": 11,
+   "teamId": 12,
+   "team": "Manhattan M!dgets",
+   "owner": "Nikhil Mehta",
+   "player": "Mason Taylor",
+   "slot": "TE",
+   "nfl": "NYJ",
+   "points": 0.0,
+   "gameId": "401873074",
+   "game": "NYJ @ LAC",
+   "clock": "10:25 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "11-10-4686612",
+   "week": 11,
+   "teamId": 10,
+   "team": "Arizona Diamondbacks",
+   "owner": "Daniel Kelly",
+   "player": "Tre' Harris",
+   "slot": "WR",
+   "nfl": "LAC",
+   "points": 0.0,
+   "gameId": "401873074",
+   "game": "NYJ @ LAC",
+   "clock": "10:25 - 1st",
+   "quarter": 1
+  }
+ ],
+ "updated": "2026-11-22T21:15:15Z"
 }
