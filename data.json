@@ -541,49 +541,34 @@
  ],
  "live": [
   {
-   "id": "11-12-4890973",
+   "id": "11-12-4808766",
    "week": 11,
    "teamId": 12,
    "team": "Manhattan M!dgets",
    "owner": "Nikhil Mehta",
-   "player": "Ashton Jeanty",
-   "slot": "RB",
-   "nfl": "LV",
+   "player": "Mason Taylor",
+   "slot": "TE",
+   "nfl": "NYJ",
    "points": 0.0,
-   "gameId": "401873075",
-   "game": "LV @ DEN",
-   "clock": "12:01 - 1st",
-   "quarter": 1
+   "gameId": "401873074",
+   "game": "NYJ @ LAC",
+   "clock": "12:53 - 2nd",
+   "quarter": 2
   },
   {
-   "id": "11-14-4686361",
+   "id": "11-10-4686612",
    "week": 11,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Cam Little",
-   "slot": "K",
-   "nfl": "JAX",
+   "teamId": 10,
+   "team": "Arizona Diamondbacks",
+   "owner": "Daniel Kelly",
+   "player": "Tre' Harris",
+   "slot": "WR",
+   "nfl": "LAC",
    "points": 0.0,
-   "gameId": "401873069",
-   "game": "JAX @ NYG",
-   "clock": "13:23 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-13-4696981",
-   "week": 11,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Cam Skattebo",
-   "slot": "RB",
-   "nfl": "NYG",
-   "points": 0.0,
-   "gameId": "401873069",
-   "game": "JAX @ NYG",
-   "clock": "13:23 - 1st",
-   "quarter": 1
+   "gameId": "401873074",
+   "game": "NYJ @ LAC",
+   "clock": "12:53 - 2nd",
+   "quarter": 2
   },
   {
    "id": "11-8-3128429",
@@ -597,7 +582,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "12:01 - 1st",
+   "clock": "7:29 - 1st",
    "quarter": 1
   },
   {
@@ -612,7 +597,7 @@
    "points": 0.0,
    "gameId": "401873069",
    "game": "JAX @ NYG",
-   "clock": "13:23 - 1st",
+   "clock": "7:45 - 1st",
    "quarter": 1
   },
   {
@@ -627,7 +612,7 @@
    "points": 0.0,
    "gameId": "401873069",
    "game": "JAX @ NYG",
-   "clock": "13:23 - 1st",
+   "clock": "7:45 - 1st",
    "quarter": 1
   },
   {
@@ -642,7 +627,7 @@
    "points": 0.0,
    "gameId": "401873069",
    "game": "JAX @ NYG",
-   "clock": "13:23 - 1st",
+   "clock": "7:45 - 1st",
    "quarter": 1
   },
   {
@@ -657,7 +642,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "12:01 - 1st",
+   "clock": "7:29 - 1st",
    "quarter": 1
   },
   {
@@ -672,7 +657,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "12:01 - 1st",
+   "clock": "7:29 - 1st",
    "quarter": 1
   },
   {
@@ -687,22 +672,7 @@
    "points": 0.0,
    "gameId": "401873069",
    "game": "JAX @ NYG",
-   "clock": "13:23 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-12-4808766",
-   "week": 11,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta",
-   "player": "Mason Taylor",
-   "slot": "TE",
-   "nfl": "NYJ",
-   "points": 0.0,
-   "gameId": "401873074",
-   "game": "NYJ @ LAC",
-   "clock": "3:14 - 1st",
+   "clock": "7:45 - 1st",
    "quarter": 1
   },
   {
@@ -717,7 +687,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "12:01 - 1st",
+   "clock": "7:29 - 1st",
    "quarter": 1
   },
   {
@@ -732,22 +702,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "12:01 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-11-4432620",
-   "week": 11,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Parker Washington",
-   "slot": "WR",
-   "nfl": "JAX",
-   "points": 0.0,
-   "gameId": "401873069",
-   "game": "JAX @ NYG",
-   "clock": "13:23 - 1st",
+   "clock": "7:29 - 1st",
    "quarter": 1
   },
   {
@@ -762,7 +717,7 @@
    "points": 0.0,
    "gameId": "401873069",
    "game": "JAX @ NYG",
-   "clock": "13:23 - 1st",
+   "clock": "7:45 - 1st",
    "quarter": 1
   },
   {
@@ -777,39 +732,9 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "12:01 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-10-4686612",
-   "week": 11,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "Tre' Harris",
-   "slot": "WR",
-   "nfl": "LAC",
-   "points": 0.0,
-   "gameId": "401873074",
-   "game": "NYJ @ LAC",
-   "clock": "3:14 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-15-2985659",
-   "week": 11,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Wil Lutz",
-   "slot": "K",
-   "nfl": "DEN",
-   "points": 0.0,
-   "gameId": "401873075",
-   "game": "LV @ DEN",
-   "clock": "12:01 - 1st",
+   "clock": "7:29 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-22T21:30:17Z"
+ "updated": "2026-11-22T21:45:20Z"
 }
