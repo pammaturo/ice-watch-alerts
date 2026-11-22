@@ -541,21 +541,6 @@
  ],
  "live": [
   {
-   "id": "11-2-3116365",
-   "week": 11,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Mark Andrews",
-   "slot": "TE",
-   "nfl": "BAL",
-   "points": 0.0,
-   "gameId": "401873068",
-   "game": "BAL @ CAR",
-   "clock": "6:20 - 3rd",
-   "quarter": 3
-  },
-  {
    "id": "11-7-4240657",
    "week": 11,
    "teamId": 7,
@@ -567,9 +552,24 @@
    "points": 0.0,
    "gameId": "401873073",
    "game": "TEN @ DAL",
-   "clock": "4:17 - 3rd",
+   "clock": "12:19 - 4th",
+   "quarter": 4
+  },
+  {
+   "id": "11-2-3116365",
+   "week": 11,
+   "teamId": 2,
+   "team": "LEBRON RAYMONE JAMES SR.",
+   "owner": "Matt Reddy",
+   "player": "Mark Andrews",
+   "slot": "TE",
+   "nfl": "BAL",
+   "points": 0.0,
+   "gameId": "401873068",
+   "game": "BAL @ CAR",
+   "clock": "1:10 - 3rd",
    "quarter": 3
   }
  ],
- "updated": "2026-11-22T20:15:13Z"
+ "updated": "2026-11-22T20:29:37Z"
 }
