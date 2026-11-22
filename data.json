@@ -552,21 +552,36 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
+   "clock": "6:50 - 2nd",
+   "quarter": 2
+  },
+  {
+   "id": "11-3-4040761",
+   "week": 11,
+   "teamId": 3,
+   "team": "The Ball $acks",
+   "owner": "Patrick Ammaturo",
+   "player": "Devin Singletary",
+   "slot": "RB",
+   "nfl": "NYG",
+   "points": 0.0,
+   "gameId": "401873069",
+   "game": "JAX @ NYG",
    "clock": "11:23 - 2nd",
    "quarter": 2
   },
   {
-   "id": "11-7-4382466",
+   "id": "11-16-4361050",
    "week": 11,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Jalen Nailor",
-   "slot": "WR",
-   "nfl": "LV",
+   "teamId": 16,
+   "team": "Manhattan M!dgets",
+   "owner": "Nick Tasolides",
+   "player": "Isaiah Likely",
+   "slot": "TE",
+   "nfl": "NYG",
    "points": 0.0,
-   "gameId": "401873075",
-   "game": "LV @ DEN",
+   "gameId": "401873069",
+   "game": "JAX @ NYG",
    "clock": "11:23 - 2nd",
    "quarter": 2
   },
@@ -582,7 +597,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "11:23 - 2nd",
+   "clock": "6:50 - 2nd",
    "quarter": 2
   },
   {
@@ -597,7 +612,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "11:23 - 2nd",
+   "clock": "6:50 - 2nd",
    "quarter": 2
   },
   {
@@ -612,7 +627,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "11:23 - 2nd",
+   "clock": "6:50 - 2nd",
    "quarter": 2
   },
   {
@@ -627,69 +642,9 @@
    "points": 0.0,
    "gameId": "401873074",
    "game": "NYJ @ LAC",
-   "clock": "1:15 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
-  },
-  {
-   "id": "11-12-4360310",
-   "week": 11,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta",
-   "player": "Trevor Lawrence",
-   "slot": "QB",
-   "nfl": "JAX",
-   "points": -0.06,
-   "gameId": "401873069",
-   "game": "JAX @ NYG",
-   "clock": "1:19 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-3-4040761",
-   "week": 11,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Devin Singletary",
-   "slot": "RB",
-   "nfl": "NYG",
-   "points": 0.0,
-   "gameId": "401873069",
-   "game": "JAX @ NYG",
-   "clock": "1:19 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-16-4361050",
-   "week": 11,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Isaiah Likely",
-   "slot": "TE",
-   "nfl": "NYG",
-   "points": 0.0,
-   "gameId": "401873069",
-   "game": "JAX @ NYG",
-   "clock": "1:19 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-7-4685415",
-   "week": 11,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Travis Hunter",
-   "slot": "FLEX",
-   "nfl": "JAX",
-   "points": 0.0,
-   "gameId": "401873069",
-   "game": "JAX @ NYG",
-   "clock": "1:19 - 1st",
-   "quarter": 1
   }
  ],
- "updated": "2026-11-22T22:15:14Z"
+ "updated": "2026-11-22T22:30:16Z"
 }
