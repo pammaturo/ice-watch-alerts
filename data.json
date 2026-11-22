@@ -541,21 +541,6 @@
  ],
  "live": [
   {
-   "id": "11-10-4686612",
-   "week": 11,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "Tre' Harris",
-   "slot": "WR",
-   "nfl": "LAC",
-   "points": 0.0,
-   "gameId": "401873074",
-   "game": "NYJ @ LAC",
-   "clock": "11:18 - 4th",
-   "quarter": 4
-  },
-  {
    "id": "11-8-3128429",
    "week": 11,
    "teamId": 8,
@@ -567,7 +552,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "15:00 - 3rd",
+   "clock": "7:38 - 3rd",
    "quarter": 3
   },
   {
@@ -582,37 +567,7 @@
    "points": 0.0,
    "gameId": "401873069",
    "game": "JAX @ NYG",
-   "clock": "15:00 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "11-16-4361050",
-   "week": 11,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Isaiah Likely",
-   "slot": "TE",
-   "nfl": "NYG",
-   "points": 0.0,
-   "gameId": "401873069",
-   "game": "JAX @ NYG",
-   "clock": "15:00 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "11-4-4429086",
-   "week": 11,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Michael Mayer",
-   "slot": "TE",
-   "nfl": "LV",
-   "points": 0.0,
-   "gameId": "401873075",
-   "game": "LV @ DEN",
-   "clock": "15:00 - 3rd",
+   "clock": "9:09 - 3rd",
    "quarter": 3
   },
   {
@@ -627,9 +582,9 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "15:00 - 3rd",
+   "clock": "7:38 - 3rd",
    "quarter": 3
   }
  ],
- "updated": "2026-11-22T23:15:16Z"
+ "updated": "2026-11-22T23:30:15Z"
 }
