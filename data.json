@@ -541,48 +541,18 @@
  ],
  "live": [
   {
-   "id": "11-14-3054850",
+   "id": "11-15-4360689",
    "week": 11,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Alvin Kamara",
-   "slot": "RB",
+   "teamId": 15,
+   "team": "Droopy Nuts",
+   "owner": "Sam Davis",
+   "player": "Tyler Shough",
+   "slot": "QB",
    "nfl": "NO",
-   "points": 0.0,
+   "points": -1.08,
    "gameId": "401873071",
    "game": "NO @ CHI",
-   "clock": "14:21 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "11-14-4243331",
-   "week": 11,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Cade Otton",
-   "slot": "TE",
-   "nfl": "TB",
-   "points": 0.0,
-   "gameId": "401873072",
-   "game": "TB @ DET",
-   "clock": "10:32 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "11-10-4363538",
-   "week": 11,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "Chad Ryland",
-   "slot": "K",
-   "nfl": "ARI",
-   "points": 0.0,
-   "gameId": "401873067",
-   "game": "ARI @ KC",
-   "clock": "10:27 - 2nd",
+   "clock": "8:53 - 2nd",
    "quarter": 2
   },
   {
@@ -597,7 +567,7 @@
    "points": 0.0,
    "gameId": "401873072",
    "game": "TB @ DET",
-   "clock": "10:32 - 2nd",
+   "clock": "2:11 - 2nd",
    "quarter": 2
   },
   {
@@ -612,7 +582,7 @@
    "points": 0.0,
    "gameId": "401873076",
    "game": "PIT @ PHI",
-   "clock": "13:37 - 2nd",
+   "clock": "8:03 - 2nd",
    "quarter": 2
   },
   {
@@ -627,7 +597,7 @@
    "points": 0.0,
    "gameId": "401873073",
    "game": "TEN @ DAL",
-   "clock": "14:47 - 2nd",
+   "clock": "10:44 - 2nd",
    "quarter": 2
   },
   {
@@ -642,37 +612,7 @@
    "points": 0.0,
    "gameId": "401873070",
    "game": "MIA @ BUF",
-   "clock": "13:23 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "11-15-4569603",
-   "week": 11,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Malik Washington",
-   "slot": "WR",
-   "nfl": "MIA",
-   "points": 0.0,
-   "gameId": "401873070",
-   "game": "MIA @ BUF",
-   "clock": "13:23 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "11-7-4240657",
-   "week": 11,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Michael Carter",
-   "slot": "RB",
-   "nfl": "TEN",
-   "points": 0.0,
-   "gameId": "401873073",
-   "game": "TEN @ DAL",
-   "clock": "14:47 - 2nd",
+   "clock": "8:54 - 2nd",
    "quarter": 2
   },
   {
@@ -687,9 +627,24 @@
    "points": 0.0,
    "gameId": "401873068",
    "game": "BAL @ CAR",
-   "clock": "0:01 - 1st",
-   "quarter": 1
+   "clock": "10:01 - 2nd",
+   "quarter": 2
+  },
+  {
+   "id": "11-7-4240657",
+   "week": 11,
+   "teamId": 7,
+   "team": "your mom alright",
+   "owner": "Dylan Snyder",
+   "player": "Michael Carter",
+   "slot": "RB",
+   "nfl": "TEN",
+   "points": 0.0,
+   "gameId": "401873073",
+   "game": "TEN @ DAL",
+   "clock": "10:44 - 2nd",
+   "quarter": 2
   }
  ],
- "updated": "2026-11-22T18:45:13Z"
+ "updated": "2026-11-22T19:00:25Z"
 }
