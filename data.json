@@ -552,8 +552,8 @@
    "points": 0.0,
    "gameId": "401873074",
    "game": "NYJ @ LAC",
-   "clock": "3:16 - 3rd",
-   "quarter": 3
+   "clock": "11:18 - 4th",
+   "quarter": 4
   },
   {
    "id": "11-8-3128429",
@@ -567,8 +567,8 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "0:11 - 2nd",
-   "quarter": 2
+   "clock": "15:00 - 3rd",
+   "quarter": 3
   },
   {
    "id": "11-3-4040761",
@@ -582,8 +582,8 @@
    "points": 0.0,
    "gameId": "401873069",
    "game": "JAX @ NYG",
-   "clock": "0:11 - 2nd",
-   "quarter": 2
+   "clock": "15:00 - 3rd",
+   "quarter": 3
   },
   {
    "id": "11-16-4361050",
@@ -597,8 +597,8 @@
    "points": 0.0,
    "gameId": "401873069",
    "game": "JAX @ NYG",
-   "clock": "0:11 - 2nd",
-   "quarter": 2
+   "clock": "15:00 - 3rd",
+   "quarter": 3
   },
   {
    "id": "11-4-4429086",
@@ -612,8 +612,8 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "0:11 - 2nd",
-   "quarter": 2
+   "clock": "15:00 - 3rd",
+   "quarter": 3
   },
   {
    "id": "11-14-4428718",
@@ -627,9 +627,9 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "0:11 - 2nd",
-   "quarter": 2
+   "clock": "15:00 - 3rd",
+   "quarter": 3
   }
  ],
- "updated": "2026-11-22T23:00:17Z"
+ "updated": "2026-11-22T23:15:16Z"
 }
