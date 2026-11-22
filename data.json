@@ -552,7 +552,7 @@
    "points": 0.0,
    "gameId": "401873071",
    "game": "NO @ CHI",
-   "clock": "10:01 - 1st",
+   "clock": "2:26 - 1st",
    "quarter": 1
   },
   {
@@ -567,7 +567,7 @@
    "points": 0.0,
    "gameId": "401873072",
    "game": "TB @ DET",
-   "clock": "11:04 - 1st",
+   "clock": "1:44 - 1st",
    "quarter": 1
   },
   {
@@ -582,7 +582,7 @@
    "points": 0.0,
    "gameId": "401873073",
    "game": "TEN @ DAL",
-   "clock": "9:01 - 1st",
+   "clock": "4:24 - 1st",
    "quarter": 1
   },
   {
@@ -597,22 +597,7 @@
    "points": 0.0,
    "gameId": "401873068",
    "game": "BAL @ CAR",
-   "clock": "11:35 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-12-4596448",
-   "week": 11,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta",
-   "player": "Bucky Irving",
-   "slot": "RB",
-   "nfl": "TB",
-   "points": 0.0,
-   "gameId": "401873072",
-   "game": "TB @ DET",
-   "clock": "11:04 - 1st",
+   "clock": "5:27 - 1st",
    "quarter": 1
   },
   {
@@ -627,7 +612,7 @@
    "points": 0.0,
    "gameId": "401873072",
    "game": "TB @ DET",
-   "clock": "11:04 - 1st",
+   "clock": "1:44 - 1st",
    "quarter": 1
   },
   {
@@ -642,7 +627,7 @@
    "points": 0.0,
    "gameId": "401873073",
    "game": "TEN @ DAL",
-   "clock": "9:01 - 1st",
+   "clock": "4:24 - 1st",
    "quarter": 1
   },
   {
@@ -657,7 +642,7 @@
    "points": 0.0,
    "gameId": "401873067",
    "game": "ARI @ KC",
-   "clock": "9:40 - 1st",
+   "clock": "2:08 - 1st",
    "quarter": 1
   },
   {
@@ -672,22 +657,7 @@
    "points": 0.0,
    "gameId": "401873072",
    "game": "TB @ DET",
-   "clock": "11:04 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-10-4431268",
-   "week": 11,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "Chimere Dike",
-   "slot": "WR",
-   "nfl": "TEN",
-   "points": 0.0,
-   "gameId": "401873073",
-   "game": "TEN @ DAL",
-   "clock": "9:01 - 1st",
+   "clock": "1:44 - 1st",
    "quarter": 1
   },
   {
@@ -702,22 +672,7 @@
    "points": 0.0,
    "gameId": "401873076",
    "game": "PIT @ PHI",
-   "clock": "9:22 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-11-4361370",
-   "week": 11,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Chris Olave",
-   "slot": "FLEX",
-   "nfl": "NO",
-   "points": 0.0,
-   "gameId": "401873071",
-   "game": "NO @ CHI",
-   "clock": "10:01 - 1st",
+   "clock": "2:49 - 1st",
    "quarter": 1
   },
   {
@@ -732,22 +687,7 @@
    "points": 0.0,
    "gameId": "401873071",
    "game": "NO @ CHI",
-   "clock": "10:01 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-3-3121023",
-   "week": 11,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Dallas Goedert",
-   "slot": "TE",
-   "nfl": "PHI",
-   "points": 0.0,
-   "gameId": "401873076",
-   "game": "PIT @ PHI",
-   "clock": "9:22 - 1st",
+   "clock": "2:26 - 1st",
    "quarter": 1
   },
   {
@@ -762,22 +702,7 @@
    "points": 0.0,
    "gameId": "401873070",
    "game": "MIA @ BUF",
-   "clock": "9:33 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-13-4567750",
-   "week": 11,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Emeka Egbuka",
-   "slot": "WR",
-   "nfl": "TB",
-   "points": 0.0,
-   "gameId": "401873072",
-   "game": "TB @ DET",
-   "clock": "11:04 - 1st",
+   "clock": "4:35 - 1st",
    "quarter": 1
   },
   {
@@ -792,7 +717,7 @@
    "points": 0.0,
    "gameId": "401873073",
    "game": "TEN @ DAL",
-   "clock": "9:01 - 1st",
+   "clock": "4:24 - 1st",
    "quarter": 1
   },
   {
@@ -807,7 +732,7 @@
    "points": 0.0,
    "gameId": "401873072",
    "game": "TB @ DET",
-   "clock": "11:04 - 1st",
+   "clock": "1:44 - 1st",
    "quarter": 1
   },
   {
@@ -822,7 +747,7 @@
    "points": 0.0,
    "gameId": "401873068",
    "game": "BAL @ CAR",
-   "clock": "11:35 - 1st",
+   "clock": "5:27 - 1st",
    "quarter": 1
   },
   {
@@ -837,22 +762,7 @@
    "points": 0.0,
    "gameId": "401873072",
    "game": "TB @ DET",
-   "clock": "11:04 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-1-4688813",
-   "week": 11,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "Josh Downs",
-   "slot": "WR",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873067",
-   "game": "ARI @ KC",
-   "clock": "9:40 - 1st",
+   "clock": "1:44 - 1st",
    "quarter": 1
   },
   {
@@ -867,22 +777,7 @@
    "points": 0.0,
    "gameId": "401873070",
    "game": "MIA @ BUF",
-   "clock": "9:33 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-11-4608686",
-   "week": 11,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Kyle Monangai",
-   "slot": "RB",
-   "nfl": "CHI",
-   "points": 0.0,
-   "gameId": "401873071",
-   "game": "NO @ CHI",
-   "clock": "10:01 - 1st",
+   "clock": "4:35 - 1st",
    "quarter": 1
   },
   {
@@ -897,7 +792,7 @@
    "points": 0.0,
    "gameId": "401873070",
    "game": "MIA @ BUF",
-   "clock": "9:33 - 1st",
+   "clock": "4:35 - 1st",
    "quarter": 1
   },
   {
@@ -912,7 +807,7 @@
    "points": 0.0,
    "gameId": "401873068",
    "game": "BAL @ CAR",
-   "clock": "11:35 - 1st",
+   "clock": "5:27 - 1st",
    "quarter": 1
   },
   {
@@ -927,37 +822,7 @@
    "points": 0.0,
    "gameId": "401873073",
    "game": "TEN @ DAL",
-   "clock": "9:01 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-9-4711533",
-   "week": 11,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Ollie Gordon II",
-   "slot": "RB",
-   "nfl": "MIA",
-   "points": 0.0,
-   "gameId": "401873070",
-   "game": "MIA @ BUF",
-   "clock": "9:33 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-13-4038815",
-   "week": 11,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Rico Dowdle",
-   "slot": "RB",
-   "nfl": "PIT",
-   "points": 0.0,
-   "gameId": "401873076",
-   "game": "PIT @ PHI",
-   "clock": "9:22 - 1st",
+   "clock": "4:24 - 1st",
    "quarter": 1
   },
   {
@@ -972,22 +837,7 @@
    "points": 0.0,
    "gameId": "401873068",
    "game": "BAL @ CAR",
-   "clock": "11:35 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-16-3916148",
-   "week": 11,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Tony Pollard",
-   "slot": "RB",
-   "nfl": "TEN",
-   "points": 0.0,
-   "gameId": "401873073",
-   "game": "TEN @ DAL",
-   "clock": "9:01 - 1st",
+   "clock": "5:27 - 1st",
    "quarter": 1
   },
   {
@@ -1002,7 +852,7 @@
    "points": 0.0,
    "gameId": "401873071",
    "game": "NO @ CHI",
-   "clock": "10:01 - 1st",
+   "clock": "2:26 - 1st",
    "quarter": 1
   },
   {
@@ -1017,24 +867,9 @@
    "points": 0.0,
    "gameId": "401873067",
    "game": "ARI @ KC",
-   "clock": "9:40 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-15-4360689",
-   "week": 11,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Tyler Shough",
-   "slot": "QB",
-   "nfl": "NO",
-   "points": 0.0,
-   "gameId": "401873071",
-   "game": "NO @ CHI",
-   "clock": "10:01 - 1st",
+   "clock": "2:08 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-22T18:15:13Z"
+ "updated": "2026-11-22T18:30:16Z"
 }
