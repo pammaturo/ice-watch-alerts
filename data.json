@@ -552,22 +552,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "7:38 - 3rd",
-   "quarter": 3
-  },
-  {
-   "id": "11-3-4040761",
-   "week": 11,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Devin Singletary",
-   "slot": "RB",
-   "nfl": "NYG",
-   "points": 0.0,
-   "gameId": "401873069",
-   "game": "JAX @ NYG",
-   "clock": "9:09 - 3rd",
+   "clock": "1:10 - 3rd",
    "quarter": 3
   },
   {
@@ -582,9 +567,9 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "7:38 - 3rd",
+   "clock": "1:10 - 3rd",
    "quarter": 3
   }
  ],
- "updated": "2026-11-22T23:30:15Z"
+ "updated": "2026-11-22T23:45:15Z"
 }
