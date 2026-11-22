@@ -539,37 +539,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "11-2-3116365",
-   "week": 11,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Mark Andrews",
-   "slot": "TE",
-   "nfl": "BAL",
-   "points": 0.0,
-   "gameId": "401873068",
-   "game": "BAL @ CAR",
-   "clock": "13:01 - 4th",
-   "quarter": 4
-  },
-  {
-   "id": "11-7-4240657",
-   "week": 11,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Michael Carter",
-   "slot": "RB",
-   "nfl": "TEN",
-   "points": 0.0,
-   "gameId": "401873073",
-   "game": "TEN @ DAL",
-   "clock": "6:28 - 4th",
-   "quarter": 4
-  }
- ],
- "updated": "2026-11-22T20:45:14Z"
+ "live": [],
+ "updated": "2026-11-22T21:00:22Z"
 }
