@@ -541,6 +541,21 @@
  ],
  "live": [
   {
+   "id": "11-10-4686612",
+   "week": 11,
+   "teamId": 10,
+   "team": "Arizona Diamondbacks",
+   "owner": "Daniel Kelly",
+   "player": "Tre' Harris",
+   "slot": "WR",
+   "nfl": "LAC",
+   "points": 0.0,
+   "gameId": "401873074",
+   "game": "NYJ @ LAC",
+   "clock": "10:10 - 3rd",
+   "quarter": 3
+  },
+  {
    "id": "11-8-3128429",
    "week": 11,
    "teamId": 8,
@@ -552,7 +567,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "6:50 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -567,7 +582,7 @@
    "points": 0.0,
    "gameId": "401873069",
    "game": "JAX @ NYG",
-   "clock": "11:23 - 2nd",
+   "clock": "6:04 - 2nd",
    "quarter": 2
   },
   {
@@ -582,22 +597,7 @@
    "points": 0.0,
    "gameId": "401873069",
    "game": "JAX @ NYG",
-   "clock": "11:23 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "11-5-4249087",
-   "week": 11,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Matt Gay",
-   "slot": "K",
-   "nfl": "LV",
-   "points": 0.0,
-   "gameId": "401873075",
-   "game": "LV @ DEN",
-   "clock": "6:50 - 2nd",
+   "clock": "6:04 - 2nd",
    "quarter": 2
   },
   {
@@ -612,7 +612,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "6:50 - 2nd",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   },
   {
@@ -627,24 +627,9 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "6:50 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "11-10-4686612",
-   "week": 11,
-   "teamId": 10,
-   "team": "Arizona Diamondbacks",
-   "owner": "Daniel Kelly",
-   "player": "Tre' Harris",
-   "slot": "WR",
-   "nfl": "LAC",
-   "points": 0.0,
-   "gameId": "401873074",
-   "game": "NYJ @ LAC",
-   "clock": "Halftime",
+   "clock": "2:00 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-22T22:30:16Z"
+ "updated": "2026-11-22T22:45:12Z"
 }
