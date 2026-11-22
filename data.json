@@ -541,21 +541,6 @@
  ],
  "live": [
   {
-   "id": "11-15-4360689",
-   "week": 11,
-   "teamId": 15,
-   "team": "Droopy Nuts",
-   "owner": "Sam Davis",
-   "player": "Tyler Shough",
-   "slot": "QB",
-   "nfl": "NO",
-   "points": -1.08,
-   "gameId": "401873071",
-   "game": "NO @ CHI",
-   "clock": "8:53 - 2nd",
-   "quarter": 2
-  },
-  {
    "id": "11-1-3150744",
    "week": 11,
    "teamId": 1,
@@ -567,52 +552,7 @@
    "points": 0.0,
    "gameId": "401873072",
    "game": "TB @ DET",
-   "clock": "2:11 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "11-12-17372",
-   "week": 11,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta",
-   "player": "Chris Boswell",
-   "slot": "K",
-   "nfl": "PIT",
-   "points": 0.0,
-   "gameId": "401873076",
-   "game": "PIT @ PHI",
-   "clock": "8:03 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "11-3-4426354",
-   "week": 11,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "George Pickens",
-   "slot": "WR",
-   "nfl": "DAL",
-   "points": 0.0,
-   "gameId": "401873073",
-   "game": "TEN @ DAL",
-   "clock": "10:44 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "11-5-4635008",
-   "week": 11,
-   "teamId": 5,
-   "team": "Irvin's in Paris",
-   "owner": "Danny Scott",
-   "player": "Keon Coleman",
-   "slot": "FLEX",
-   "nfl": "BUF",
-   "points": 0.0,
-   "gameId": "401873070",
-   "game": "MIA @ BUF",
-   "clock": "8:54 - 2nd",
+   "clock": "0:14 - 2nd",
    "quarter": 2
   },
   {
@@ -627,7 +567,7 @@
    "points": 0.0,
    "gameId": "401873068",
    "game": "BAL @ CAR",
-   "clock": "10:01 - 2nd",
+   "clock": "5:06 - 2nd",
    "quarter": 2
   },
   {
@@ -642,9 +582,9 @@
    "points": 0.0,
    "gameId": "401873073",
    "game": "TEN @ DAL",
-   "clock": "10:44 - 2nd",
+   "clock": "4:08 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-22T19:00:25Z"
+ "updated": "2026-11-22T19:15:13Z"
 }
