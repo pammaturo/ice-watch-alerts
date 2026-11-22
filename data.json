@@ -552,7 +552,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "15:00 - 2nd",
+   "clock": "11:23 - 2nd",
    "quarter": 2
   },
   {
@@ -567,7 +567,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "15:00 - 2nd",
+   "clock": "11:23 - 2nd",
    "quarter": 2
   },
   {
@@ -582,7 +582,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "15:00 - 2nd",
+   "clock": "11:23 - 2nd",
    "quarter": 2
   },
   {
@@ -597,7 +597,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "15:00 - 2nd",
+   "clock": "11:23 - 2nd",
    "quarter": 2
   },
   {
@@ -612,7 +612,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "15:00 - 2nd",
+   "clock": "11:23 - 2nd",
    "quarter": 2
   },
   {
@@ -627,7 +627,7 @@
    "points": 0.0,
    "gameId": "401873074",
    "game": "NYJ @ LAC",
-   "clock": "5:49 - 2nd",
+   "clock": "1:15 - 2nd",
    "quarter": 2
   },
   {
@@ -639,25 +639,10 @@
    "player": "Trevor Lawrence",
    "slot": "QB",
    "nfl": "JAX",
-   "points": -0.98,
+   "points": -0.06,
    "gameId": "401873069",
    "game": "JAX @ NYG",
-   "clock": "4:59 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-13-4696981",
-   "week": 11,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "Cam Skattebo",
-   "slot": "RB",
-   "nfl": "NYG",
-   "points": 0.0,
-   "gameId": "401873069",
-   "game": "JAX @ NYG",
-   "clock": "4:59 - 1st",
+   "clock": "1:19 - 1st",
    "quarter": 1
   },
   {
@@ -672,7 +657,7 @@
    "points": 0.0,
    "gameId": "401873069",
    "game": "JAX @ NYG",
-   "clock": "4:59 - 1st",
+   "clock": "1:19 - 1st",
    "quarter": 1
   },
   {
@@ -687,7 +672,7 @@
    "points": 0.0,
    "gameId": "401873069",
    "game": "JAX @ NYG",
-   "clock": "4:59 - 1st",
+   "clock": "1:19 - 1st",
    "quarter": 1
   },
   {
@@ -702,9 +687,9 @@
    "points": 0.0,
    "gameId": "401873069",
    "game": "JAX @ NYG",
-   "clock": "4:59 - 1st",
+   "clock": "1:19 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-22T22:00:27Z"
+ "updated": "2026-11-22T22:15:14Z"
 }
