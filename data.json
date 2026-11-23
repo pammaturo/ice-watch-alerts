@@ -552,24 +552,9 @@
    "points": 0.0,
    "gameId": "401873075",
    "game": "LV @ DEN",
-   "clock": "12:12 - 4th",
-   "quarter": 4
-  },
-  {
-   "id": "11-14-4428718",
-   "week": 11,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Tre Tucker",
-   "slot": "FLEX",
-   "nfl": "LV",
-   "points": 0.0,
-   "gameId": "401873075",
-   "game": "LV @ DEN",
-   "clock": "12:12 - 4th",
+   "clock": "6:35 - 4th",
    "quarter": 4
   }
  ],
- "updated": "2026-11-23T00:00:18Z"
+ "updated": "2026-11-23T00:15:14Z"
 }
