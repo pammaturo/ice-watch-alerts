@@ -537,9 +537,7 @@
    "points": 0.0,
    "gameId": "401873056",
    "status": "Played"
-  }
- ],
- "live": [
+  },
   {
    "id": "11-8-3128429",
    "week": 11,
@@ -551,10 +549,9 @@
    "nfl": "DEN",
    "points": 0.0,
    "gameId": "401873075",
-   "game": "LV @ DEN",
-   "clock": "0:57 - 4th",
-   "quarter": 4
+   "status": "Played"
   }
  ],
- "updated": "2026-11-23T00:45:14Z"
+ "live": [],
+ "updated": "2026-11-23T01:00:19Z"
 }
