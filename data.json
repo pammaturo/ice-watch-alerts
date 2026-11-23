@@ -565,7 +565,7 @@
    "points": 0.0,
    "gameId": "401873077",
    "game": "MIN VS SF",
-   "clock": "11:16 - 1st",
+   "clock": "6:50 - 1st",
    "quarter": 1
   },
   {
@@ -580,37 +580,7 @@
    "points": 0.0,
    "gameId": "401873077",
    "game": "MIN VS SF",
-   "clock": "11:16 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-8-14880",
-   "week": 11,
-   "teamId": 8,
-   "team": "BJ's Ferguson",
-   "owner": "David Smeriglio",
-   "player": "Kirk Cousins",
-   "slot": "QB",
-   "nfl": "MIN",
-   "points": 0.0,
-   "gameId": "401873077",
-   "game": "MIN VS SF",
-   "clock": "11:16 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-1-4036133",
-   "week": 11,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "T.J. Hockenson",
-   "slot": "TE",
-   "nfl": "MIN",
-   "points": 0.0,
-   "gameId": "401873077",
-   "game": "MIN VS SF",
-   "clock": "11:16 - 1st",
+   "clock": "6:50 - 1st",
    "quarter": 1
   },
   {
@@ -625,9 +595,9 @@
    "points": 0.0,
    "gameId": "401873077",
    "game": "MIN VS SF",
-   "clock": "11:16 - 1st",
+   "clock": "6:50 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-23T01:30:26Z"
+ "updated": "2026-11-23T01:45:12Z"
 }
