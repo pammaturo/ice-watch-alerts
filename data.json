@@ -554,21 +554,6 @@
  ],
  "live": [
   {
-   "id": "11-11-4262921",
-   "week": 11,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Justin Jefferson",
-   "slot": "WR",
-   "nfl": "MIN",
-   "points": 0.0,
-   "gameId": "401873077",
-   "game": "MIN VS SF",
-   "clock": "6:50 - 1st",
-   "quarter": 1
-  },
-  {
    "id": "11-9-15818",
    "week": 11,
    "teamId": 9,
@@ -580,24 +565,9 @@
    "points": 0.0,
    "gameId": "401873077",
    "game": "MIN VS SF",
-   "clock": "6:50 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-16-4567104",
-   "week": 11,
-   "teamId": 16,
-   "team": "Manhattan M!dgets",
-   "owner": "Nick Tasolides",
-   "player": "Will Reichard",
-   "slot": "K",
-   "nfl": "MIN",
-   "points": 0.0,
-   "gameId": "401873077",
-   "game": "MIN VS SF",
-   "clock": "6:50 - 1st",
+   "clock": "1:13 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-23T01:45:12Z"
+ "updated": "2026-11-23T02:00:17Z"
 }
