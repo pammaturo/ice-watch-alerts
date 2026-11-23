@@ -552,22 +552,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "11-9-15818",
-   "week": 11,
-   "teamId": 9,
-   "team": "Fenway Food Smugglers",
-   "owner": "John O'Friel",
-   "player": "Keenan Allen",
-   "slot": "WR",
-   "nfl": "SF",
-   "points": 0.0,
-   "gameId": "401873077",
-   "game": "MIN VS SF",
-   "clock": "10:53 - 2nd",
-   "quarter": 2
-  }
- ],
- "updated": "2026-11-23T02:15:13Z"
+ "live": [],
+ "updated": "2026-11-23T02:30:16Z"
 }
