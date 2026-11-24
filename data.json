@@ -554,21 +554,6 @@
  ],
  "live": [
   {
-   "id": "11-7-4360635",
-   "week": 11,
-   "teamId": 7,
-   "team": "your mom alright",
-   "owner": "Dylan Snyder",
-   "player": "Chig Okonkwo",
-   "slot": "TE",
-   "nfl": "WSH",
-   "points": 0.0,
-   "gameId": "401873078",
-   "game": "CIN @ WSH",
-   "clock": "1:30 - 2nd",
-   "quarter": 2
-  },
-  {
    "id": "11-8-4697815",
    "week": 11,
    "teamId": 8,
@@ -580,24 +565,9 @@
    "points": 0.0,
    "gameId": "401873078",
    "game": "CIN @ WSH",
-   "clock": "1:30 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "11-14-2976212",
-   "week": 11,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Stefon Diggs",
-   "slot": "WR",
-   "nfl": "WSH",
-   "points": 0.0,
-   "gameId": "401873078",
-   "game": "CIN @ WSH",
-   "clock": "1:30 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   }
  ],
- "updated": "2026-11-24T02:30:18Z"
+ "updated": "2026-11-24T02:45:14Z"
 }
