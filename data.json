@@ -565,22 +565,7 @@
    "points": 0.0,
    "gameId": "401873078",
    "game": "CIN @ WSH",
-   "clock": "11:26 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "11-4-4360234",
-   "week": 11,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Evan McPherson",
-   "slot": "K",
-   "nfl": "CIN",
-   "points": 0.0,
-   "gameId": "401873078",
-   "game": "CIN @ WSH",
-   "clock": "11:26 - 2nd",
+   "clock": "4:33 - 2nd",
    "quarter": 2
   },
   {
@@ -595,7 +580,7 @@
    "points": 0.0,
    "gameId": "401873078",
    "game": "CIN @ WSH",
-   "clock": "11:26 - 2nd",
+   "clock": "4:33 - 2nd",
    "quarter": 2
   },
   {
@@ -610,7 +595,7 @@
    "points": 0.0,
    "gameId": "401873078",
    "game": "CIN @ WSH",
-   "clock": "11:26 - 2nd",
+   "clock": "4:33 - 2nd",
    "quarter": 2
   },
   {
@@ -625,9 +610,9 @@
    "points": 0.0,
    "gameId": "401873078",
    "game": "CIN @ WSH",
-   "clock": "11:26 - 2nd",
+   "clock": "4:33 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-24T02:00:22Z"
+ "updated": "2026-11-24T02:15:13Z"
 }
