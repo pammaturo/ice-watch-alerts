@@ -565,7 +565,7 @@
    "points": 0.0,
    "gameId": "401873078",
    "game": "CIN @ WSH",
-   "clock": "9:09 - 1st",
+   "clock": "3:10 - 1st",
    "quarter": 1
   },
   {
@@ -580,22 +580,7 @@
    "points": 0.0,
    "gameId": "401873078",
    "game": "CIN @ WSH",
-   "clock": "9:09 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "11-11-4575131",
-   "week": 11,
-   "teamId": 11,
-   "team": "Toronto Tricerit!ts",
-   "owner": "John Tagios",
-   "player": "Jacory Croskey-Merritt",
-   "slot": "RB",
-   "nfl": "WSH",
-   "points": 0.0,
-   "gameId": "401873078",
-   "game": "CIN @ WSH",
-   "clock": "9:09 - 1st",
+   "clock": "3:10 - 1st",
    "quarter": 1
   },
   {
@@ -610,7 +595,7 @@
    "points": 0.0,
    "gameId": "401873078",
    "game": "CIN @ WSH",
-   "clock": "9:09 - 1st",
+   "clock": "3:10 - 1st",
    "quarter": 1
   },
   {
@@ -625,7 +610,7 @@
    "points": 0.0,
    "gameId": "401873078",
    "game": "CIN @ WSH",
-   "clock": "9:09 - 1st",
+   "clock": "3:10 - 1st",
    "quarter": 1
   },
   {
@@ -640,9 +625,9 @@
    "points": 0.0,
    "gameId": "401873078",
    "game": "CIN @ WSH",
-   "clock": "9:09 - 1st",
+   "clock": "3:10 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-24T01:30:16Z"
+ "updated": "2026-11-24T01:45:14Z"
 }
