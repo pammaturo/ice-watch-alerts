@@ -565,7 +565,7 @@
    "points": 0.0,
    "gameId": "401873078",
    "game": "CIN @ WSH",
-   "clock": "4:33 - 2nd",
+   "clock": "1:30 - 2nd",
    "quarter": 2
   },
   {
@@ -580,7 +580,7 @@
    "points": 0.0,
    "gameId": "401873078",
    "game": "CIN @ WSH",
-   "clock": "4:33 - 2nd",
+   "clock": "1:30 - 2nd",
    "quarter": 2
   },
   {
@@ -595,24 +595,9 @@
    "points": 0.0,
    "gameId": "401873078",
    "game": "CIN @ WSH",
-   "clock": "4:33 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "11-12-4239993",
-   "week": 11,
-   "teamId": 12,
-   "team": "Manhattan M!dgets",
-   "owner": "Nikhil Mehta",
-   "player": "Tee Higgins",
-   "slot": "WR",
-   "nfl": "CIN",
-   "points": 0.0,
-   "gameId": "401873078",
-   "game": "CIN @ WSH",
-   "clock": "4:33 - 2nd",
+   "clock": "1:30 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-24T02:15:13Z"
+ "updated": "2026-11-24T02:30:18Z"
 }
