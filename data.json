@@ -550,9 +550,7 @@
    "points": 0.0,
    "gameId": "401873075",
    "status": "Played"
-  }
- ],
- "live": [
+  },
   {
    "id": "11-8-4697815",
    "week": 11,
@@ -564,10 +562,9 @@
    "nfl": "WSH",
    "points": 0.0,
    "gameId": "401873078",
-   "game": "CIN @ WSH",
-   "clock": "0:46 - 4th",
-   "quarter": 4
+   "status": "Played"
   }
  ],
- "updated": "2026-11-24T04:15:13Z"
+ "live": [],
+ "updated": "2026-11-24T04:30:16Z"
 }
