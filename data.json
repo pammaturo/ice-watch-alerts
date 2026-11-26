@@ -575,10 +575,10 @@
    "player": "Colston Loveland",
    "slot": "TE",
    "nfl": "CHI",
-   "points": 0.0,
+   "points": -0.5,
    "gameId": "401873081",
    "game": "CHI @ DET",
-   "clock": "10:09 - 1st",
+   "clock": "5:03 - 1st",
    "quarter": 1
   },
   {
@@ -593,22 +593,7 @@
    "points": 0.0,
    "gameId": "401873081",
    "game": "CHI @ DET",
-   "clock": "10:09 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "12-17-4685278",
-   "week": 12,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Luther Burden III",
-   "slot": "WR",
-   "nfl": "CHI",
-   "points": 0.0,
-   "gameId": "401873081",
-   "game": "CHI @ DET",
-   "clock": "10:09 - 1st",
+   "clock": "5:03 - 1st",
    "quarter": 1
   },
   {
@@ -623,9 +608,9 @@
    "points": 0.0,
    "gameId": "401873081",
    "game": "CHI @ DET",
-   "clock": "10:09 - 1st",
+   "clock": "5:03 - 1st",
    "quarter": 1
   }
  ],
- "updated": "2026-11-26T18:15:13Z"
+ "updated": "2026-11-26T18:30:17Z"
 }
