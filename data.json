@@ -578,24 +578,9 @@
    "points": -0.5,
    "gameId": "401873081",
    "game": "CHI @ DET",
-   "clock": "0:28 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "12-17-4430027",
-   "week": 12,
-   "teamId": 17,
-   "team": "Club La La Land",
-   "owner": "Michael Calamari",
-   "player": "Sam LaPorta",
-   "slot": "TE",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873081",
-   "game": "CHI @ DET",
-   "clock": "0:28 - 2nd",
+   "clock": "Halftime",
    "quarter": 2
   }
  ],
- "updated": "2026-11-26T19:30:21Z"
+ "updated": "2026-11-26T19:45:13Z"
 }
