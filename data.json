@@ -578,6 +578,67 @@
    "status": "Played"
   }
  ],
- "live": [],
- "updated": "2026-11-26T21:45:13Z"
+ "live": [
+  {
+   "id": "12-3-3121023",
+   "week": 12,
+   "teamId": 3,
+   "team": "The Ball $acks",
+   "owner": "Patrick Ammaturo",
+   "player": "Dallas Goedert",
+   "slot": "TE",
+   "nfl": "PHI",
+   "points": 0.0,
+   "gameId": "401873080",
+   "game": "PHI @ DAL",
+   "clock": "8:50 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "12-16-4241478",
+   "week": 12,
+   "teamId": 16,
+   "team": "Manhattan M!dgets",
+   "owner": "Nick Tasolides",
+   "player": "DeVonta Smith",
+   "slot": "WR",
+   "nfl": "PHI",
+   "points": 0.0,
+   "gameId": "401873080",
+   "game": "PHI @ DAL",
+   "clock": "8:50 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "12-3-4426354",
+   "week": 12,
+   "teamId": 3,
+   "team": "The Ball $acks",
+   "owner": "Patrick Ammaturo",
+   "player": "George Pickens",
+   "slot": "WR",
+   "nfl": "DAL",
+   "points": 0.0,
+   "gameId": "401873080",
+   "game": "PHI @ DAL",
+   "clock": "8:50 - 1st",
+   "quarter": 1
+  },
+  {
+   "id": "12-5-3929630",
+   "week": 12,
+   "teamId": 5,
+   "team": "Irvin's in Paris",
+   "owner": "Danny Scott",
+   "player": "Saquon Barkley",
+   "slot": "RB",
+   "nfl": "PHI",
+   "points": 0.0,
+   "gameId": "401873080",
+   "game": "PHI @ DAL",
+   "clock": "8:50 - 1st",
+   "quarter": 1
+  }
+ ],
+ "updated": "2026-11-26T22:00:24Z"
 }
