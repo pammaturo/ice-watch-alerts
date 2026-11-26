@@ -578,23 +578,8 @@
    "points": -0.5,
    "gameId": "401873081",
    "game": "CHI @ DET",
-   "clock": "5:03 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "12-2-4426388",
-   "week": 12,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Jameson Williams",
-   "slot": "WR",
-   "nfl": "DET",
-   "points": 0.0,
-   "gameId": "401873081",
-   "game": "CHI @ DET",
-   "clock": "5:03 - 1st",
-   "quarter": 1
+   "clock": "12:51 - 2nd",
+   "quarter": 2
   },
   {
    "id": "12-17-4430027",
@@ -608,9 +593,9 @@
    "points": 0.0,
    "gameId": "401873081",
    "game": "CHI @ DET",
-   "clock": "5:03 - 1st",
-   "quarter": 1
+   "clock": "12:51 - 2nd",
+   "quarter": 2
   }
  ],
- "updated": "2026-11-26T18:30:17Z"
+ "updated": "2026-11-26T18:45:16Z"
 }
