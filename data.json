@@ -578,22 +578,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "12-3-4426354",
-   "week": 12,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "George Pickens",
-   "slot": "WR",
-   "nfl": "DAL",
-   "points": 0.0,
-   "gameId": "401873080",
-   "game": "PHI @ DAL",
-   "clock": "6:27 - 1st",
-   "quarter": 1
-  }
- ],
- "updated": "2026-11-26T22:15:13Z"
+ "live": [],
+ "updated": "2026-11-26T22:30:16Z"
 }
