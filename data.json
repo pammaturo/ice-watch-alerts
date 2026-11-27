@@ -591,8 +591,8 @@
    "points": 0.0,
    "gameId": "401873082",
    "game": "KC @ BUF",
-   "clock": "7:29 - 1st",
-   "quarter": 1
+   "clock": "15:00 - 2nd",
+   "quarter": 2
   },
   {
    "id": "12-14-4385690",
@@ -606,8 +606,8 @@
    "points": 0.0,
    "gameId": "401873082",
    "game": "KC @ BUF",
-   "clock": "7:29 - 1st",
-   "quarter": 1
+   "clock": "15:00 - 2nd",
+   "quarter": 2
   },
   {
    "id": "12-7-3055899",
@@ -621,8 +621,8 @@
    "points": 0.0,
    "gameId": "401873082",
    "game": "KC @ BUF",
-   "clock": "7:29 - 1st",
-   "quarter": 1
+   "clock": "15:00 - 2nd",
+   "quarter": 2
   },
   {
    "id": "12-1-4688813",
@@ -636,38 +636,8 @@
    "points": 0.0,
    "gameId": "401873082",
    "game": "KC @ BUF",
-   "clock": "7:29 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "12-3-4373678",
-   "week": 12,
-   "teamId": 3,
-   "team": "The Ball $acks",
-   "owner": "Patrick Ammaturo",
-   "player": "Khalil Shakir",
-   "slot": "FLEX",
-   "nfl": "BUF",
-   "points": 0.0,
-   "gameId": "401873082",
-   "game": "KC @ BUF",
-   "clock": "7:29 - 1st",
-   "quarter": 1
-  },
-  {
-   "id": "12-4-3139477",
-   "week": 12,
-   "teamId": 4,
-   "team": "Funnel Guy",
-   "owner": "Ryan Gregware",
-   "player": "Patrick Mahomes",
-   "slot": "QB",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873082",
-   "game": "KC @ BUF",
-   "clock": "7:29 - 1st",
-   "quarter": 1
+   "clock": "15:00 - 2nd",
+   "quarter": 2
   },
   {
    "id": "12-2-4428331",
@@ -681,8 +651,8 @@
    "points": 0.0,
    "gameId": "401873082",
    "game": "KC @ BUF",
-   "clock": "7:29 - 1st",
-   "quarter": 1
+   "clock": "15:00 - 2nd",
+   "quarter": 2
   },
   {
    "id": "12-9-15847",
@@ -696,9 +666,9 @@
    "points": 0.0,
    "gameId": "401873082",
    "game": "KC @ BUF",
-   "clock": "7:29 - 1st",
-   "quarter": 1
+   "clock": "15:00 - 2nd",
+   "quarter": 2
   }
  ],
- "updated": "2026-11-27T01:45:13Z"
+ "updated": "2026-11-27T02:00:17Z"
 }
