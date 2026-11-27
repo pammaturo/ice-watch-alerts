@@ -580,21 +580,6 @@
  ],
  "live": [
   {
-   "id": "12-13-3915416",
-   "week": 12,
-   "teamId": 13,
-   "team": "Kipps Bay Dumpers",
-   "owner": "Jack Engelhardt",
-   "player": "DJ Moore",
-   "slot": "WR",
-   "nfl": "BUF",
-   "points": 0.0,
-   "gameId": "401873082",
-   "game": "KC @ BUF",
-   "clock": "4:32 - 2nd",
-   "quarter": 2
-  },
-  {
    "id": "12-14-4385690",
    "week": 12,
    "teamId": 14,
@@ -606,7 +591,7 @@
    "points": 0.0,
    "gameId": "401873082",
    "game": "KC @ BUF",
-   "clock": "4:32 - 2nd",
+   "clock": "0:01 - 2nd",
    "quarter": 2
   },
   {
@@ -621,7 +606,7 @@
    "points": 0.0,
    "gameId": "401873082",
    "game": "KC @ BUF",
-   "clock": "4:32 - 2nd",
+   "clock": "0:01 - 2nd",
    "quarter": 2
   },
   {
@@ -636,24 +621,9 @@
    "points": 0.0,
    "gameId": "401873082",
    "game": "KC @ BUF",
-   "clock": "4:32 - 2nd",
-   "quarter": 2
-  },
-  {
-   "id": "12-2-4428331",
-   "week": 12,
-   "teamId": 2,
-   "team": "LEBRON RAYMONE JAMES SR.",
-   "owner": "Matt Reddy",
-   "player": "Rashee Rice",
-   "slot": "WR",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873082",
-   "game": "KC @ BUF",
-   "clock": "4:32 - 2nd",
+   "clock": "0:01 - 2nd",
    "quarter": 2
   }
  ],
- "updated": "2026-11-27T02:30:19Z"
+ "updated": "2026-11-27T02:45:12Z"
 }
