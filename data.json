@@ -578,22 +578,6 @@
    "status": "Played"
   }
  ],
- "live": [
-  {
-   "id": "12-14-4385690",
-   "week": 12,
-   "teamId": 14,
-   "team": "Team Egg",
-   "owner": "Thomas Egg",
-   "player": "Dalton Kincaid",
-   "slot": "TE",
-   "nfl": "BUF",
-   "points": 0.0,
-   "gameId": "401873082",
-   "game": "KC @ BUF",
-   "clock": "11:28 - 3rd",
-   "quarter": 3
-  }
- ],
- "updated": "2026-11-27T03:15:14Z"
+ "live": [],
+ "updated": "2026-11-27T03:30:17Z"
 }
