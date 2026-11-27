@@ -591,24 +591,9 @@
    "points": 0.0,
    "gameId": "401873082",
    "game": "KC @ BUF",
-   "clock": "Halftime",
-   "quarter": 2
-  },
-  {
-   "id": "12-1-4688813",
-   "week": 12,
-   "teamId": 1,
-   "team": "May I Take Your Hat Sir",
-   "owner": "Adam Wernoch",
-   "player": "Josh Downs",
-   "slot": "WR",
-   "nfl": "KC",
-   "points": 0.0,
-   "gameId": "401873082",
-   "game": "KC @ BUF",
-   "clock": "Halftime",
-   "quarter": 2
+   "clock": "11:28 - 3rd",
+   "quarter": 3
   }
  ],
- "updated": "2026-11-27T03:00:25Z"
+ "updated": "2026-11-27T03:15:14Z"
 }
